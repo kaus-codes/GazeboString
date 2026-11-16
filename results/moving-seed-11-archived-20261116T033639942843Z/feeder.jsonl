@@ -1,0 +1,2 @@
+{"name": "part_012", "color": "BLUE", "shape": "box", "spawn_sim": 10.376, "confirmed_sim": 10.646, "first_pose": [-1.35, -0.095, 0.7249608], "service_reply": "data: true", "service_error": ""}
+{"name": "part_013", "color": "GREEN", "shape": "cylinder", "spawn_sim": 16.182, "confirmed_sim": 16.404, "first_pose": [-1.35, 0.0, 0.7249608], "service_reply": "data: true", "service_error": ""}

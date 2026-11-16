@@ -1,0 +1,399 @@
+{
+  "source": "/project/results/full-seed-47",
+  "verified_full_run": true,
+  "sequence": {
+    "complete": true,
+    "target": null,
+    "red": 7,
+    "blue": 7,
+    "pairs": 7,
+    "successful_picks": 14,
+    "remaining_pairs": 0,
+    "errors": [],
+    "placements": [
+      {
+        "object_id": "part_011",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 13.006,
+        "wall_monotonic_ns": 18075290110501
+      },
+      {
+        "object_id": "part_000",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 27.656,
+        "wall_monotonic_ns": 18095593662010
+      },
+      {
+        "object_id": "part_022",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 98.258,
+        "wall_monotonic_ns": 18185452467468
+      },
+      {
+        "object_id": "part_001",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 110.602,
+        "wall_monotonic_ns": 18203927573143
+      },
+      {
+        "object_id": "part_024",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 123.71,
+        "wall_monotonic_ns": 18221091825734
+      },
+      {
+        "object_id": "part_019",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 146.706,
+        "wall_monotonic_ns": 18256539685875
+      },
+      {
+        "object_id": "part_032",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 159.906,
+        "wall_monotonic_ns": 18276596099634
+      },
+      {
+        "object_id": "part_037",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 184.358,
+        "wall_monotonic_ns": 18315437398694
+      },
+      {
+        "object_id": "part_028",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 196.604,
+        "wall_monotonic_ns": 18335169785828
+      },
+      {
+        "object_id": "part_039",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 209.106,
+        "wall_monotonic_ns": 18357121888712
+      },
+      {
+        "object_id": "part_031",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 228.81,
+        "wall_monotonic_ns": 18400452064691
+      },
+      {
+        "object_id": "part_038",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 249.702,
+        "wall_monotonic_ns": 18443394860377
+      },
+      {
+        "object_id": "part_036",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 259.81,
+        "wall_monotonic_ns": 18464568200720
+      },
+      {
+        "object_id": "part_043",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 276.454,
+        "wall_monotonic_ns": 18502658417320
+      }
+    ]
+  },
+  "attempts": 16,
+  "verified_placements": 14,
+  "failed_attempts": 2,
+  "incorrect_picks": 0,
+  "wall_seconds": 443.39338741,
+  "sim_seconds": 273.16200000000003,
+  "real_time_factor_measured": 0.6160714339824169,
+  "seven_pair_elapsed_time_wall_s": 443.39338741,
+  "placement_success_rate_per_attempt": 0.875,
+  "grasp_attempts": 16,
+  "grasp_success_rate": 1.0,
+  "confirmed_grasps": 16,
+  "confirmed_grasps_per_pick_attempt": 1.0,
+  "throughput_per_wall_minute": 1.8944802152028106,
+  "processing_latency_ms": {
+    "n": 3831,
+    "mean": 10.78854401513965,
+    "median": 9.502083,
+    "min": 8.093417,
+    "max": 167.462209,
+    "std_population": 5.529839732002059
+  },
+  "matched_camera_color_accuracy": 0.9994138580699183,
+  "matched_camera_samples": 23885,
+  "localization_error_m": {
+    "n": 23885,
+    "mean": 0.010498582300113054,
+    "median": 0.010311241628432319,
+    "min": 0.000892858249357245,
+    "max": 0.039656014722088725,
+    "std_population": 0.0018754148329391549
+  },
+  "metrics": {
+    "planning_wall_s": {
+      "n": 14,
+      "mean": 0.10282123521428571,
+      "median": 0.075708,
+      "min": 0.039050125,
+      "max": 0.465314959,
+      "std_population": 0.10665272074617725
+    },
+    "planning_sim_s": {
+      "n": 14,
+      "mean": 0.04128571428571145,
+      "median": 0.030000000000008242,
+      "min": 0.02199999999999136,
+      "max": 0.1280000000000001,
+      "std_population": 0.028179091974191346
+    },
+    "reach_and_grasp_wall_s": {
+      "n": 14,
+      "mean": 5.742234374714286,
+      "median": 5.487836544,
+      "min": 3.765769793,
+      "max": 8.339159379,
+      "std_population": 1.6042685455992527
+    },
+    "reach_and_grasp_sim_s": {
+      "n": 14,
+      "mean": 3.305571428571429,
+      "median": 3.2920000000000016,
+      "min": 2.9679999999999893,
+      "max": 3.4959999999999996,
+      "std_population": 0.15261937448891813
+    },
+    "grasp_and_lift_wall_s": {
+      "n": 14,
+      "mean": 2.2845851527142855,
+      "median": 2.171968188,
+      "min": 1.513072751,
+      "max": 3.199278043,
+      "std_population": 0.5416184754890184
+    },
+    "grasp_and_lift_sim_s": {
+      "n": 14,
+      "mean": 1.3385714285714359,
+      "median": 1.3280000000000172,
+      "min": 1.186,
+      "max": 1.5220000000000056,
+      "std_population": 0.09033723665538325
+    },
+    "transport_wall_s": {
+      "n": 14,
+      "mean": 4.293395379928572,
+      "median": 3.834115544,
+      "min": 3.087961043,
+      "max": 6.608917461,
+      "std_population": 1.1501369740359826
+    },
+    "transport_sim_s": {
+      "n": 14,
+      "mean": 2.6075714285714255,
+      "median": 2.4069999999999965,
+      "min": 2.088000000000008,
+      "max": 5.025999999999996,
+      "std_population": 0.7365297699623666
+    },
+    "placement_wall_s": {
+      "n": 14,
+      "mean": 3.430160281285714,
+      "median": 3.0310981055,
+      "min": 0.899362751,
+      "max": 6.48695517,
+      "std_population": 1.8898557484851026
+    },
+    "placement_sim_s": {
+      "n": 14,
+      "mean": 2.1212857142857136,
+      "median": 2.1629999999999967,
+      "min": 0.8480000000000025,
+      "max": 4.003999999999991,
+      "std_population": 1.0309572825133697
+    },
+    "pick_and_place_wall_s": {
+      "n": 14,
+      "mean": 15.9502558555,
+      "median": 16.485484091,
+      "min": 9.577066838,
+      "max": 22.65132276,
+      "std_population": 3.875079186077963
+    },
+    "pick_and_place_sim_s": {
+      "n": 14,
+      "mean": 9.443285714285715,
+      "median": 9.447000000000003,
+      "min": 7.71599999999998,
+      "max": 11.213999999999999,
+      "std_population": 1.1202534425344148
+    },
+    "motion_planning_wall_s": {
+      "n": 14,
+      "mean": 0.21975943135714285,
+      "median": 0.179563021,
+      "min": 0.129938331,
+      "max": 0.625008915,
+      "std_population": 0.12642427201602657
+    },
+    "ompl_server_planning_s": {
+      "n": 14,
+      "mean": 0.10362214621428571,
+      "median": 0.0937012095,
+      "min": 0.06632350000000001,
+      "max": 0.20381675,
+      "std_population": 0.03642293218034869
+    },
+    "color_recognition_wall_s": {
+      "n": 14,
+      "mean": 0.2730928542142857,
+      "median": 0.181854354,
+      "min": 0.128809083,
+      "max": 1.387877959,
+      "std_population": 0.3117013515801417
+    },
+    "detection_to_selection_wall_s": {
+      "n": 14,
+      "mean": 26.7909774735,
+      "median": 23.7384511355,
+      "min": 3.385341876,
+      "max": 74.698953993,
+      "std_population": 23.254608618816288
+    },
+    "detection_latency_wall_s": {
+      "n": 13,
+      "mean": 1.3696947024615385,
+      "median": 1.598815667,
+      "min": 0.321434125,
+      "max": 2.675990668,
+      "std_population": 0.7572754996423853
+    }
+  },
+  "pairs": [
+    {
+      "pair": 1,
+      "wall_s": 36.3286321,
+      "cumulative_wall_s": 36.3286321
+    },
+    {
+      "pair": 2,
+      "wall_s": 108.333911133,
+      "cumulative_wall_s": 144.662543233
+    },
+    {
+      "pair": 3,
+      "wall_s": 52.612112732,
+      "cumulative_wall_s": 197.274655965
+    },
+    {
+      "pair": 4,
+      "wall_s": 58.897712819,
+      "cumulative_wall_s": 256.172368784
+    },
+    {
+      "pair": 5,
+      "wall_s": 41.684490018,
+      "cumulative_wall_s": 297.856858802
+    },
+    {
+      "pair": 6,
+      "wall_s": 86.272971665,
+      "cumulative_wall_s": 384.129830467
+    },
+    {
+      "pair": 7,
+      "wall_s": 59.263556943,
+      "cumulative_wall_s": 443.39338741
+    }
+  ],
+  "validation_errors": [],
+  "notes": [
+    "Wall times use host monotonic timestamps inside the same container; simulation times use Gazebo /clock.",
+    "Startup before controller readiness is excluded from experiment elapsed time.",
+    "Initial objects already visible when evaluation starts are left-censored for detection latency.",
+    "Negative raw entry-to-detection values are retained and excluded from latency aggregates as boundary alignment uncertainty.",
+    "Gripper is a contact-gated fixed-joint suction approximation, not fluid suction."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "hsv_ranges": {
+    "RED": [[[0,110,65],[10,255,255]],[[170,110,65],[179,255,255]]],
+    "BLUE": [[[100,100,55],[135,255,255]]],
+    "GREEN": [[[38,100,55],[88,255,255]]],
+    "YELLOW": [[[22,110,80],[37,255,255]]],
+    "ORANGE": [[[11,130,80],[21,255,255]]]
+  },
+  "morphology_kernel": 3,
+  "minimum_contour_area_px": 55,
+  "maximum_contour_area_px": 3000,
+  "track_max_age_sim_s": 0.8,
+  "association_gate_m": 0.055
+}

@@ -1,0 +1,15 @@
+{
+  "passed": false,
+  "frames_processed": 0,
+  "frames_received": 232,
+  "wall_seconds": 25.035822968999923,
+  "sim_first": null,
+  "sim_last": null,
+  "detected_colors": [],
+  "matched_evaluation_samples": 0,
+  "color_accuracy_matched": null,
+  "localization_error_mean_m": null,
+  "processing_latency_ms": {},
+  "verified_placements": 0,
+  "seven_pair_elapsed_time": null
+}

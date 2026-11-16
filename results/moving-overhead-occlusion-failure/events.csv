@@ -1,0 +1,5 @@
+object_id,event,wall_monotonic_ns,sim_time,details
+attempt_001_track_5,target_selected,1974454222446,3.222,"{""track"": {""color"": ""RED"", ""shape"": ""ROUND"", ""confidence"": 0.8565022614110668, ""u"": 328.3003663003663, ""v"": 136.9029304029304, ""bbox"": [320, 127, 18, 21], ""xyz"": [0.21740315506697702, -0.017503173985094364, 0.7349999999999999], ""area"": 273.0, ""position_uncertainty_m"": 0.012, ""id"": 5, ""first_seen"": 2.906, ""last_seen"": 3.17, ""velocity"": [0.030039387062637098, -0.0003700963845216509, 0.0], ""hits"": 5, ""first_seen_wall_ns"": 1973914013487, ""eligible"": true}}"
+attempt_001_track_5,planning_start,1974474706071,3.226,{}
+attempt_001_track_5,planning_complete,1974556565029,3.274,{}
+attempt_001_track_5,movement_start,1974560134238,3.2800000000000002,{}

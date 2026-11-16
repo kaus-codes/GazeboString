@@ -1,0 +1,8 @@
+{
+  "kind": "actual moving Gazebo experiment",
+  "seed": 47,
+  "goal_placements": 14,
+  "conveyor_speed_m_s": 0.04,
+  "ros": "jazzy",
+  "rgb_topic": "/sorting/rgb"
+}

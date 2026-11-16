@@ -1,0 +1,74 @@
+{
+  "camera": {
+    "position": [
+      0.0,
+      -0.55,
+      1.65
+    ],
+    "rpy": [
+      0.0,
+      1.03,
+      1.5707963267948966
+    ],
+    "width": 640,
+    "height": 480,
+    "horizontal_fov": 1.05,
+    "rate_hz": 15,
+    "nominal_surface_z": 0.735
+  },
+  "belt": {
+    "speed_m_s": 0.04,
+    "feed_interval_sim_s": 5.5,
+    "loading_x": -1.35,
+    "surface_z": 0.7
+  },
+  "robot": {
+    "base_position": [
+      0.0,
+      0.48,
+      0.7
+    ],
+    "base_rpy": [
+      0.0,
+      0.0,
+      -1.5707963267948966
+    ],
+    "home": [
+      0,
+      -0.5,
+      0,
+      -2.0,
+      0,
+      1.5,
+      0.785398
+    ]
+  },
+  "bins": {
+    "RED": [
+      -0.35,
+      0.68
+    ],
+    "BLUE": [
+      0.35,
+      0.68
+    ]
+  },
+  "grasp": {
+    "pregrasp_flange_z": 1.02,
+    "minimum_flange_z": 0.916,
+    "lift_flange_z": 1.14,
+    "placement_flange_z": 1.11,
+    "maximum_coasting_sim_s": 1.6,
+    "descent_step_m": 0.03,
+    "segment_sim_s": 0.18,
+    "tool_offset_m": 0.18
+  },
+  "experiment": {
+    "pairs": 7,
+    "max_attempts": 42,
+    "max_failed_attempts": 8,
+    "max_sim_s": 650,
+    "max_wall_s": 1500,
+    "required_color_timeout_wall_s": 120
+  }
+}

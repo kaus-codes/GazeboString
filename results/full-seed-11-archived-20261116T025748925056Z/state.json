@@ -1,0 +1,79 @@
+{
+  "state": "FAILED",
+  "current_target": "RED",
+  "selected": {
+    "color": "RED",
+    "shape": "ROUND",
+    "confidence": 0.8668932652923368,
+    "u": 140.57440125638004,
+    "v": 243.84255987436197,
+    "bbox": [
+      129,
+      232,
+      24,
+      25
+    ],
+    "xyz": [
+      -0.3451887708612337,
+      -0.009154014109952313,
+      0.7349999999999999
+    ],
+    "area": 424.5,
+    "position_uncertainty_m": 0.012,
+    "color_confirmed_sim": 102.038,
+    "color_confirmed_wall_ns": 3162598066239,
+    "id": 23,
+    "first_seen": 101.906,
+    "last_seen": 106.592,
+    "velocity": [
+      0.039252992942163265,
+      -2.722117997036423e-05,
+      -6.23700265721005e-16
+    ],
+    "hits": 67,
+    "first_seen_wall_ns": 3162327917697,
+    "eligible": true
+  },
+  "attempted_picks": 8,
+  "failed_attempts": 6,
+  "incorrect_picks": 0,
+  "wall_elapsed": 172.268186246,
+  "sim_time": 110.262,
+  "sequence": {
+    "complete": false,
+    "target": "RED",
+    "red": 1,
+    "blue": 1,
+    "pairs": 1,
+    "successful_picks": 2,
+    "remaining_pairs": 6,
+    "errors": [],
+    "placements": [
+      {
+        "object_id": "part_019",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 83.402,
+        "wall_monotonic_ns": 3126571749722
+      },
+      {
+        "object_id": "part_022",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 106.622,
+        "wall_monotonic_ns": 3174480876994
+      }
+    ]
+  },
+  "latest_perception_ms": 12.681208
+}

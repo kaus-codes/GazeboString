@@ -1,0 +1,127 @@
+object_id,event,wall_monotonic_ns,sim_time,details
+attempt_001_track_1,target_selected,11036127629464,4.21,"{""track"": {""color"": ""RED"", ""shape"": ""BOX"", ""confidence"": 0.8899223214591246, ""u"": 126.8578110383536, ""v"": 287.46055503585904, ""bbox"": [112, 274, 30, 28], ""xyz"": [-0.354824781204828, -0.1022347910862933, 0.7349999999999999], ""area"": 534.5, ""position_uncertainty_m"": 0.004, ""color_confirmed_sim"": 2.774, ""color_confirmed_wall_ns"": 11034732339297, ""id"": 1, ""first_seen"": 2.642, ""last_seen"": 4.16, ""velocity"": [0.03827042092689666, 0.0004221790720984239, -5.87010654544286e-16], ""hits"": 24, ""first_seen_wall_ns"": 11034606498463, ""eligible"": true}}"
+attempt_001_track_1,planning_start,11036130477464,4.212,{}
+attempt_001_track_1,planning_complete,11036196233839,4.2780000000000005,{}
+attempt_001_track_1,movement_start,11036223564172,4.304,"{""source"": ""joint_state_change""}"
+attempt_001_track_1,grasp_start,11039271044257,6.992,{}
+attempt_001_track_1,grasp_confirmed,11040515615591,7.82,"{""entity"": ""part_009""}"
+attempt_001_track_1,lift_confirmed,11041785029967,9.066,"{""entity"": ""part_009""}"
+attempt_001_track_1,release,11045312839760,12.188,"{""entity"": ""part_009""}"
+attempt_001_track_1,placement_confirmed,11046533809469,13.408,"{""entity"": ""part_009"", ""evaluated_color"": ""RED"", ""bin_color"": ""RED"", ""eligible_entry"": {""sim_time"": 1.1, ""wall_monotonic_ns"": 11033012999046, ""left_censored"": true, ""definition"": ""first physical footprint intersection with calibrated detection region""}, ""camera_first_detection_sim"": 2.642, ""camera_first_detection_wall_ns"": 11034606498463, ""camera_color_confirmed_sim"": 2.774, ""camera_color_confirmed_wall_ns"": 11034732339297}"
+attempt_002_track_9,target_selected,11049755362137,16.292,"{""track"": {""color"": ""BLUE"", ""shape"": ""ROUND"", ""confidence"": 0.8882999353587588, ""u"": 156.34641300039632, ""v"": 243.85414189456992, ""bbox"": [145, 232, 24, 25], ""xyz"": [-0.3148417657320173, -0.009179896753680583, 0.735], ""area"": 420.5, ""position_uncertainty_m"": 0.012, ""color_confirmed_sim"": 10.892, ""color_confirmed_wall_ns"": 11043865831384, ""id"": 9, ""first_seen"": 10.76, ""last_seen"": 16.172, ""velocity"": [0.04062495913305718, -0.0010107154112771375, 4.1426793213279965e-16], ""hits"": 81, ""first_seen_wall_ns"": 11043749177301, ""eligible"": true}}"
+attempt_002_track_9,planning_start,11049763143971,16.298000000000002,{}
+attempt_002_track_9,planning_complete,11049849645721,16.362,{}
+attempt_002_track_9,movement_start,11049882581262,16.388,"{""source"": ""joint_state_change""}"
+attempt_002_track_9,grasp_start,11052419251930,18.862000000000002,{}
+attempt_002_track_9,grasp_confirmed,11053187885763,19.626,"{""entity"": ""part_005""}"
+attempt_002_track_9,lift_confirmed,11054705645431,21.0,"{""entity"": ""part_005""}"
+attempt_002_track_9,release,11057871553640,24.162,"{""entity"": ""part_005""}"
+attempt_002_track_9,placement_confirmed,11061023261892,27.108,"{""entity"": ""part_005"", ""evaluated_color"": ""BLUE"", ""bin_color"": ""BLUE"", ""eligible_entry"": {""sim_time"": 10.45, ""wall_monotonic_ns"": 11043380653384, ""left_censored"": false, ""definition"": ""first physical footprint intersection with calibrated detection region""}, ""camera_first_detection_sim"": 10.76, ""camera_first_detection_wall_ns"": 11043749177301, ""camera_color_confirmed_sim"": 10.892, ""camera_color_confirmed_wall_ns"": 11043865831384}"
+attempt_003_track_13,target_selected,11063979013143,30.05,"{""track"": {""color"": ""RED"", ""shape"": ""ROUND"", ""confidence"": 0.8826183104820876, ""u"": 277.27430555555554, ""v"": 203.5, ""bbox"": [269, 195, 18, 18], ""xyz"": [-0.08595140073033727, 0.08511843417246401, 0.735], ""area"": 240.0, ""position_uncertainty_m"": 0.012, ""color_confirmed_sim"": 20.594, ""color_confirmed_wall_ns"": 11054234955472, ""id"": 13, ""first_seen"": 20.462, ""last_seen"": 29.966, ""velocity"": [0.012081366901064199, -0.00028365438370272903, -7.284032009580466e-17], ""hits"": 142, ""first_seen_wall_ns"": 11054101630264, ""eligible"": true}}"
+attempt_003_track_13,planning_start,11063981251685,30.052,{}
+attempt_003_track_13,planning_complete,11064024361310,30.096,{}
+attempt_003_track_13,movement_start,11064052762102,30.124,"{""source"": ""joint_state_change""}"
+attempt_003_track_13,grasp_start,11066480535478,32.396,{}
+attempt_003_track_13,grasp_confirmed,11067442100395,33.348,"{""entity"": ""part_011""}"
+attempt_003_track_13,lift_confirmed,11068982613604,34.876,"{""entity"": ""part_011""}"
+attempt_003_track_13,release,11071180721397,36.936,"{""entity"": ""part_011""}"
+attempt_003_track_13,placement_confirmed,11075278249815,40.9,"{""entity"": ""part_011"", ""evaluated_color"": ""RED"", ""bin_color"": ""RED"", ""eligible_entry"": {""sim_time"": 1.1, ""wall_monotonic_ns"": 11033013021921, ""left_censored"": true, ""definition"": ""first physical footprint intersection with calibrated detection region""}, ""camera_first_detection_sim"": 20.462, ""camera_first_detection_wall_ns"": 11054101630264, ""camera_color_confirmed_sim"": 20.594, ""camera_color_confirmed_wall_ns"": 11054234955472}"
+attempt_004_track_14,target_selected,11078269984567,43.832,"{""track"": {""color"": ""BLUE"", ""shape"": ""ROUND"", ""confidence"": 0.8844957983193278, ""u"": 139.14924391847467, ""v"": 203.5930309007232, ""bbox"": [130, 195, 19, 18], ""xyz"": [-0.3637796734519114, 0.08489113680581728, 0.735], ""area"": 253.5, ""position_uncertainty_m"": 0.012, ""color_confirmed_sim"": 29.174, ""color_confirmed_wall_ns"": 11063140394268, ""id"": 14, ""first_seen"": 29.042, ""last_seen"": 43.76, ""velocity"": [0.011422914955143462, -0.001322344190191863, 4.8778006678667434e-18], ""hits"": 220, ""first_seen_wall_ns"": 11063008566476, ""eligible"": true}}"
+attempt_004_track_14,planning_start,11078272334192,43.834,{}
+attempt_004_track_14,planning_complete,11078435653025,43.864,{}
+attempt_004_track_14,movement_start,11078460334650,43.888,"{""source"": ""joint_state_change""}"
+attempt_004_track_14,grasp_start,11081245039360,46.544,{}
+attempt_004_track_14,grasp_confirmed,11082010827402,47.312,"{""entity"": ""part_001""}"
+attempt_004_track_14,lift_confirmed,11083416910236,48.708,"{""entity"": ""part_001""}"
+attempt_004_track_14,release,11086271785862,51.422,"{""entity"": ""part_001""}"
+attempt_004_track_14,placement_confirmed,11088554291821,53.6,"{""entity"": ""part_001"", ""evaluated_color"": ""BLUE"", ""bin_color"": ""BLUE"", ""eligible_entry"": {""sim_time"": 28.0, ""wall_monotonic_ns"": 11061916446351, ""left_censored"": false, ""definition"": ""first physical footprint intersection with calibrated detection region""}, ""camera_first_detection_sim"": 29.042, ""camera_first_detection_wall_ns"": 11063008566476, ""camera_color_confirmed_sim"": 29.174, ""camera_color_confirmed_wall_ns"": 11063140394268}"
+attempt_005_track_19,target_selected,11103945403787,67.568,"{""track"": {""color"": ""RED"", ""shape"": ""BOX"", ""confidence"": 0.8882818941104779, ""u"": 103.31184895833333, ""v"": 287.44921875, ""bbox"": [88, 273, 31, 30], ""xyz"": [-0.39808613092136347, -0.10221168987690088, 0.7350000000000001], ""area"": 512.0, ""position_uncertainty_m"": 0.004, ""color_confirmed_sim"": 64.352, ""color_confirmed_wall_ns"": 11100558237160, ""id"": 19, ""first_seen"": 64.22, ""last_seen"": 67.52, ""velocity"": [0.03876741278265185, 0.0002728306979206673, 7.293405362143784e-16], ""hits"": 51, ""first_seen_wall_ns"": 11100426006660, ""eligible"": true}}"
+attempt_005_track_19,planning_start,11103948738454,67.572,{}
+attempt_005_track_19,planning_complete,11104001328704,67.622,{}
+attempt_005_track_19,movement_start,11104032084579,67.652,"{""source"": ""joint_state_change""}"
+attempt_005_track_19,grasp_start,11106765687288,70.358,{}
+attempt_005_track_19,grasp_confirmed,11107493212539,71.072,"{""entity"": ""part_018""}"
+attempt_005_track_19,lift_confirmed,11108688553998,72.254,"{""entity"": ""part_018""}"
+attempt_005_track_19,release,11111996590083,75.316,"{""entity"": ""part_018""}"
+attempt_005_track_19,placement_confirmed,11115878428417,78.956,"{""entity"": ""part_018"", ""evaluated_color"": ""RED"", ""bin_color"": ""RED"", ""eligible_entry"": {""sim_time"": 63.8, ""wall_monotonic_ns"": 11099901189619, ""left_censored"": false, ""definition"": ""first physical footprint intersection with calibrated detection region""}, ""camera_first_detection_sim"": 64.22, ""camera_first_detection_wall_ns"": 11100426006660, ""camera_color_confirmed_sim"": 64.352, ""camera_color_confirmed_wall_ns"": 11100558237160}"
+attempt_006_track_23,target_selected,11122854157212,84.726,"{""track"": {""color"": ""BLUE"", ""shape"": ""ROUND"", ""confidence"": 0.8895089659795542, ""u"": 112.8873510188389, ""v"": 243.837754709727, ""bbox"": [101, 232, 25, 25], ""xyz"": [-0.39845670345905115, -0.009143275692285235, 0.7349999999999999], ""area"": 433.5, ""position_uncertainty_m"": 0.012, ""color_confirmed_sim"": 81.512, ""color_confirmed_wall_ns"": 11119127358710, ""id"": 23, ""first_seen"": 81.38, ""last_seen"": 84.68, ""velocity"": [0.040102567934360164, -9.277842887013278e-05, -6.260600057541163e-16], ""hits"": 51, ""first_seen_wall_ns"": 11118995078294, ""eligible"": true}}"
+attempt_006_track_23,planning_start,11122855628545,84.728,{}
+attempt_006_track_23,planning_complete,11122902466171,84.774,{}
+attempt_006_track_23,movement_start,11122929183712,84.8,"{""source"": ""joint_state_change""}"
+attempt_006_track_23,grasp_start,11125568111922,87.372,{}
+attempt_006_track_23,grasp_confirmed,11126289030380,88.084,"{""entity"": ""part_021""}"
+attempt_006_track_23,lift_confirmed,11127632809881,89.402,"{""entity"": ""part_021""}"
+attempt_006_track_23,release,11130726193841,92.162,"{""entity"": ""part_021""}"
+attempt_006_track_23,placement_confirmed,11132524406508,93.852,"{""entity"": ""part_021"", ""evaluated_color"": ""BLUE"", ""bin_color"": ""BLUE"", ""eligible_entry"": {""sim_time"": 81.1, ""wall_monotonic_ns"": 11118673359668, ""left_censored"": false, ""definition"": ""first physical footprint intersection with calibrated detection region""}, ""camera_first_detection_sim"": 81.38, ""camera_first_detection_wall_ns"": 11118995078294, ""camera_color_confirmed_sim"": 81.512, ""camera_color_confirmed_wall_ns"": 11119127358710}"
+attempt_007_track_28,target_selected,11154035575893,113.57,"{""track"": {""color"": ""RED"", ""shape"": ""BOX"", ""confidence"": 0.8896931389540218, ""u"": 103.45046728971963, ""v"": 287.6473520249221, ""bbox"": [90, 274, 28, 29], ""xyz"": [-0.39775001015563505, -0.10261537012487798, 0.735], ""area"": 535.0, ""position_uncertainty_m"": 0.004, ""color_confirmed_sim"": 110.288, ""color_confirmed_wall_ns"": 11150594016141, ""id"": 28, ""first_seen"": 110.156, ""last_seen"": 113.522, ""velocity"": [0.03938194554386558, -0.0004944090469874298, -1.4102890198222789e-16], ""hits"": 52, ""first_seen_wall_ns"": 11150457476474, ""eligible"": true}}"
+attempt_007_track_28,planning_start,11154037210893,113.57,{}
+attempt_007_track_28,planning_complete,11154091157851,113.62,{}
+attempt_007_track_28,movement_start,11154120224101,113.648,"{""source"": ""joint_state_change""}"
+attempt_007_track_28,grasp_start,11156905735186,116.36,{}
+attempt_007_track_28,grasp_confirmed,11157668323978,117.062,"{""entity"": ""part_026""}"
+attempt_007_track_28,lift_confirmed,11159063925978,118.238,"{""entity"": ""part_026""}"
+attempt_007_track_28,release,11162831236272,121.394,"{""entity"": ""part_026""}"
+attempt_007_track_28,placement_confirmed,11165900362398,123.156,"{""entity"": ""part_026"", ""evaluated_color"": ""RED"", ""bin_color"": ""RED"", ""eligible_entry"": {""sim_time"": 109.8, ""wall_monotonic_ns"": 11150056994141, ""left_censored"": false, ""definition"": ""first physical footprint intersection with calibrated detection region""}, ""camera_first_detection_sim"": 110.156, ""camera_first_detection_wall_ns"": 11150457476474, ""camera_color_confirmed_sim"": 110.288, ""camera_color_confirmed_wall_ns"": 11150594016141}"
+attempt_008_track_22,target_selected,11169843349192,126.106,"{""track"": {""color"": ""BLUE"", ""shape"": ""ROUND"", ""confidence"": 0.8822805875117574, ""u"": 330.1, ""v"": 203.4816326530612, ""bbox"": [321, 195, 19, 18], ""xyz"": [0.0203186210680746, 0.08516331577600111, 0.735], ""area"": 245.0, ""position_uncertainty_m"": 0.012, ""color_confirmed_sim"": 78.542, ""color_confirmed_wall_ns"": 11115499543542, ""id"": 22, ""first_seen"": 78.41, ""last_seen"": 125.996, ""velocity"": [0.011414655712200536, 9.325599144521617e-06, -1.898894577086695e-16], ""hits"": 699, ""first_seen_wall_ns"": 11115367626875, ""eligible"": true}}"
+attempt_008_track_22,planning_start,11169847627150,126.108,{}
+attempt_008_track_22,planning_complete,11169953356275,126.14,{}
+attempt_008_track_22,movement_start,11169975095984,126.16,"{""source"": ""joint_state_change""}"
+attempt_008_track_22,grasp_start,11174883762277,128.318,{}
+attempt_008_track_22,grasp_confirmed,11176738271986,129.328,"{""entity"": ""part_012""}"
+attempt_008_track_22,lift_confirmed,11181972267905,130.846,"{""entity"": ""part_012""}"
+attempt_008_track_22,release,11185456592782,132.936,"{""entity"": ""part_012""}"
+attempt_008_track_22,placement_confirmed,11190312366784,136.208,"{""entity"": ""part_012"", ""evaluated_color"": ""BLUE"", ""bin_color"": ""BLUE"", ""eligible_entry"": {""sim_time"": 77.4, ""wall_monotonic_ns"": 11114186627500, ""left_censored"": false, ""definition"": ""first physical footprint intersection with calibrated detection region""}, ""camera_first_detection_sim"": 78.41, ""camera_first_detection_wall_ns"": 11115367626875, ""camera_color_confirmed_sim"": 78.542, ""camera_color_confirmed_wall_ns"": 11115499543542}"
+attempt_009_track_33,target_selected,11193105953286,138.262,"{""track"": {""color"": ""RED"", ""shape"": ""ROUND"", ""confidence"": 0.8897952366636604, ""u"": 139.11243507485486, ""v"": 287.5276504735716, ""bbox"": [125, 274, 29, 28], ""xyz"": [-0.332288559078459, -0.10237150783162097, 0.7349999999999999], ""area"": 545.5, ""position_uncertainty_m"": 0.012, ""color_confirmed_sim"": 133.454, ""color_confirmed_wall_ns"": 11186238785907, ""id"": 33, ""first_seen"": 133.19, ""last_seen"": 138.206, ""velocity"": [0.03914432863902813, -2.909143289139395e-05, -5.30432631380686e-16], ""hits"": 70, ""first_seen_wall_ns"": 11185825232865, ""eligible"": true}}"
+attempt_009_track_33,planning_start,11193114123994,138.264,{}
+attempt_009_track_33,planning_complete,11193187471661,138.306,{}
+attempt_009_track_33,movement_start,11193223332202,138.332,"{""source"": ""joint_state_change""}"
+attempt_009_track_33,grasp_start,11197462440746,140.986,{}
+attempt_009_track_33,grasp_confirmed,11198488974247,141.678,"{""entity"": ""part_030""}"
+attempt_009_track_33,lift_confirmed,11200954338873,142.912,"{""entity"": ""part_030""}"
+attempt_009_track_33,release,11213461284753,145.838,"{""entity"": ""part_030""}"
+attempt_009_track_33,placement_confirmed,11218493618423,148.956,"{""entity"": ""part_030"", ""evaluated_color"": ""RED"", ""bin_color"": ""RED"", ""eligible_entry"": {""sim_time"": 132.9, ""wall_monotonic_ns"": 11185412284782, ""left_censored"": false, ""definition"": ""first physical footprint intersection with calibrated detection region""}, ""camera_first_detection_sim"": 133.19, ""camera_first_detection_wall_ns"": 11185825232865, ""camera_color_confirmed_sim"": 133.454, ""camera_color_confirmed_wall_ns"": 11186238785907}"
+attempt_010_track_35,target_selected,11222277967633,151.974,"{""track"": {""color"": ""BLUE"", ""shape"": ""BOX"", ""confidence"": 0.8842474564378435, ""u"": 307.43152173913046, ""v"": 287.48478260869564, ""bbox"": [297, 274, 22, 28], ""xyz"": [-0.023089185720843463, -0.10228416048879524, 0.735], ""area"": 460.0, ""position_uncertainty_m"": 0.004, ""color_confirmed_sim"": 139.13, ""color_confirmed_wall_ns"": 11194113067203, ""id"": 35, ""first_seen"": 138.998, ""last_seen"": 151.868, ""velocity"": [0.039455087749598834, 0.00029158275468528136, 8.205362196700714e-17], ""hits"": 180, ""first_seen_wall_ns"": 11193967339119, ""eligible"": true}}"
+attempt_010_track_35,planning_start,11222280844841,151.976,{}
+attempt_010_track_35,planning_complete,11222341883216,152.024,{}
+attempt_010_track_35,movement_start,11222368757341,152.044,"{""source"": ""joint_state_change""}"
+attempt_010_track_35,grasp_start,11225165019092,154.276,{}
+attempt_010_track_35,grasp_confirmed,11226198473385,155.19,"{""entity"": ""part_031""}"
+attempt_010_track_35,lift_confirmed,11227648282469,156.458,"{""entity"": ""part_031""}"
+attempt_010_track_35,release,11230712066720,158.644,"{""entity"": ""part_031""}"
+attempt_010_track_35,placement_confirmed,11232964792429,160.51,"{""entity"": ""part_031"", ""evaluated_color"": ""BLUE"", ""bin_color"": ""BLUE"", ""eligible_entry"": {""sim_time"": 138.7, ""wall_monotonic_ns"": 11193609368786, ""left_censored"": false, ""definition"": ""first physical footprint intersection with calibrated detection region""}, ""camera_first_detection_sim"": 138.998, ""camera_first_detection_wall_ns"": 11193967339119, ""camera_color_confirmed_sim"": 139.13, ""camera_color_confirmed_wall_ns"": 11194113067203}"
+attempt_011_track_36,target_selected,11235504522097,162.462,"{""track"": {""color"": ""RED"", ""shape"": ""BOX"", ""confidence"": 0.8827419856831622, ""u"": 288.4752155172414, ""v"": 287.46875, ""bbox"": [276, 274, 25, 28], ""xyz"": [-0.05791422405786239, -0.10225149053821675, 0.7350000000000001], ""area"": 464.0, ""position_uncertainty_m"": 0.004, ""color_confirmed_sim"": 150.548, ""color_confirmed_wall_ns"": 11220754381882, ""id"": 36, ""first_seen"": 150.416, ""last_seen"": 162.362, ""velocity"": [0.03871887088432163, 0.00011461921291080584, 4.546898324753526e-16], ""hits"": 178, ""first_seen_wall_ns"": 11220608211924, ""eligible"": true}}"
+attempt_011_track_36,planning_start,11235509221847,162.466,{}
+attempt_011_track_36,planning_complete,11235577322680,162.506,{}
+attempt_011_track_36,movement_start,11235618802889,162.532,"{""source"": ""joint_state_change""}"
+attempt_011_track_36,grasp_start,11238696838890,164.842,{}
+attempt_011_track_36,grasp_confirmed,11240029071016,165.71,"{""entity"": ""part_033""}"
+attempt_011_track_36,lift_confirmed,11241626857808,166.97,"{""entity"": ""part_033""}"
+attempt_011_track_36,release,11245363812810,169.912,"{""entity"": ""part_033""}"
+attempt_011_track_36,placement_confirmed,11249218586520,173.204,"{""entity"": ""part_033"", ""evaluated_color"": ""RED"", ""bin_color"": ""RED"", ""eligible_entry"": {""sim_time"": 150.0, ""wall_monotonic_ns"": 11219890034757, ""left_censored"": false, ""definition"": ""first physical footprint intersection with calibrated detection region""}, ""camera_first_detection_sim"": 150.416, ""camera_first_detection_wall_ns"": 11220608211924, ""camera_color_confirmed_sim"": 150.548, ""camera_color_confirmed_wall_ns"": 11220754381882}"
+attempt_012_track_34,target_selected,11253385440564,176.226,"{""track"": {""color"": ""BLUE"", ""shape"": ""ROUND"", ""confidence"": 0.8826546003016591, ""u"": 287.5223577235772, ""v"": 203.47154471544715, ""bbox"": [279, 195, 18, 18], ""xyz"": [-0.06533746948069204, 0.08518796698997011, 0.7350000000000001], ""area"": 246.0, ""position_uncertainty_m"": 0.012, ""color_confirmed_sim"": 136.16, ""color_confirmed_wall_ns"": 11190287721701, ""id"": 34, ""first_seen"": 135.962, ""last_seen"": 176.156, ""velocity"": [0.01181341494639041, 0.00015265481930160665, 2.861386916813298e-16], ""hits"": 581, ""first_seen_wall_ns"": 11189776519076, ""eligible"": true}}"
+attempt_012_track_34,planning_start,11253396318564,176.23,{}
+attempt_012_track_34,planning_complete,11253487336564,176.262,{}
+attempt_012_track_34,movement_start,11253524966731,176.288,"{""source"": ""joint_state_change""}"
+attempt_012_track_34,grasp_start,11256364231190,178.556,{}
+attempt_012_track_34,grasp_confirmed,11257650031483,179.546,"{""entity"": ""part_022""}"
+attempt_012_track_34,lift_confirmed,11259458047858,181.046,"{""entity"": ""part_022""}"
+attempt_012_track_34,release,11262236273235,182.992,"{""entity"": ""part_022""}"
+attempt_012_track_34,placement_confirmed,11266115348820,185.604,"{""entity"": ""part_022"", ""evaluated_color"": ""BLUE"", ""bin_color"": ""BLUE"", ""eligible_entry"": {""sim_time"": 135.0, ""wall_monotonic_ns"": 11187845253950, ""left_censored"": false, ""definition"": ""first physical footprint intersection with calibrated detection region""}, ""camera_first_detection_sim"": 135.962, ""camera_first_detection_wall_ns"": 11189776519076, ""camera_color_confirmed_sim"": 136.16, ""camera_color_confirmed_wall_ns"": 11190287721701}"
+attempt_013_track_37,target_selected,11269036823404,187.678,"{""track"": {""color"": ""RED"", ""shape"": ""ROUND"", ""confidence"": 0.8827551533433887, ""u"": 253.52845528455285, ""v"": 203.47764227642276, ""bbox"": [245, 195, 18, 18], ""xyz"": [-0.1337243791281571, 0.08517306672343739, 0.735], ""area"": 246.0, ""position_uncertainty_m"": 0.012, ""color_confirmed_sim"": 153.452, ""color_confirmed_wall_ns"": 11224300180467, ""id"": 37, ""first_seen"": 153.32, ""last_seen"": 187.574, ""velocity"": [0.011578716983630756, 9.113497554349231e-05, -3.4682069766110785e-17], ""hits"": 499, ""first_seen_wall_ns"": 11224154986092, ""eligible"": true}}"
+attempt_013_track_37,planning_start,11269039505404,187.68,{}
+attempt_013_track_37,planning_complete,11269083421446,187.712,{}
+attempt_013_track_37,movement_start,11269131227946,187.74,"{""source"": ""joint_state_change""}"
+attempt_013_track_37,grasp_start,11272401762489,190.108,{}
+attempt_013_track_37,grasp_confirmed,11273719187365,191.034,"{""entity"": ""part_025""}"
+attempt_013_track_37,lift_confirmed,11275581931449,192.514,"{""entity"": ""part_025""}"
+attempt_013_track_37,release,11278309152784,194.596,"{""entity"": ""part_025""}"
+attempt_013_track_37,placement_confirmed,11285989311121,198.556,"{""entity"": ""part_025"", ""evaluated_color"": ""RED"", ""bin_color"": ""RED"", ""eligible_entry"": {""sim_time"": 152.35, ""wall_monotonic_ns"": 11222720682133, ""left_censored"": false, ""definition"": ""first physical footprint intersection with calibrated detection region""}, ""camera_first_detection_sim"": 153.32, ""camera_first_detection_wall_ns"": 11224154986092, ""camera_color_confirmed_sim"": 153.452, ""camera_color_confirmed_wall_ns"": 11224300180467}"
+attempt_014_track_50,target_selected,11312770857967,216.316,"{""track"": {""color"": ""BLUE"", ""shape"": ""ROUND"", ""confidence"": 0.8890254609306409, ""u"": 112.20607458669741, ""v"": 243.85966935793923, ""bbox"": [100, 232, 25, 25], ""xyz"": [-0.39975790424103747, -0.00919224889199588, 0.7349999999999999], ""area"": 433.5, ""position_uncertainty_m"": 0.012, ""color_confirmed_sim"": 213.116, ""color_confirmed_wall_ns"": 11307734409047, ""id"": 50, ""first_seen"": 212.984, ""last_seen"": 216.284, ""velocity"": [0.03930189433723324, -0.0007154571652039983, -5.764158497284214e-16], ""hits"": 49, ""first_seen_wall_ns"": 11307557035131, ""eligible"": true}}"
+attempt_014_track_50,planning_start,11312774586633,216.318,{}
+attempt_014_track_50,planning_complete,11312826286800,216.35,{}
+attempt_014_track_50,movement_start,11312875493467,216.376,"{""source"": ""joint_state_change""}"
+attempt_014_track_50,grasp_start,11316648789885,218.936,{}
+attempt_014_track_50,grasp_confirmed,11317722819677,219.682,"{""entity"": ""part_044""}"
+attempt_014_track_50,lift_confirmed,11319511510220,220.97,"{""entity"": ""part_044""}"
+attempt_014_track_50,release,11323638408763,223.792,"{""entity"": ""part_044""}"
+attempt_014_track_50,placement_confirmed,11326548284639,225.506,"{""entity"": ""part_044"", ""evaluated_color"": ""BLUE"", ""bin_color"": ""BLUE"", ""eligible_entry"": {""sim_time"": 212.75, ""wall_monotonic_ns"": 11307197528964, ""left_censored"": false, ""definition"": ""first physical footprint intersection with calibrated detection region""}, ""camera_first_detection_sim"": 212.984, ""camera_first_detection_wall_ns"": 11307557035131, ""camera_color_confirmed_sim"": 213.116, ""camera_color_confirmed_wall_ns"": 11307734409047}"

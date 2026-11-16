@@ -1,0 +1,48 @@
+{
+  "passed": false,
+  "error": "Required camera color unavailable within timeout",
+  "seed": 11,
+  "verified_placements": 2,
+  "attempts": 2,
+  "failed_attempts": 0,
+  "incorrect_picks": 0,
+  "sequence": {
+    "complete": false,
+    "target": "RED",
+    "red": 1,
+    "blue": 1,
+    "pairs": 1,
+    "successful_picks": 2,
+    "remaining_pairs": 6,
+    "errors": [],
+    "placements": [
+      {
+        "object_id": "part_007",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 11.484,
+        "wall_monotonic_ns": 2596627400856
+      },
+      {
+        "object_id": "part_005",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 23.602,
+        "wall_monotonic_ns": 2612718107489
+      }
+    ]
+  },
+  "wall_seconds": 147.090160235,
+  "sim_seconds": 118.71600000000001,
+  "seven_pair_elapsed_time_wall_s": null
+}

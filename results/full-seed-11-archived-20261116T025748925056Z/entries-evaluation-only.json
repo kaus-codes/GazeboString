@@ -1,0 +1,107 @@
+{
+  "part_004": {
+    "sim_time": 0.802,
+    "wall_monotonic_ns": 3011547164836,
+    "left_censored": true
+  },
+  "part_005": {
+    "sim_time": 0.802,
+    "wall_monotonic_ns": 3011547173086,
+    "left_censored": true
+  },
+  "part_006": {
+    "sim_time": 0.802,
+    "wall_monotonic_ns": 3011547176336,
+    "left_censored": true
+  },
+  "part_007": {
+    "sim_time": 0.802,
+    "wall_monotonic_ns": 3011547179253,
+    "left_censored": true
+  },
+  "part_008": {
+    "sim_time": 0.802,
+    "wall_monotonic_ns": 3011547182211,
+    "left_censored": true
+  },
+  "part_003": {
+    "sim_time": 4.956,
+    "wall_monotonic_ns": 3016223759964,
+    "left_censored": false
+  },
+  "part_001": {
+    "sim_time": 15.454,
+    "wall_monotonic_ns": 3028523561636,
+    "left_censored": false
+  },
+  "part_000": {
+    "sim_time": 20.708,
+    "wall_monotonic_ns": 3034941301472,
+    "left_censored": false
+  },
+  "part_012": {
+    "sim_time": 27.78,
+    "wall_monotonic_ns": 3043758747601,
+    "left_censored": false
+  },
+  "part_002": {
+    "sim_time": 32.08,
+    "wall_monotonic_ns": 3049761878396,
+    "left_censored": false
+  },
+  "part_013": {
+    "sim_time": 33.51,
+    "wall_monotonic_ns": 3051728513438,
+    "left_censored": false
+  },
+  "part_015": {
+    "sim_time": 44.974,
+    "wall_monotonic_ns": 3066281375278,
+    "left_censored": false
+  },
+  "part_016": {
+    "sim_time": 50.718,
+    "wall_monotonic_ns": 3073416756573,
+    "left_censored": false
+  },
+  "part_018": {
+    "sim_time": 62.24,
+    "wall_monotonic_ns": 3088091297538,
+    "left_censored": false
+  },
+  "part_019": {
+    "sim_time": 67.97,
+    "wall_monotonic_ns": 3098064944793,
+    "left_censored": false
+  },
+  "part_021": {
+    "sim_time": 79.43,
+    "wall_monotonic_ns": 3119828797552,
+    "left_censored": false
+  },
+  "part_022": {
+    "sim_time": 85.092,
+    "wall_monotonic_ns": 3129254772599,
+    "left_censored": false
+  },
+  "part_014": {
+    "sim_time": 88.574,
+    "wall_monotonic_ns": 3135768026893,
+    "left_censored": false
+  },
+  "part_024": {
+    "sim_time": 96.418,
+    "wall_monotonic_ns": 3149160242649,
+    "left_censored": false
+  },
+  "part_025": {
+    "sim_time": 102.104,
+    "wall_monotonic_ns": 3162644823405,
+    "left_censored": false
+  },
+  "part_017": {
+    "sim_time": 105.808,
+    "wall_monotonic_ns": 3172478077368,
+    "left_censored": false
+  }
+}

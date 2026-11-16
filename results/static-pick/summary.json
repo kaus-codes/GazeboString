@@ -1,0 +1,48 @@
+{
+  "passed": true,
+  "verified_placements": 1,
+  "retention_evidence": {
+    "valid": true,
+    "position": [
+      -0.3491991946722621,
+      0.6911522348798989,
+      0.6774999931782609
+    ],
+    "snapshot_sim": 17.45,
+    "clock_sim": 17.462,
+    "age_sim_s": 0.012000000000000455,
+    "checks": {
+      "fresh": true,
+      "horizontal": true,
+      "vertical": true,
+      "released": true
+    }
+  },
+  "entity": "part_007",
+  "sequence": {
+    "complete": false,
+    "target": "BLUE",
+    "red": 1,
+    "blue": 0,
+    "pairs": 0,
+    "successful_picks": 1,
+    "remaining_pairs": 7,
+    "errors": [],
+    "placements": [
+      {
+        "object_id": "part_007",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 9.458,
+        "wall_monotonic_ns": 5743066603166
+      }
+    ]
+  },
+  "wall_seconds": 21.108667301000423,
+  "seven_pair_elapsed_time": null
+}

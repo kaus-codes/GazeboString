@@ -1,0 +1,23 @@
+{
+  "passed": false,
+  "error": "Required camera color unavailable within timeout",
+  "seed": 11,
+  "verified_placements": 0,
+  "attempts": 1,
+  "failed_attempts": 1,
+  "incorrect_picks": 0,
+  "sequence": {
+    "complete": false,
+    "target": "RED",
+    "red": 0,
+    "blue": 0,
+    "pairs": 0,
+    "successful_picks": 0,
+    "remaining_pairs": 7,
+    "errors": [],
+    "placements": []
+  },
+  "wall_seconds": 51.754333524,
+  "sim_seconds": 37.014,
+  "seven_pair_elapsed_time_wall_s": null
+}

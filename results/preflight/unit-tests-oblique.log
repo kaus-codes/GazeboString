@@ -1,0 +1,11 @@
+test_calibration_center_and_axes (test_core.CoreTests.test_calibration_center_and_axes) ... ok
+test_exact_fourteen_and_duplicates (test_core.CoreTests.test_exact_fourteen_and_duplicates) ... ok
+test_red_wraparound_and_distractor_eligibility (test_core.CoreTests.test_red_wraparound_and_distractor_eligibility) ... ok
+test_reject_wrong_color_failed_grasp_and_unsettled_release (test_core.CoreTests.test_reject_wrong_color_failed_grasp_and_unsettled_release) ... ok
+test_timing_export_and_clock_regression (test_core.CoreTests.test_timing_export_and_clock_regression) ... ok
+test_track_motion_and_expiry (test_core.CoreTests.test_track_motion_and_expiry) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.505s
+
+OK

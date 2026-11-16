@@ -1,0 +1,481 @@
+{
+  "occupants": [
+    {
+      "object_id": "part_001",
+      "bin_color": "BLUE",
+      "evaluated_color": "BLUE",
+      "accepted": true,
+      "evidence": {
+        "valid": true,
+        "position": [
+          0.27406790764195627,
+          0.6283237836043022,
+          0.677499912694426
+        ],
+        "half_extents": [
+          0.02464690450083166,
+          0.024646900488529126,
+          0.01750001706076881
+        ],
+        "orientation_xyzw": [
+          -2.263885220560007e-07,
+          -3.872401628864954e-07,
+          0.9055697609123892,
+          0.42419736929980734
+        ],
+        "snapshot_sim": 257.35,
+        "clock_sim": 257.376,
+        "age_sim_s": 0.025999999999953616,
+        "checks": {
+          "fresh": true,
+          "horizontal": true,
+          "vertical": true,
+          "released": true
+        }
+      }
+    },
+    {
+      "object_id": "part_007",
+      "bin_color": "BLUE",
+      "evaluated_color": "BLUE",
+      "accepted": true,
+      "evidence": {
+        "valid": true,
+        "position": [
+          0.22987111653457945,
+          0.778487490131123,
+          0.6789999607999945
+        ],
+        "half_extents": [
+          0.019,
+          0.019,
+          0.019
+        ],
+        "orientation_xyzw": [
+          0.3120943569867635,
+          0.4045767793075149,
+          0.858902096814245,
+          0.03466886312342336
+        ],
+        "snapshot_sim": 257.35,
+        "clock_sim": 257.376,
+        "age_sim_s": 0.025999999999953616,
+        "checks": {
+          "fresh": true,
+          "horizontal": true,
+          "vertical": true,
+          "released": true
+        }
+      }
+    },
+    {
+      "object_id": "part_008",
+      "bin_color": "RED",
+      "evaluated_color": "RED",
+      "accepted": true,
+      "evidence": {
+        "valid": true,
+        "position": [
+          -0.42095526877277917,
+          0.6277157916405062,
+          0.6774999987908906
+        ],
+        "half_extents": [
+          0.019000001706323984,
+          0.0190000298007845,
+          0.017500032408486008
+        ],
+        "orientation_xyzw": [
+          -8.475025761883783e-07,
+          -9.532194679897357e-08,
+          -0.054780596218532575,
+          0.998498415760994
+        ],
+        "snapshot_sim": 257.35,
+        "clock_sim": 257.376,
+        "age_sim_s": 0.025999999999953616,
+        "checks": {
+          "fresh": true,
+          "horizontal": true,
+          "vertical": true,
+          "released": true
+        }
+      }
+    },
+    {
+      "object_id": "part_014",
+      "bin_color": "RED",
+      "evaluated_color": "RED",
+      "accepted": true,
+      "evidence": {
+        "valid": true,
+        "position": [
+          -0.35341914974392374,
+          0.6267620022512623,
+          0.6774999518858705
+        ],
+        "half_extents": [
+          0.02158295711959667,
+          0.021582957660045827,
+          0.01750000510301902
+        ],
+        "orientation_xyzw": [
+          1.0763829821663496e-07,
+          2.586389078177086e-08,
+          -0.7970657358504358,
+          0.6038925506521761
+        ],
+        "snapshot_sim": 257.35,
+        "clock_sim": 257.376,
+        "age_sim_s": 0.025999999999953616,
+        "checks": {
+          "fresh": true,
+          "horizontal": true,
+          "vertical": true,
+          "released": true
+        }
+      }
+    },
+    {
+      "object_id": "part_024",
+      "bin_color": "RED",
+      "evaluated_color": "RED",
+      "accepted": true,
+      "evidence": {
+        "valid": true,
+        "position": [
+          -0.28196691580209404,
+          0.6311380906411019,
+          0.6775000000815913
+        ],
+        "half_extents": [
+          0.01900003747844573,
+          0.019000025513327523,
+          0.017500049224113367
+        ],
+        "orientation_xyzw": [
+          -1.179140420964089e-06,
+          -5.36323242385718e-07,
+          0.5194744092033396,
+          0.8544860081833776
+        ],
+        "snapshot_sim": 257.35,
+        "clock_sim": 257.376,
+        "age_sim_s": 0.025999999999953616,
+        "checks": {
+          "fresh": true,
+          "horizontal": true,
+          "vertical": true,
+          "released": true
+        }
+      }
+    },
+    {
+      "object_id": "part_029",
+      "bin_color": "BLUE",
+      "evaluated_color": "BLUE",
+      "accepted": true,
+      "evidence": {
+        "valid": true,
+        "position": [
+          0.4131693797700324,
+          0.6304579765747901,
+          0.6774999499740605
+        ],
+        "half_extents": [
+          0.02443859094124261,
+          0.024438578314632347,
+          0.017500021523253292
+        ],
+        "orientation_xyzw": [
+          3.8730297446116944e-07,
+          -1.9768240006759233e-07,
+          0.9512733559230853,
+          -0.30834883218627873
+        ],
+        "snapshot_sim": 257.35,
+        "clock_sim": 257.376,
+        "age_sim_s": 0.025999999999953616,
+        "checks": {
+          "fresh": true,
+          "horizontal": true,
+          "vertical": true,
+          "released": true
+        }
+      }
+    },
+    {
+      "object_id": "part_031",
+      "bin_color": "RED",
+      "evaluated_color": "RED",
+      "accepted": true,
+      "evidence": {
+        "valid": true,
+        "position": [
+          -0.3860286922841247,
+          0.8008336128989085,
+          0.6789999607999945
+        ],
+        "half_extents": [
+          0.019,
+          0.019,
+          0.019
+        ],
+        "orientation_xyzw": [
+          0.131721230029369,
+          0.08383333876798851,
+          0.6571064087470523,
+          0.7374501043827396
+        ],
+        "snapshot_sim": 257.35,
+        "clock_sim": 257.376,
+        "age_sim_s": 0.025999999999953616,
+        "checks": {
+          "fresh": true,
+          "horizontal": true,
+          "vertical": true,
+          "released": true
+        }
+      }
+    },
+    {
+      "object_id": "part_032",
+      "bin_color": "RED",
+      "evaluated_color": "RED",
+      "accepted": true,
+      "evidence": {
+        "valid": true,
+        "position": [
+          -0.423496155511201,
+          0.6904727271239752,
+          0.6774999999778192
+        ],
+        "half_extents": [
+          0.019000005410399146,
+          0.019000004892203964,
+          0.017500007917298277
+        ],
+        "orientation_xyzw": [
+          9.856132794486144e-08,
+          -1.8362791758894545e-07,
+          0.9417352385546113,
+          -0.3363550809255689
+        ],
+        "snapshot_sim": 257.35,
+        "clock_sim": 257.376,
+        "age_sim_s": 0.025999999999953616,
+        "checks": {
+          "fresh": true,
+          "horizontal": true,
+          "vertical": true,
+          "released": true
+        }
+      }
+    },
+    {
+      "object_id": "part_033",
+      "bin_color": "BLUE",
+      "evaluated_color": "BLUE",
+      "accepted": true,
+      "evidence": {
+        "valid": true,
+        "position": [
+          0.27724676673763343,
+          0.6917452093879053,
+          0.677499994332398
+        ],
+        "half_extents": [
+          0.019000008048393274,
+          0.019000001978254723,
+          0.017500008997757947
+        ],
+        "orientation_xyzw": [
+          8.661705118918775e-08,
+          2.203884877546407e-07,
+          0.1330616887510192,
+          0.9911077575050409
+        ],
+        "snapshot_sim": 257.35,
+        "clock_sim": 257.376,
+        "age_sim_s": 0.025999999999953616,
+        "checks": {
+          "fresh": true,
+          "horizontal": true,
+          "vertical": true,
+          "released": true
+        }
+      }
+    },
+    {
+      "object_id": "part_036",
+      "bin_color": "BLUE",
+      "evaluated_color": "BLUE",
+      "accepted": true,
+      "evidence": {
+        "valid": true,
+        "position": [
+          0.29093373713168497,
+          0.743072088513194,
+          0.6789999607999778
+        ],
+        "half_extents": [
+          0.019,
+          0.019,
+          0.019
+        ],
+        "orientation_xyzw": [
+          -0.5269219713562228,
+          -0.45452958298142226,
+          0.4175472517679021,
+          0.5843033346112947
+        ],
+        "snapshot_sim": 257.35,
+        "clock_sim": 257.376,
+        "age_sim_s": 0.025999999999953616,
+        "checks": {
+          "fresh": true,
+          "horizontal": true,
+          "vertical": true,
+          "released": true
+        }
+      }
+    },
+    {
+      "object_id": "part_039",
+      "bin_color": "RED",
+      "evaluated_color": "RED",
+      "accepted": true,
+      "evidence": {
+        "valid": true,
+        "position": [
+          -0.351264879581352,
+          0.6875533582854214,
+          0.677499996556852
+        ],
+        "half_extents": [
+          0.019000011559726814,
+          0.019000000559132698,
+          0.017500012566278905
+        ],
+        "orientation_xyzw": [
+          6.5556515973331034e-09,
+          3.3059916290726756e-07,
+          -0.028500470448111572,
+          0.9995937790843473
+        ],
+        "snapshot_sim": 257.35,
+        "clock_sim": 257.376,
+        "age_sim_s": 0.025999999999953616,
+        "checks": {
+          "fresh": true,
+          "horizontal": true,
+          "vertical": true,
+          "released": true
+        }
+      }
+    },
+    {
+      "object_id": "part_040",
+      "bin_color": "BLUE",
+      "evaluated_color": "BLUE",
+      "accepted": true,
+      "evidence": {
+        "valid": true,
+        "position": [
+          0.35139586928358324,
+          0.6890969172746745,
+          0.6774997874264755
+        ],
+        "half_extents": [
+          0.023634401618345405,
+          0.023634391112835842,
+          0.017500022309274908
+        ],
+        "orientation_xyzw": [
+          3.872419721172042e-07,
+          -2.3064217136828685e-07,
+          0.9708400091496251,
+          -0.2397283392387156
+        ],
+        "snapshot_sim": 257.35,
+        "clock_sim": 257.376,
+        "age_sim_s": 0.025999999999953616,
+        "checks": {
+          "fresh": true,
+          "horizontal": true,
+          "vertical": true,
+          "released": true
+        }
+      }
+    },
+    {
+      "object_id": "part_042",
+      "bin_color": "RED",
+      "evaluated_color": "RED",
+      "accepted": true,
+      "evidence": {
+        "valid": true,
+        "position": [
+          -0.28097469030194316,
+          0.6872614532823536,
+          0.677499999961348
+        ],
+        "half_extents": [
+          0.019000018438573383,
+          0.019000009503339098,
+          0.017500022521987436
+        ],
+        "orientation_xyzw": [
+          -4.790053701944704e-07,
+          -3.49020036087564e-07,
+          0.988197457412268,
+          0.15318546002665273
+        ],
+        "snapshot_sim": 257.35,
+        "clock_sim": 257.376,
+        "age_sim_s": 0.025999999999953616,
+        "checks": {
+          "fresh": true,
+          "horizontal": true,
+          "vertical": true,
+          "released": true
+        }
+      }
+    },
+    {
+      "object_id": "part_045",
+      "bin_color": "BLUE",
+      "evaluated_color": "BLUE",
+      "accepted": true,
+      "evidence": {
+        "valid": true,
+        "position": [
+          0.4195430103106604,
+          0.6883498689584159,
+          0.6774999386410046
+        ],
+        "half_extents": [
+          0.02269948039354686,
+          0.022699471162962906,
+          0.01750002928708228
+        ],
+        "orientation_xyzw": [
+          -7.819449975740891e-08,
+          -5.874180856379551e-07,
+          0.5626631853815097,
+          0.8266862402483676
+        ],
+        "snapshot_sim": 257.35,
+        "clock_sim": 257.376,
+        "age_sim_s": 0.025999999999953616,
+        "checks": {
+          "fresh": true,
+          "horizontal": true,
+          "vertical": true,
+          "released": true
+        }
+      }
+    }
+  ],
+  "violations": []
+}

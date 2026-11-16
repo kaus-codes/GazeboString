@@ -1,0 +1,9 @@
+object_id,event,wall_monotonic_ns,sim_time,details
+5,target_selected,1727540480418,1.9580000000000002,"{""track"": {""color"": ""RED"", ""shape"": ""ROUND"", ""confidence"": 0.8564562967261161, ""u"": 328.2415551306564, ""v"": 159.77947737412362, ""bbox"": [320, 150, 18, 20], ""xyz"": [0.16916285582265528, -0.01737915751420035, 0.7349999999999999], ""area"": 261.5, ""position_uncertainty_m"": 0.012, ""id"": 5, ""first_seen"": 1.19, ""last_seen"": 1.916, ""velocity"": [2.560072361027259e-05, 1.3115186281543106e-05, 0.0], ""hits"": 9, ""eligible"": true}}"
+5,planning_start,1727542566085,1.9620000000000002,{}
+5,planning_complete,1727626451293,2.008,{}
+5,movement_start,1727634485418,2.012,{}
+5,grasp_confirmed,1732556335712,5.382,"{""attached_entity"": ""part_007""}"
+5,lift_confirmed,1735336280880,6.834,{}
+5,release,1739411633674,9.632,{}
+5,placement_confirmed,1740460484299,10.464,"{""entity"": ""part_007""}"

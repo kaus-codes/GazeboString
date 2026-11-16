@@ -1,0 +1,18 @@
+test_calibration_center_and_axes (test_core.CoreTests.test_calibration_center_and_axes) ... ok
+test_exact_fourteen_and_duplicates (test_core.CoreTests.test_exact_fourteen_and_duplicates) ... ok
+test_red_wraparound_and_distractor_eligibility (test_core.CoreTests.test_red_wraparound_and_distractor_eligibility) ... ok
+test_reject_wrong_color_failed_grasp_and_unsettled_release (test_core.CoreTests.test_reject_wrong_color_failed_grasp_and_unsettled_release) ... ok
+test_timing_export_and_clock_regression (test_core.CoreTests.test_timing_export_and_clock_regression) ... ok
+test_track_motion_and_expiry (test_core.CoreTests.test_track_motion_and_expiry) ... ok
+test_spawn_timeout_preserves_created_object_audit (test_core.FeederRegression.test_spawn_timeout_preserves_created_object_audit) ... <frozen importlib._bootstrap>:488: DeprecationWarning: Type google.protobuf.pyext._message.ScalarMapContainer uses PyType_Spec with a metaclass that has custom tp_new. This is deprecated and will no longer be allowed in Python 3.14.
+<frozen importlib._bootstrap>:488: DeprecationWarning: Type google.protobuf.pyext._message.MessageMapContainer uses PyType_Spec with a metaclass that has custom tp_new. This is deprecated and will no longer be allowed in Python 3.14.
+/usr/lib/python3/dist-packages/google/protobuf/internal/well_known_types.py:91: DeprecationWarning: datetime.datetime.utcfromtimestamp() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.fromtimestamp(timestamp, datetime.UTC).
+  _EPOCH_DATETIME_NAIVE = datetime.datetime.utcfromtimestamp(0)
+ok
+test_grasp_orientation_is_normalized_and_points_down (test_core.GeometryEvaluation.test_grasp_orientation_is_normalized_and_points_down) ... ok
+test_rotated_collision_extents (test_core.GeometryEvaluation.test_rotated_collision_extents) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 1.568s
+
+OK

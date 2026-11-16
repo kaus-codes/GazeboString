@@ -1,0 +1,96 @@
+[
+  {
+    "object_id": "4",
+    "event": "target_selected",
+    "wall_monotonic_ns": 3668733289218,
+    "sim_time": 1.69,
+    "details": {
+      "track": {
+        "color": "RED",
+        "shape": "ROUND",
+        "confidence": 0.8674884098080347,
+        "u": 407.12674897119336,
+        "v": 251.9827160493827,
+        "bbox": [
+          397,
+          240,
+          22,
+          25
+        ],
+        "xyz": [
+          0.16615516305276026,
+          -0.027186374329239427,
+          0.7350000000000001
+        ],
+        "area": 405.0,
+        "position_uncertainty_m": 0.012,
+        "color_confirmed_sim": 1.6520000000000001,
+        "color_confirmed_wall_ns": 3668732957093,
+        "id": 4,
+        "first_seen": 1.52,
+        "last_seen": 1.6520000000000001,
+        "velocity": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "hits": 3,
+        "first_seen_wall_ns": 3668630522051,
+        "eligible": true
+      }
+    }
+  },
+  {
+    "object_id": "4",
+    "event": "planning_start",
+    "wall_monotonic_ns": 3668738030927,
+    "sim_time": 1.6960000000000002,
+    "details": {}
+  },
+  {
+    "object_id": "4",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 3668776325385,
+    "sim_time": 1.7280000000000002,
+    "details": {}
+  },
+  {
+    "object_id": "4",
+    "event": "movement_start",
+    "wall_monotonic_ns": 3668779374677,
+    "sim_time": 1.7320000000000002,
+    "details": {}
+  },
+  {
+    "object_id": "4",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 3672539680970,
+    "sim_time": 4.732,
+    "details": {
+      "attached_entity": "part_007"
+    }
+  },
+  {
+    "object_id": "4",
+    "event": "lift_confirmed",
+    "wall_monotonic_ns": 3673918256554,
+    "sim_time": 6.0,
+    "details": {}
+  },
+  {
+    "object_id": "4",
+    "event": "release",
+    "wall_monotonic_ns": 3677948681139,
+    "sim_time": 8.732,
+    "details": {}
+  },
+  {
+    "object_id": "4",
+    "event": "placement_confirmed",
+    "wall_monotonic_ns": 3679175845015,
+    "sim_time": 9.576,
+    "details": {
+      "entity": "part_007"
+    }
+  }
+]

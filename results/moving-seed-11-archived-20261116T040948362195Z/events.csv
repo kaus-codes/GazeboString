@@ -1,0 +1,41 @@
+object_id,event,wall_monotonic_ns,sim_time,details
+attempt_001_track_1,target_selected,7539290886990,6.832,"{""track"": {""color"": ""RED"", ""shape"": ""BOX"", ""confidence"": 0.8904718662765277, ""u"": 112.37071078431372, ""v"": 287.5677083333333, ""bbox"": [97, 274, 31, 29], ""xyz"": [-0.38139703522004137, -0.10245312252688865, 0.7349999999999999], ""area"": 544.0, ""position_uncertainty_m"": 0.004, ""color_confirmed_sim"": 4.292, ""color_confirmed_wall_ns"": 7528741786860, ""id"": 1, ""first_seen"": 4.094, ""last_seen"": 6.668, ""velocity"": [0.011854815358133063, -0.0005910468054721126, -6.560408781875989e-16], ""hits"": 19, ""first_seen_wall_ns"": 7527946825943, ""eligible"": true}}"
+attempt_001_track_1,planning_start,7539384634865,6.896,{}
+attempt_001_track_1,planning_complete,7542521777908,8.142,{}
+attempt_001_track_1,movement_start,7543405875075,8.3,"{""source"": ""joint_state_change""}"
+attempt_001_track_1,attempt_failed,7557575275748,11.486,"{""state"": ""APPROACH"", ""error"": ""Cartesian approach rejected: code=1, fraction=0.8111111111111111""}"
+attempt_002_track_3,target_selected,7565857134169,13.78,"{""track"": {""color"": ""RED"", ""shape"": ""ROUND"", ""confidence"": 0.8839751728029341, ""u"": 167.62881806108896, ""v"": 203.4780876494024, ""bbox"": [159, 195, 19, 18], ""xyz"": [-0.30653314162114303, 0.08517197839861657, 0.735], ""area"": 251.0, ""position_uncertainty_m"": 0.012, ""color_confirmed_sim"": 4.292, ""color_confirmed_wall_ns"": 7528741909276, ""id"": 3, ""first_seen"": 4.094, ""last_seen"": 13.532, ""velocity"": [0.013776415902379664, 0.00030826738656012645, 3.331476864084538e-16], ""hits"": 74, ""first_seen_wall_ns"": 7527946882693, ""eligible"": true}}"
+attempt_002_track_3,planning_start,7565895332669,13.794,{}
+attempt_002_track_3,planning_complete,7566425075002,13.878,{}
+attempt_002_track_3,movement_start,7567946571170,13.994,"{""source"": ""joint_state_change""}"
+attempt_002_track_3,attempt_failed,7581246929009,15.47,"{""state"": ""APPROACH"", ""error"": ""Cartesian approach rejected: code=1, fraction=0.8666666666666667""}"
+attempt_003_track_8,target_selected,7593039609682,17.508,"{""track"": {""color"": ""RED"", ""shape"": ""BOX"", ""confidence"": 0.8895927601809954, ""u"": 107.30054122890799, ""v"": 287.52180834129257, ""bbox"": [92, 273, 31, 30], ""xyz"": [-0.3907290336564395, -0.1023596043882361, 0.735], ""area"": 523.5, ""position_uncertainty_m"": 0.004, ""color_confirmed_sim"": 14.192, ""color_confirmed_wall_ns"": 7572464812880, ""id"": 8, ""first_seen"": 14.06, ""last_seen"": 17.426, ""velocity"": [0.03913172106244848, 5.776618193403671e-05, 1.092919505735739e-17], ""hits"": 22, ""first_seen_wall_ns"": 7569548100920, ""eligible"": true}}"
+attempt_003_track_8,planning_start,7593076039015,17.516,{}
+attempt_003_track_8,planning_complete,7593321562890,17.588,{}
+attempt_003_track_8,movement_start,7593521810807,17.638,"{""source"": ""joint_state_change""}"
+attempt_003_track_8,attempt_failed,7609324709938,19.646,"{""state"": ""APPROACH"", ""error"": ""Cartesian approach rejected: code=1, fraction=0.8111111111111111""}"
+attempt_004_track_3,target_selected,7639894944120,25.554,"{""track"": {""color"": ""RED"", ""shape"": ""ROUND"", ""confidence"": 0.8832179930795848, ""u"": 233.9308943089431, ""v"": 203.5, ""bbox"": [225, 195, 19, 18], ""xyz"": [-0.17314546410411127, 0.08511843417246401, 0.735], ""area"": 246.0, ""position_uncertainty_m"": 0.012, ""color_confirmed_sim"": 4.292, ""color_confirmed_wall_ns"": 7528741909276, ""id"": 3, ""first_seen"": 4.094, ""last_seen"": 25.412, ""velocity"": [0.011548579774410067, -8.623519405157004e-05, -4.605260673230828e-16], ""hits"": 154, ""first_seen_wall_ns"": 7527946882693, ""eligible"": true}}"
+attempt_004_track_3,planning_start,7639986640995,25.576,{}
+attempt_004_track_3,planning_complete,7643118939913,25.884,{}
+attempt_004_track_3,movement_start,7644125803622,26.056,"{""source"": ""joint_state_change""}"
+attempt_004_track_3,attempt_failed,7652352980751,27.326,"{""state"": ""APPROACH"", ""error"": ""Cartesian approach rejected: code=1, fraction=0.6""}"
+attempt_005_track_8,target_selected,7661401834671,29.694,"{""track"": {""color"": ""RED"", ""shape"": ""BOX"", ""confidence"": 0.8852433103759738, ""u"": 366.9368530020704, ""v"": 287.4761904761905, ""bbox"": [354, 273, 27, 30], ""xyz"": [0.08622709275619801, -0.10226665227220794, 0.735], ""area"": 483.0, ""position_uncertainty_m"": 0.004, ""color_confirmed_sim"": 14.192, ""color_confirmed_wall_ns"": 7572464812880, ""id"": 8, ""first_seen"": 14.06, ""last_seen"": 29.57, ""velocity"": [0.039552454776956625, 2.0411707209747064e-05, 6.998921512438125e-17], ""hits"": 127, ""first_seen_wall_ns"": 7569548100920, ""eligible"": true}}"
+attempt_005_track_8,planning_start,7661446545296,29.718,{}
+attempt_005_track_8,planning_complete,7661793846046,29.788,{}
+attempt_005_track_8,movement_start,7661914870588,29.836,"{""source"": ""joint_state_change""}"
+attempt_005_track_8,attempt_failed,7674653275302,35.424,"{""state"": ""APPROACH"", ""error"": ""Cartesian approach rejected: code=1, fraction=0.5172413793103449""}"
+attempt_006_track_3,target_selected,7680905195972,38.254,"{""track"": {""color"": ""RED"", ""shape"": ""ROUND"", ""confidence"": 0.882206065946978, ""u"": 304.7102351313969, ""v"": 203.4668049792531, ""bbox"": [296, 195, 18, 18], ""xyz"": [-0.030759619080304404, 0.0851995493585922, 0.7350000000000001], ""area"": 241.0, ""position_uncertainty_m"": 0.012, ""color_confirmed_sim"": 4.292, ""color_confirmed_wall_ns"": 7528741909276, ""id"": 3, ""first_seen"": 4.094, ""last_seen"": 38.084, ""velocity"": [0.011062554027077773, 0.0003010495530222356, 4.492839899041427e-16], ""hits"": 283, ""first_seen_wall_ns"": 7527946882693, ""eligible"": true}}"
+attempt_006_track_3,planning_start,7680908248930,38.256,{}
+attempt_006_track_3,planning_complete,7680960942055,38.298,{}
+attempt_006_track_3,movement_start,7681000838222,38.332,"{""source"": ""joint_state_change""}"
+attempt_006_track_3,attempt_failed,7682208138722,39.308,"{""state"": ""APPROACH"", ""error"": ""Cartesian approach rejected: code=1, fraction=0.8111111111111111""}"
+attempt_007_track_3,target_selected,7707506190483,49.414,"{""track"": {""color"": ""RED"", ""shape"": ""ROUND"", ""confidence"": 0.8818811735220403, ""u"": 367.7256944444444, ""v"": 203.5, ""bbox"": [359, 195, 18, 18], ""xyz"": [0.09600991491576474, 0.08511843417246401, 0.735], ""area"": 240.0, ""position_uncertainty_m"": 0.012, ""color_confirmed_sim"": 4.292, ""color_confirmed_wall_ns"": 7528741909276, ""id"": 3, ""first_seen"": 4.094, ""last_seen"": 49.37, ""velocity"": [0.010742524872055199, -0.00011907845291688763, -3.1528497314655667e-17], ""hits"": 392, ""first_seen_wall_ns"": 7527946882693, ""eligible"": true}}"
+attempt_007_track_3,planning_start,7707513214150,49.42,{}
+attempt_007_track_3,planning_complete,7707621263025,49.476,{}
+attempt_007_track_3,movement_start,7707676576067,49.51,"{""source"": ""joint_state_change""}"
+attempt_007_track_3,attempt_failed,7722419698157,55.724,"{""state"": ""VERIFY_GRASP"", ""error"": ""Missed contact grasp""}"
+attempt_008_track_19,target_selected,7753516317171,72.052,"{""track"": {""color"": ""RED"", ""shape"": ""BOX"", ""confidence"": 0.8883031536840602, ""u"": 102.44779507133592, ""v"": 287.5009727626459, ""bbox"": [87, 273, 31, 30], ""xyz"": [-0.39965213783999815, -0.10231715037354683, 0.7350000000000001], ""area"": 514.0, ""position_uncertainty_m"": 0.004, ""color_confirmed_sim"": 68.972, ""color_confirmed_wall_ns"": 7746441528376, ""id"": 19, ""first_seen"": 68.774, ""last_seen"": 72.008, ""velocity"": [0.03869898629852126, -0.0003253931253952447, 5.772201006858891e-16], ""hits"": 37, ""first_seen_wall_ns"": 7745964364543, ""eligible"": true}}"
+attempt_008_track_19,planning_start,7753523804171,72.062,{}
+attempt_008_track_19,planning_complete,7753635474671,72.126,{}
+attempt_008_track_19,movement_start,7753686871213,72.168,"{""source"": ""joint_state_change""}"
+attempt_008_track_19,attempt_failed,7756610199464,73.908,"{""state"": ""APPROACH"", ""error"": ""Cartesian approach rejected: code=1, fraction=0.34444444444444444""}"

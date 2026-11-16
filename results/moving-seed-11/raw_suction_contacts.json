@@ -1,0 +1,68 @@
+[
+  {
+    "sim_time": 6.874,
+    "wall_monotonic_ns": 9492697143800,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "part_009::body::collision",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "sim_time": 11.302,
+    "wall_monotonic_ns": 9499441494720,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "part_009::body::collision",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "sim_time": 11.304,
+    "wall_monotonic_ns": 9499444147511,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "part_009::body::collision",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "sim_time": 21.026,
+    "wall_monotonic_ns": 9511513276142,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "part_005::body::collision",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "sim_time": 25.252,
+    "wall_monotonic_ns": 9517337221395,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "part_005::body::collision",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "sim_time": 25.254,
+    "wall_monotonic_ns": 9517338821728,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "part_005::body::collision",
+        "points": 8
+      }
+    ]
+  }
+]

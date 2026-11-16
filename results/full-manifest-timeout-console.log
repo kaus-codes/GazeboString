@@ -1,0 +1,247 @@
+Built Panda URDF from /opt/ros/jazzy/share/moveit_resources_panda_description
+Resolved suction contact collision: suction_cup_fixed_joint_lump__suction_collision_collision
+Robot spawn accepted
+[INFO] [1794797873.547234920] [spawner_joint_state_broadcaster]: Loaded joint_state_broadcaster
+[INFO] [1794797880.783472965] [spawner_joint_state_broadcaster]: Configured and activated joint_state_broadcaster
+[INFO] [1794797881.478482590] [spawner_joint_state_broadcaster]: Loaded arm_controller
+[INFO] [1794797881.901451757] [spawner_joint_state_broadcaster]: Configured and activated arm_controller
+WAIT_FOR_TARGET target RED placements 0
+TRACK target RED placements 0
+PLAN_PICK target RED placements 0
+APPROACH target RED placements 0
+VERIFY_GRASP target RED placements 0
+LIFT target RED placements 0
+TRANSPORT target RED placements 0
+PLACE target RED placements 0
+VERIFY_PLACEMENT target RED placements 0
+RETURN_READY target BLUE placements 1
+WAIT_FOR_TARGET target BLUE placements 1
+TRACK target BLUE placements 1
+PLAN_PICK target BLUE placements 1
+APPROACH target BLUE placements 1
+VERIFY_GRASP target BLUE placements 1
+LIFT target BLUE placements 1
+TRANSPORT target BLUE placements 1
+PLACE target BLUE placements 1
+VERIFY_PLACEMENT target BLUE placements 1
+RETURN_READY target RED placements 2
+WAIT_FOR_TARGET target RED placements 2
+TRACK target RED placements 2
+PLAN_PICK target RED placements 2
+APPROACH target RED placements 2
+VERIFY_GRASP target RED placements 2
+LIFT target RED placements 2
+TRANSPORT target RED placements 2
+PLACE target RED placements 2
+VERIFY_PLACEMENT target RED placements 2
+RETURN_READY target BLUE placements 3
+WAIT_FOR_TARGET target BLUE placements 3
+TRACK target BLUE placements 3
+PLAN_PICK target BLUE placements 3
+RECOVERY target BLUE placements 3
+WAIT_FOR_TARGET target BLUE placements 3
+TRACK target BLUE placements 3
+PLAN_PICK target BLUE placements 3
+APPROACH target BLUE placements 3
+VERIFY_GRASP target BLUE placements 3
+LIFT target BLUE placements 3
+TRANSPORT target BLUE placements 3
+PLACE target BLUE placements 3
+VERIFY_PLACEMENT target BLUE placements 3
+RETURN_READY target RED placements 4
+WAIT_FOR_TARGET target RED placements 4
+TRACK target RED placements 4
+PLAN_PICK target RED placements 4
+APPROACH target RED placements 4
+VERIFY_GRASP target RED placements 4
+LIFT target RED placements 4
+TRANSPORT target RED placements 4
+PLACE target RED placements 4
+VERIFY_PLACEMENT target RED placements 4
+RETURN_READY target BLUE placements 5
+WAIT_FOR_TARGET target BLUE placements 5
+TRACK target BLUE placements 5
+PLAN_PICK target BLUE placements 5
+APPROACH target BLUE placements 5
+VERIFY_GRASP target BLUE placements 5
+LIFT target BLUE placements 5
+TRANSPORT target BLUE placements 5
+PLACE target BLUE placements 5
+VERIFY_PLACEMENT target BLUE placements 5
+RETURN_READY target RED placements 6
+WAIT_FOR_TARGET target RED placements 6
+TRACK target RED placements 6
+PLAN_PICK target RED placements 6
+APPROACH target RED placements 6
+RECOVERY target RED placements 6
+WAIT_FOR_TARGET target RED placements 6
+TRACK target RED placements 6
+PLAN_PICK target RED placements 6
+APPROACH target RED placements 6
+VERIFY_GRASP target RED placements 6
+LIFT target RED placements 6
+Exception in thread Thread-1 (loop):
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/threading.py", line 1073, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.12/threading.py", line 1010, in run
+    self._target(*self._args, **self._kwargs)
+  File "/project/src/feeder.py", line 35, in loop
+    reply=subprocess.run(['gz','service','-s','/world/rgb_sorting/create/blocking','--reqtype','gz.msgs.EntityFactory','--reptype','gz.msgs.Boolean','--timeout','3000','--req',MessageToString(req)],capture_output=True,text=True,timeout=5)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/subprocess.py", line 550, in run
+    stdout, stderr = process.communicate(input, timeout=timeout)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/subprocess.py", line 1209, in communicate
+    stdout, stderr = self._communicate(input, endtime, timeout)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/subprocess.py", line 2116, in _communicate
+    self._check_timeout(endtime, orig_timeout, stdout, stderr)
+  File "/usr/lib/python3.12/subprocess.py", line 1253, in _check_timeout
+    raise TimeoutExpired(
+subprocess.TimeoutExpired: Command '['gz', 'service', '-s', '/world/rgb_sorting/create/blocking', '--reqtype', 'gz.msgs.EntityFactory', '--reptype', 'gz.msgs.Boolean', '--timeout', '3000', '--req', 'sdf: "<sdf version=\\"1.9\\"><model name=\\"part_033\\"><pose>0 0 0 0 0 0.08091554772236087</pose><static>false</static><link name=\\"body\\"><inertial><mass>0.04</mass><inertia><ixx>8.166666666666668e-06</ixx><iyy>8.166666666666668e-06</iyy><izz>8.166666666666668e-06</izz></inertia></inertial><collision name=\\"collision\\"><geometry><box><size>0.035 0.035 0.035</size></box></geometry><surface><friction><ode><mu>1</mu><mu2>1</mu2></ode></friction></surface></collision><visual name=\\"visual\\"><geometry><box><size>0.035 0.035 0.035</size></box></geometry><material><ambient>.95 .015 .015 1</ambient><diffuse>.95 .015 .015 1</diffuse></material></visual></link></model></sdf>"\npose {\n  position {\n    x: -1.35\n    y: -0.095\n    z: 0.725\n  }\n  orientation {\n    w: 1.0\n  }\n}\nname: "part_033"\n']' timed out after 5 seconds
+TRANSPORT target RED placements 6
+PLACE target RED placements 6
+VERIFY_PLACEMENT target RED placements 6
+RETURN_READY target BLUE placements 7
+WAIT_FOR_TARGET target BLUE placements 7
+TRACK target BLUE placements 7
+PLAN_PICK target BLUE placements 7
+APPROACH target BLUE placements 7
+VERIFY_GRASP target BLUE placements 7
+LIFT target BLUE placements 7
+TRANSPORT target BLUE placements 7
+PLACE target BLUE placements 7
+VERIFY_PLACEMENT target BLUE placements 7
+RETURN_READY target RED placements 8
+WAIT_FOR_TARGET target RED placements 8
+TRACK target RED placements 8
+PLAN_PICK target RED placements 8
+APPROACH target RED placements 8
+VERIFY_GRASP target RED placements 8
+RECOVERY target RED placements 8
+FAILED target RED placements 8
+{
+  "passed": false,
+  "error": "Independent auditor rejected grasp identity/color",
+  "experiment_start_wall_ns": 4182169382787,
+  "experiment_end_wall_ns": 4624227405364,
+  "experiment_start_sim": 3.59,
+  "experiment_end_sim": 157.86,
+  "seed": 11,
+  "verified_placements": 8,
+  "attempts": 11,
+  "failed_attempts": 3,
+  "incorrect_picks": 1,
+  "sequence": {
+    "complete": false,
+    "target": "RED",
+    "red": 4,
+    "blue": 4,
+    "pairs": 4,
+    "successful_picks": 8,
+    "remaining_pairs": 3,
+    "errors": [],
+    "placements": [
+      {
+        "object_id": "part_007",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 11.848,
+        "wall_monotonic_ns": 4201044080128
+      },
+      {
+        "object_id": "part_005",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 19.748,
+        "wall_monotonic_ns": 4217940246385
+      },
+      {
+        "object_id": "part_018",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 77.242,
+        "wall_monotonic_ns": 4338173669523
+      },
+      {
+        "object_id": "part_021",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 92.828,
+        "wall_monotonic_ns": 4396606151676
+      },
+      {
+        "object_id": "part_025",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 116.738,
+        "wall_monotonic_ns": 4463658570039
+      },
+      {
+        "object_id": "part_024",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 125.898,
+        "wall_monotonic_ns": 4501299474432
+      },
+      {
+        "object_id": "part_027",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 137.432,
+        "wall_monotonic_ns": 4569357078797
+      },
+      {
+        "object_id": "part_031",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 153.274,
+        "wall_monotonic_ns": 4613256636818
+      }
+    ]
+  },
+  "wall_seconds": 442.058022577,
+  "sim_seconds": 154.27,
+  "seven_pair_elapsed_time_wall_s": null
+}

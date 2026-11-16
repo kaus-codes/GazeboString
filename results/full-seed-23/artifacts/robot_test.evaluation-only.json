@@ -1,0 +1,150 @@
+{
+  "seed": 23,
+  "mode": "standard",
+  "objects": [
+    {
+      "name": "part_000",
+      "color": "BLUE",
+      "shape": "sphere",
+      "dimensions": [
+        0.019
+      ],
+      "x": -1.05,
+      "y": 0.095,
+      "yaw": 0.4117354967685185
+    },
+    {
+      "name": "part_001",
+      "color": "BLUE",
+      "shape": "box",
+      "dimensions": [
+        0.035,
+        0.035,
+        0.035
+      ],
+      "x": -1.05,
+      "y": -0.095,
+      "yaw": 2.262849707357507
+    },
+    {
+      "name": "part_002",
+      "color": "YELLOW",
+      "shape": "sphere",
+      "dimensions": [
+        0.019
+      ],
+      "x": -0.8300000000000001,
+      "y": 0.095,
+      "yaw": 2.944059135549927
+    },
+    {
+      "name": "part_003",
+      "color": "YELLOW",
+      "shape": "box",
+      "dimensions": [
+        0.035,
+        0.035,
+        0.035
+      ],
+      "x": -0.8300000000000001,
+      "y": -0.095,
+      "yaw": -1.3742962031984216
+    },
+    {
+      "name": "part_004",
+      "color": "GREEN",
+      "shape": "cylinder",
+      "dimensions": [
+        0.019,
+        0.035
+      ],
+      "x": -1.05,
+      "y": 0.0,
+      "yaw": 2.9821597832650353
+    },
+    {
+      "name": "part_005",
+      "color": "GREEN",
+      "shape": "cylinder",
+      "dimensions": [
+        0.019,
+        0.035
+      ],
+      "x": -0.8300000000000001,
+      "y": 0.0,
+      "yaw": 0.4585819876224906
+    },
+    {
+      "name": "part_006",
+      "color": "RED",
+      "shape": "cylinder",
+      "dimensions": [
+        0.019,
+        0.035
+      ],
+      "x": -0.6100000000000001,
+      "y": 0.0,
+      "yaw": 1.9746515269253164
+    },
+    {
+      "name": "part_007",
+      "color": "BLUE",
+      "shape": "sphere",
+      "dimensions": [
+        0.019
+      ],
+      "x": -0.6100000000000001,
+      "y": 0.095,
+      "yaw": -2.025499507503786
+    },
+    {
+      "name": "part_008",
+      "color": "RED",
+      "shape": "cylinder",
+      "dimensions": [
+        0.019,
+        0.035
+      ],
+      "x": -0.39,
+      "y": 0.0,
+      "yaw": -0.10628520742108183
+    },
+    {
+      "name": "part_009",
+      "color": "GREEN",
+      "shape": "box",
+      "dimensions": [
+        0.035,
+        0.035,
+        0.035
+      ],
+      "x": -0.6100000000000001,
+      "y": -0.095,
+      "yaw": 1.8314895666148647
+    },
+    {
+      "name": "part_010",
+      "color": "BLUE",
+      "shape": "box",
+      "dimensions": [
+        0.035,
+        0.035,
+        0.035
+      ],
+      "x": -0.39,
+      "y": -0.095,
+      "yaw": 1.1041081686305203
+    },
+    {
+      "name": "part_011",
+      "color": "YELLOW",
+      "shape": "sphere",
+      "dimensions": [
+        0.019
+      ],
+      "x": -0.39,
+      "y": 0.095,
+      "yaw": -2.113758901747354
+    }
+  ]
+}

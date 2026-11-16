@@ -1,0 +1,38 @@
+Built Panda URDF from /opt/ros/jazzy/share/moveit_resources_panda_description
+Resolved suction contact collision: suction_cup_fixed_joint_lump__suction_collision_collision
+Robot spawn accepted
+[INFO] [1794797372.610974384] [spawner_joint_state_broadcaster]: Loaded joint_state_broadcaster
+[INFO] [1794797376.560252886] [spawner_joint_state_broadcaster]: Configured and activated joint_state_broadcaster
+[INFO] [1794797376.741403094] [spawner_joint_state_broadcaster]: Loaded arm_controller
+[INFO] [1794797376.808332719] [spawner_joint_state_broadcaster]: Configured and activated arm_controller
+{
+  "passed": true,
+  "verified_placements": 1,
+  "entity": "part_007",
+  "sequence": {
+    "complete": false,
+    "target": "BLUE",
+    "red": 1,
+    "blue": 0,
+    "pairs": 0,
+    "successful_picks": 1,
+    "remaining_pairs": 7,
+    "errors": [],
+    "placements": [
+      {
+        "object_id": "part_007",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 9.582,
+        "wall_monotonic_ns": 3679175845015
+      }
+    ]
+  },
+  "wall_seconds": 10.71864846399967,
+  "seven_pair_elapsed_time": null
+}

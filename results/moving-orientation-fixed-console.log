@@ -1,0 +1,73 @@
+Built Panda URDF from /opt/ros/jazzy/share/moveit_resources_panda_description
+Resolved suction contact collision: suction_cup_fixed_joint_lump__suction_collision_collision
+Robot spawn verified from actual model poses
+joint_state_broadcaster verified active
+arm_controller verified active
+WAIT_FOR_TARGET target RED placements 0
+TRACK target RED placements 0
+PLAN_PICK target RED placements 0
+APPROACH target RED placements 0
+RECOVERY target RED placements 0
+WAIT_FOR_TARGET target RED placements 0
+TRACK target RED placements 0
+PLAN_PICK target RED placements 0
+APPROACH target RED placements 0
+RECOVERY target RED placements 0
+WAIT_FOR_TARGET target RED placements 0
+TRACK target RED placements 0
+PLAN_PICK target RED placements 0
+APPROACH target RED placements 0
+RECOVERY target RED placements 0
+WAIT_FOR_TARGET target RED placements 0
+TRACK target RED placements 0
+PLAN_PICK target RED placements 0
+APPROACH target RED placements 0
+RECOVERY target RED placements 0
+WAIT_FOR_TARGET target RED placements 0
+TRACK target RED placements 0
+PLAN_PICK target RED placements 0
+APPROACH target RED placements 0
+RECOVERY target RED placements 0
+WAIT_FOR_TARGET target RED placements 0
+TRACK target RED placements 0
+PLAN_PICK target RED placements 0
+APPROACH target RED placements 0
+RECOVERY target RED placements 0
+WAIT_FOR_TARGET target RED placements 0
+TRACK target RED placements 0
+PLAN_PICK target RED placements 0
+APPROACH target RED placements 0
+RECOVERY target RED placements 0
+WAIT_FOR_TARGET target RED placements 0
+TRACK target RED placements 0
+PLAN_PICK target RED placements 0
+APPROACH target RED placements 0
+RECOVERY target RED placements 0
+FAILED target RED placements 0
+{
+  "passed": false,
+  "error": "Retry limit exceeded",
+  "experiment_start_wall_ns": 8854401644216,
+  "experiment_end_wall_ns": 9066709703646,
+  "experiment_start_sim": 3.21,
+  "experiment_end_sim": 131.336,
+  "seed": 11,
+  "verified_placements": 0,
+  "attempts": 8,
+  "failed_attempts": 8,
+  "incorrect_picks": 0,
+  "sequence": {
+    "complete": false,
+    "target": "RED",
+    "red": 0,
+    "blue": 0,
+    "pairs": 0,
+    "successful_picks": 0,
+    "remaining_pairs": 7,
+    "errors": [],
+    "placements": []
+  },
+  "wall_seconds": 212.30805943,
+  "sim_seconds": 128.126,
+  "seven_pair_elapsed_time_wall_s": null
+}

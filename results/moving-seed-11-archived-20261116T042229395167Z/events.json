@@ -1,0 +1,594 @@
+[
+  {
+    "object_id": "attempt_001_track_1",
+    "event": "target_selected",
+    "wall_monotonic_ns": 8855632792008,
+    "sim_time": 4.014,
+    "details": {
+      "track": {
+        "color": "RED",
+        "shape": "BOX",
+        "confidence": 0.8901014198782962,
+        "u": 125.43992606284658,
+        "v": 287.4676524953789,
+        "bbox": [
+          111,
+          273,
+          30,
+          30
+        ],
+        "xyz": [
+          -0.35742697950142593,
+          -0.10224925409265273,
+          0.7350000000000001
+        ],
+        "area": 541.0,
+        "position_uncertainty_m": 0.004,
+        "color_confirmed_sim": 2.246,
+        "color_confirmed_wall_ns": 8853251095799,
+        "id": 1,
+        "first_seen": 2.048,
+        "last_seen": 3.896,
+        "velocity": [
+          0.036703523087592956,
+          -9.007093752353959e-05,
+          3.1271281860275373e-16
+        ],
+        "hits": 23,
+        "first_seen_wall_ns": 8852978624340,
+        "eligible": true
+      }
+    }
+  },
+  {
+    "object_id": "attempt_001_track_1",
+    "event": "planning_start",
+    "wall_monotonic_ns": 8855646337550,
+    "sim_time": 4.024,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_001_track_1",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 8855754150342,
+    "sim_time": 4.078,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_001_track_1",
+    "event": "movement_start",
+    "wall_monotonic_ns": 8855860732883,
+    "sim_time": 4.092,
+    "details": {
+      "source": "joint_state_change"
+    }
+  },
+  {
+    "object_id": "attempt_001_track_1",
+    "event": "attempt_failed",
+    "wall_monotonic_ns": 8865416574679,
+    "sim_time": 10.636,
+    "details": {
+      "state": "APPROACH",
+      "error": "Cartesian execution failed -5"
+    }
+  },
+  {
+    "object_id": "attempt_002_track_10",
+    "event": "target_selected",
+    "wall_monotonic_ns": 8869726995265,
+    "sim_time": 13.412,
+    "details": {
+      "track": {
+        "color": "RED",
+        "shape": "ROUND",
+        "confidence": 0.8835650623885918,
+        "u": 184.98393574297188,
+        "v": 203.4678714859438,
+        "bbox": [
+          176,
+          195,
+          19,
+          18
+        ],
+        "xyz": [
+          -0.27162207715007475,
+          0.08519694315341908,
+          0.7349999999999999
+        ],
+        "area": 249.0,
+        "position_uncertainty_m": 0.012,
+        "color_confirmed_sim": 11.618,
+        "color_confirmed_wall_ns": 8866932066888,
+        "id": 10,
+        "first_seen": 11.486,
+        "last_seen": 13.268,
+        "velocity": [
+          0.011203564942853496,
+          0.0002999506954858135,
+          -2.987870607700081e-16
+        ],
+        "hits": 24,
+        "first_seen_wall_ns": 8866745698305,
+        "eligible": true
+      }
+    }
+  },
+  {
+    "object_id": "attempt_002_track_10",
+    "event": "planning_start",
+    "wall_monotonic_ns": 8869759256098,
+    "sim_time": 13.426,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_002_track_10",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 8869824803931,
+    "sim_time": 13.458,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_002_track_10",
+    "event": "movement_start",
+    "wall_monotonic_ns": 8869874120723,
+    "sim_time": 13.488,
+    "details": {
+      "source": "joint_state_change"
+    }
+  },
+  {
+    "object_id": "attempt_002_track_10",
+    "event": "attempt_failed",
+    "wall_monotonic_ns": 8880862483770,
+    "sim_time": 20.038,
+    "details": {
+      "state": "APPROACH",
+      "error": "Cartesian execution failed -5"
+    }
+  },
+  {
+    "object_id": "attempt_003_track_8",
+    "event": "target_selected",
+    "wall_monotonic_ns": 8884754610688,
+    "sim_time": 22.654,
+    "details": {
+      "track": {
+        "color": "RED",
+        "shape": "ROUND",
+        "confidence": 0.8863917903610042,
+        "u": 288.2740963855422,
+        "v": 287.4909638554217,
+        "bbox": [
+          275,
+          273,
+          27,
+          30
+        ],
+        "xyz": [
+          -0.058282362065756266,
+          -0.10229675584319026,
+          0.735
+        ],
+        "area": 498.0,
+        "position_uncertainty_m": 0.012,
+        "color_confirmed_sim": 10.694,
+        "color_confirmed_wall_ns": 8865550976888,
+        "id": 8,
+        "first_seen": 10.562,
+        "last_seen": 22.508,
+        "velocity": [
+          0.03985208301398622,
+          -0.00013643443949169895,
+          -6.124281277025711e-17
+        ],
+        "hits": 159,
+        "first_seen_wall_ns": 8865387342179,
+        "eligible": true
+      }
+    }
+  },
+  {
+    "object_id": "attempt_003_track_8",
+    "event": "planning_start",
+    "wall_monotonic_ns": 8884773589855,
+    "sim_time": 22.666,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_003_track_8",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 8884825527022,
+    "sim_time": 22.712,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_003_track_8",
+    "event": "movement_start",
+    "wall_monotonic_ns": 8884868330313,
+    "sim_time": 22.742,
+    "details": {
+      "source": "joint_state_change"
+    }
+  },
+  {
+    "object_id": "attempt_003_track_8",
+    "event": "attempt_failed",
+    "wall_monotonic_ns": 8893369668192,
+    "sim_time": 28.996,
+    "details": {
+      "state": "APPROACH",
+      "error": "Cartesian execution failed -5"
+    }
+  },
+  {
+    "object_id": "attempt_004_track_10",
+    "event": "target_selected",
+    "wall_monotonic_ns": 8896512388610,
+    "sim_time": 31.404,
+    "details": {
+      "track": {
+        "color": "RED",
+        "shape": "ROUND",
+        "confidence": 0.8821931735657226,
+        "u": 316.4485596707819,
+        "v": 203.5514403292181,
+        "bbox": [
+          308,
+          195,
+          18,
+          18
+        ],
+        "xyz": [
+          -0.007144026633330875,
+          0.08499274688294345,
+          0.7349999999999999
+        ],
+        "area": 243.0,
+        "position_uncertainty_m": 0.012,
+        "color_confirmed_sim": 11.618,
+        "color_confirmed_wall_ns": 8866932066888,
+        "id": 10,
+        "first_seen": 11.486,
+        "last_seen": 31.352,
+        "velocity": [
+          0.020193603097167688,
+          -0.00010839236107760847,
+          -1.6070297780834116e-17
+        ],
+        "hits": 264,
+        "first_seen_wall_ns": 8866745698305,
+        "eligible": true
+      }
+    }
+  },
+  {
+    "object_id": "attempt_004_track_10",
+    "event": "planning_start",
+    "wall_monotonic_ns": 8896519942860,
+    "sim_time": 31.41,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_004_track_10",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 8896568381693,
+    "sim_time": 31.436,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_004_track_10",
+    "event": "movement_start",
+    "wall_monotonic_ns": 8896604466777,
+    "sim_time": 31.468,
+    "details": {
+      "source": "joint_state_change"
+    }
+  },
+  {
+    "object_id": "attempt_004_track_10",
+    "event": "attempt_failed",
+    "wall_monotonic_ns": 8906039176656,
+    "sim_time": 37.912,
+    "details": {
+      "state": "APPROACH",
+      "error": "Cartesian execution failed -5"
+    }
+  },
+  {
+    "object_id": "attempt_005_track_19",
+    "event": "target_selected",
+    "wall_monotonic_ns": 8952345781928,
+    "sim_time": 67.292,
+    "details": {
+      "track": {
+        "color": "RED",
+        "shape": "BOX",
+        "confidence": 0.8882674381227901,
+        "u": 103.23378728923475,
+        "v": 287.42315175097275,
+        "bbox": [
+          88,
+          273,
+          31,
+          30
+        ],
+        "xyz": [
+          -0.39824027130273093,
+          -0.10215856820262753,
+          0.735
+        ],
+        "area": 514.0,
+        "position_uncertainty_m": 0.004,
+        "color_confirmed_sim": 64.286,
+        "color_confirmed_wall_ns": 8948002550343,
+        "id": 19,
+        "first_seen": 64.022,
+        "last_seen": 67.256,
+        "velocity": [
+          0.03870020526603617,
+          0.0006282872115413239,
+          1.8922945221038984e-17
+        ],
+        "hits": 40,
+        "first_seen_wall_ns": 8947386742717,
+        "eligible": true
+      }
+    }
+  },
+  {
+    "object_id": "attempt_005_track_19",
+    "event": "planning_start",
+    "wall_monotonic_ns": 8952355294094,
+    "sim_time": 67.3,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_005_track_19",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 8952404708344,
+    "sim_time": 67.336,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_005_track_19",
+    "event": "movement_start",
+    "wall_monotonic_ns": 8952441332928,
+    "sim_time": 67.364,
+    "details": {
+      "source": "joint_state_change"
+    }
+  },
+  {
+    "object_id": "attempt_005_track_19",
+    "event": "attempt_failed",
+    "wall_monotonic_ns": 8962098124266,
+    "sim_time": 73.828,
+    "details": {
+      "state": "APPROACH",
+      "error": "Cartesian execution failed -5"
+    }
+  },
+  {
+    "object_id": "attempt_006_track_20",
+    "event": "target_selected",
+    "wall_monotonic_ns": 8966390748559,
+    "sim_time": 76.628,
+    "details": {
+      "track": {
+        "color": "RED",
+        "shape": "ROUND",
+        "confidence": 0.8874492139198021,
+        "u": 185.98249898249898,
+        "v": 243.8074888074888,
+        "bbox": [
+          175,
+          232,
+          23,
+          25
+        ],
+        "xyz": [
+          -0.25783997955517385,
+          -0.0090756359207953,
+          0.7349999999999999
+        ],
+        "area": 409.5,
+        "position_uncertainty_m": 0.012,
+        "color_confirmed_sim": 69.83,
+        "color_confirmed_wall_ns": 8955622944513,
+        "id": 20,
+        "first_seen": 69.698,
+        "last_seen": 76.562,
+        "velocity": [
+          0.03960869111173224,
+          -0.00018478425343612634,
+          -5.489032175486054e-16
+        ],
+        "hits": 86,
+        "first_seen_wall_ns": 8955433517513,
+        "eligible": true
+      }
+    }
+  },
+  {
+    "object_id": "attempt_006_track_20",
+    "event": "planning_start",
+    "wall_monotonic_ns": 8966410079351,
+    "sim_time": 76.636,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_006_track_20",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 8966488732768,
+    "sim_time": 76.67,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_006_track_20",
+    "event": "movement_start",
+    "wall_monotonic_ns": 8966520131934,
+    "sim_time": 76.696,
+    "details": {
+      "source": "joint_state_change"
+    }
+  },
+  {
+    "object_id": "attempt_006_track_20",
+    "event": "attempt_failed",
+    "wall_monotonic_ns": 8976653490939,
+    "sim_time": 83.012,
+    "details": {
+      "state": "APPROACH",
+      "error": "Cartesian execution failed -5"
+    }
+  },
+  {
+    "object_id": "attempt_007_track_31",
+    "event": "target_selected",
+    "wall_monotonic_ns": 9031589257047,
+    "sim_time": 113.02,
+    "details": {
+      "track": {
+        "color": "RED",
+        "shape": "BOX",
+        "confidence": 0.8895538703286193,
+        "u": 102.68888888888888,
+        "v": 287.5486697965571,
+        "bbox": [
+          89,
+          274,
+          28,
+          28
+        ],
+        "xyz": [
+          -0.3991895589314107,
+          -0.1024143338689184,
+          0.735
+        ],
+        "area": 532.5,
+        "position_uncertainty_m": 0.004,
+        "color_confirmed_sim": 109.826,
+        "color_confirmed_wall_ns": 9026840021295,
+        "id": 31,
+        "first_seen": 109.694,
+        "last_seen": 112.994,
+        "velocity": [
+          0.03871573384694549,
+          0.0007622583905123556,
+          4.0162075919391024e-17
+        ],
+        "hits": 46,
+        "first_seen_wall_ns": 9026659661837,
+        "eligible": true
+      }
+    }
+  },
+  {
+    "object_id": "attempt_007_track_31",
+    "event": "planning_start",
+    "wall_monotonic_ns": 9031603370131,
+    "sim_time": 113.03,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_007_track_31",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 9031654315881,
+    "sim_time": 113.068,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_007_track_31",
+    "event": "movement_start",
+    "wall_monotonic_ns": 9031704328047,
+    "sim_time": 113.1,
+    "details": {
+      "source": "joint_state_change"
+    }
+  },
+  {
+    "object_id": "attempt_007_track_31",
+    "event": "attempt_failed",
+    "wall_monotonic_ns": 9043066084718,
+    "sim_time": 119.568,
+    "details": {
+      "state": "APPROACH",
+      "error": "Cartesian execution failed -5"
+    }
+  },
+  {
+    "object_id": "attempt_008_track_32",
+    "event": "target_selected",
+    "wall_monotonic_ns": 9047331637804,
+    "sim_time": 122.354,
+    "details": {
+      "track": {
+        "color": "RED",
+        "shape": "BOX",
+        "confidence": 0.8882999353587588,
+        "u": 180.69409076069212,
+        "v": 287.52236369572313,
+        "bbox": [
+          166,
+          273,
+          30,
+          30
+        ],
+        "xyz": [
+          -0.2559048921460516,
+          -0.10236073593846978,
+          0.735
+        ],
+        "area": 510.5,
+        "position_uncertainty_m": 0.004,
+        "color_confirmed_sim": 115.502,
+        "color_confirmed_wall_ns": 9034926083049,
+        "id": 32,
+        "first_seen": 115.37,
+        "last_seen": 122.3,
+        "velocity": [
+          0.04051698776361809,
+          -0.0006539585108939169,
+          -4.885759520360091e-16
+        ],
+        "hits": 82,
+        "first_seen_wall_ns": 9034740419549,
+        "eligible": true
+      }
+    }
+  },
+  {
+    "object_id": "attempt_008_track_32",
+    "event": "planning_start",
+    "wall_monotonic_ns": 9047342236470,
+    "sim_time": 122.356,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_008_track_32",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 9047409453054,
+    "sim_time": 122.378,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_008_track_32",
+    "event": "movement_start",
+    "wall_monotonic_ns": 9047458975012,
+    "sim_time": 122.404,
+    "details": {
+      "source": "joint_state_change"
+    }
+  },
+  {
+    "object_id": "attempt_008_track_32",
+    "event": "attempt_failed",
+    "wall_monotonic_ns": 9058974432559,
+    "sim_time": 128.736,
+    "details": {
+      "state": "APPROACH",
+      "error": "Cartesian execution failed -5"
+    }
+  }
+]

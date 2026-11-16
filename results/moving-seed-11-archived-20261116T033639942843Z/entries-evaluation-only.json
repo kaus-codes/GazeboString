@@ -1,0 +1,37 @@
+{
+  "part_004": {
+    "sim_time": 0.0,
+    "wall_monotonic_ns": 4023517027089,
+    "left_censored": true
+  },
+  "part_005": {
+    "sim_time": 0.0,
+    "wall_monotonic_ns": 4023517036631,
+    "left_censored": true
+  },
+  "part_006": {
+    "sim_time": 0.0,
+    "wall_monotonic_ns": 4023517039839,
+    "left_censored": true
+  },
+  "part_007": {
+    "sim_time": 0.0,
+    "wall_monotonic_ns": 4023517043214,
+    "left_censored": true
+  },
+  "part_008": {
+    "sim_time": 0.0,
+    "wall_monotonic_ns": 4023517052131,
+    "left_censored": true
+  },
+  "part_003": {
+    "sim_time": 8.366,
+    "wall_monotonic_ns": 4033067051843,
+    "left_censored": false
+  },
+  "part_001": {
+    "sim_time": 18.87,
+    "wall_monotonic_ns": 4050081429434,
+    "left_censored": false
+  }
+}

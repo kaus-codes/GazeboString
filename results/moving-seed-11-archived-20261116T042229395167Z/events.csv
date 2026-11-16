@@ -1,0 +1,41 @@
+object_id,event,wall_monotonic_ns,sim_time,details
+attempt_001_track_1,target_selected,8855632792008,4.014,"{""track"": {""color"": ""RED"", ""shape"": ""BOX"", ""confidence"": 0.8901014198782962, ""u"": 125.43992606284658, ""v"": 287.4676524953789, ""bbox"": [111, 273, 30, 30], ""xyz"": [-0.35742697950142593, -0.10224925409265273, 0.7350000000000001], ""area"": 541.0, ""position_uncertainty_m"": 0.004, ""color_confirmed_sim"": 2.246, ""color_confirmed_wall_ns"": 8853251095799, ""id"": 1, ""first_seen"": 2.048, ""last_seen"": 3.896, ""velocity"": [0.036703523087592956, -9.007093752353959e-05, 3.1271281860275373e-16], ""hits"": 23, ""first_seen_wall_ns"": 8852978624340, ""eligible"": true}}"
+attempt_001_track_1,planning_start,8855646337550,4.024,{}
+attempt_001_track_1,planning_complete,8855754150342,4.078,{}
+attempt_001_track_1,movement_start,8855860732883,4.092,"{""source"": ""joint_state_change""}"
+attempt_001_track_1,attempt_failed,8865416574679,10.636,"{""state"": ""APPROACH"", ""error"": ""Cartesian execution failed -5""}"
+attempt_002_track_10,target_selected,8869726995265,13.412,"{""track"": {""color"": ""RED"", ""shape"": ""ROUND"", ""confidence"": 0.8835650623885918, ""u"": 184.98393574297188, ""v"": 203.4678714859438, ""bbox"": [176, 195, 19, 18], ""xyz"": [-0.27162207715007475, 0.08519694315341908, 0.7349999999999999], ""area"": 249.0, ""position_uncertainty_m"": 0.012, ""color_confirmed_sim"": 11.618, ""color_confirmed_wall_ns"": 8866932066888, ""id"": 10, ""first_seen"": 11.486, ""last_seen"": 13.268, ""velocity"": [0.011203564942853496, 0.0002999506954858135, -2.987870607700081e-16], ""hits"": 24, ""first_seen_wall_ns"": 8866745698305, ""eligible"": true}}"
+attempt_002_track_10,planning_start,8869759256098,13.426,{}
+attempt_002_track_10,planning_complete,8869824803931,13.458,{}
+attempt_002_track_10,movement_start,8869874120723,13.488,"{""source"": ""joint_state_change""}"
+attempt_002_track_10,attempt_failed,8880862483770,20.038,"{""state"": ""APPROACH"", ""error"": ""Cartesian execution failed -5""}"
+attempt_003_track_8,target_selected,8884754610688,22.654,"{""track"": {""color"": ""RED"", ""shape"": ""ROUND"", ""confidence"": 0.8863917903610042, ""u"": 288.2740963855422, ""v"": 287.4909638554217, ""bbox"": [275, 273, 27, 30], ""xyz"": [-0.058282362065756266, -0.10229675584319026, 0.735], ""area"": 498.0, ""position_uncertainty_m"": 0.012, ""color_confirmed_sim"": 10.694, ""color_confirmed_wall_ns"": 8865550976888, ""id"": 8, ""first_seen"": 10.562, ""last_seen"": 22.508, ""velocity"": [0.03985208301398622, -0.00013643443949169895, -6.124281277025711e-17], ""hits"": 159, ""first_seen_wall_ns"": 8865387342179, ""eligible"": true}}"
+attempt_003_track_8,planning_start,8884773589855,22.666,{}
+attempt_003_track_8,planning_complete,8884825527022,22.712,{}
+attempt_003_track_8,movement_start,8884868330313,22.742,"{""source"": ""joint_state_change""}"
+attempt_003_track_8,attempt_failed,8893369668192,28.996,"{""state"": ""APPROACH"", ""error"": ""Cartesian execution failed -5""}"
+attempt_004_track_10,target_selected,8896512388610,31.404,"{""track"": {""color"": ""RED"", ""shape"": ""ROUND"", ""confidence"": 0.8821931735657226, ""u"": 316.4485596707819, ""v"": 203.5514403292181, ""bbox"": [308, 195, 18, 18], ""xyz"": [-0.007144026633330875, 0.08499274688294345, 0.7349999999999999], ""area"": 243.0, ""position_uncertainty_m"": 0.012, ""color_confirmed_sim"": 11.618, ""color_confirmed_wall_ns"": 8866932066888, ""id"": 10, ""first_seen"": 11.486, ""last_seen"": 31.352, ""velocity"": [0.020193603097167688, -0.00010839236107760847, -1.6070297780834116e-17], ""hits"": 264, ""first_seen_wall_ns"": 8866745698305, ""eligible"": true}}"
+attempt_004_track_10,planning_start,8896519942860,31.41,{}
+attempt_004_track_10,planning_complete,8896568381693,31.436,{}
+attempt_004_track_10,movement_start,8896604466777,31.468,"{""source"": ""joint_state_change""}"
+attempt_004_track_10,attempt_failed,8906039176656,37.912,"{""state"": ""APPROACH"", ""error"": ""Cartesian execution failed -5""}"
+attempt_005_track_19,target_selected,8952345781928,67.292,"{""track"": {""color"": ""RED"", ""shape"": ""BOX"", ""confidence"": 0.8882674381227901, ""u"": 103.23378728923475, ""v"": 287.42315175097275, ""bbox"": [88, 273, 31, 30], ""xyz"": [-0.39824027130273093, -0.10215856820262753, 0.735], ""area"": 514.0, ""position_uncertainty_m"": 0.004, ""color_confirmed_sim"": 64.286, ""color_confirmed_wall_ns"": 8948002550343, ""id"": 19, ""first_seen"": 64.022, ""last_seen"": 67.256, ""velocity"": [0.03870020526603617, 0.0006282872115413239, 1.8922945221038984e-17], ""hits"": 40, ""first_seen_wall_ns"": 8947386742717, ""eligible"": true}}"
+attempt_005_track_19,planning_start,8952355294094,67.3,{}
+attempt_005_track_19,planning_complete,8952404708344,67.336,{}
+attempt_005_track_19,movement_start,8952441332928,67.364,"{""source"": ""joint_state_change""}"
+attempt_005_track_19,attempt_failed,8962098124266,73.828,"{""state"": ""APPROACH"", ""error"": ""Cartesian execution failed -5""}"
+attempt_006_track_20,target_selected,8966390748559,76.628,"{""track"": {""color"": ""RED"", ""shape"": ""ROUND"", ""confidence"": 0.8874492139198021, ""u"": 185.98249898249898, ""v"": 243.8074888074888, ""bbox"": [175, 232, 23, 25], ""xyz"": [-0.25783997955517385, -0.0090756359207953, 0.7349999999999999], ""area"": 409.5, ""position_uncertainty_m"": 0.012, ""color_confirmed_sim"": 69.83, ""color_confirmed_wall_ns"": 8955622944513, ""id"": 20, ""first_seen"": 69.698, ""last_seen"": 76.562, ""velocity"": [0.03960869111173224, -0.00018478425343612634, -5.489032175486054e-16], ""hits"": 86, ""first_seen_wall_ns"": 8955433517513, ""eligible"": true}}"
+attempt_006_track_20,planning_start,8966410079351,76.636,{}
+attempt_006_track_20,planning_complete,8966488732768,76.67,{}
+attempt_006_track_20,movement_start,8966520131934,76.696,"{""source"": ""joint_state_change""}"
+attempt_006_track_20,attempt_failed,8976653490939,83.012,"{""state"": ""APPROACH"", ""error"": ""Cartesian execution failed -5""}"
+attempt_007_track_31,target_selected,9031589257047,113.02,"{""track"": {""color"": ""RED"", ""shape"": ""BOX"", ""confidence"": 0.8895538703286193, ""u"": 102.68888888888888, ""v"": 287.5486697965571, ""bbox"": [89, 274, 28, 28], ""xyz"": [-0.3991895589314107, -0.1024143338689184, 0.735], ""area"": 532.5, ""position_uncertainty_m"": 0.004, ""color_confirmed_sim"": 109.826, ""color_confirmed_wall_ns"": 9026840021295, ""id"": 31, ""first_seen"": 109.694, ""last_seen"": 112.994, ""velocity"": [0.03871573384694549, 0.0007622583905123556, 4.0162075919391024e-17], ""hits"": 46, ""first_seen_wall_ns"": 9026659661837, ""eligible"": true}}"
+attempt_007_track_31,planning_start,9031603370131,113.03,{}
+attempt_007_track_31,planning_complete,9031654315881,113.068,{}
+attempt_007_track_31,movement_start,9031704328047,113.1,"{""source"": ""joint_state_change""}"
+attempt_007_track_31,attempt_failed,9043066084718,119.568,"{""state"": ""APPROACH"", ""error"": ""Cartesian execution failed -5""}"
+attempt_008_track_32,target_selected,9047331637804,122.354,"{""track"": {""color"": ""RED"", ""shape"": ""BOX"", ""confidence"": 0.8882999353587588, ""u"": 180.69409076069212, ""v"": 287.52236369572313, ""bbox"": [166, 273, 30, 30], ""xyz"": [-0.2559048921460516, -0.10236073593846978, 0.735], ""area"": 510.5, ""position_uncertainty_m"": 0.004, ""color_confirmed_sim"": 115.502, ""color_confirmed_wall_ns"": 9034926083049, ""id"": 32, ""first_seen"": 115.37, ""last_seen"": 122.3, ""velocity"": [0.04051698776361809, -0.0006539585108939169, -4.885759520360091e-16], ""hits"": 82, ""first_seen_wall_ns"": 9034740419549, ""eligible"": true}}"
+attempt_008_track_32,planning_start,9047342236470,122.356,{}
+attempt_008_track_32,planning_complete,9047409453054,122.378,{}
+attempt_008_track_32,movement_start,9047458975012,122.404,"{""source"": ""joint_state_change""}"
+attempt_008_track_32,attempt_failed,9058974432559,128.736,"{""state"": ""APPROACH"", ""error"": ""Cartesian execution failed -5""}"

@@ -1,0 +1,7 @@
+{
+  "passed": false,
+  "verified_placements": 0,
+  "error": "Motion planning failed 99999",
+  "wall_seconds": 3.622098627000014,
+  "seven_pair_elapsed_time": null
+}

@@ -1,0 +1,36 @@
+{
+  "passed": false,
+  "error": "Independent auditor rejected grasp identity/color",
+  "seed": 11,
+  "verified_placements": 1,
+  "attempts": 2,
+  "failed_attempts": 1,
+  "incorrect_picks": 1,
+  "sequence": {
+    "complete": false,
+    "target": "BLUE",
+    "red": 1,
+    "blue": 0,
+    "pairs": 0,
+    "successful_picks": 1,
+    "remaining_pairs": 7,
+    "errors": [],
+    "placements": [
+      {
+        "object_id": "part_007",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 11.802,
+        "wall_monotonic_ns": 3788508484982
+      }
+    ]
+  },
+  "wall_seconds": 13.451324465,
+  "sim_seconds": 11.062000000000001,
+  "seven_pair_elapsed_time_wall_s": null
+}

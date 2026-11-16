@@ -1,0 +1,14 @@
+[
+  {
+    "name": "part_012",
+    "color": "ORANGE",
+    "shape": "box",
+    "spawn_sim": 18.53
+  },
+  {
+    "name": "part_013",
+    "color": "ORANGE",
+    "shape": "cylinder",
+    "spawn_sim": 24.098
+  }
+]

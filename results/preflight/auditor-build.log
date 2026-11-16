@@ -1,0 +1,3 @@
+[ 50%] Building CXX object CMakeFiles/rgb_contact_suction.dir/Suction.cc.o
+[100%] Linking CXX shared library librgb_contact_suction.so
+[100%] Built target rgb_contact_suction

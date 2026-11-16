@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "checks": {
+    "actual_camera_frames": true,
+    "red_pixels_detected": true,
+    "blue_pixels_detected": true,
+    "all_distractors_seen": true,
+    "distractors_never_eligible": true,
+    "three_physical_shapes": true,
+    "calibrated_localization": true,
+    "camera_tracks_actual_motion": true,
+    "exact_alternation": true,
+    "fourteen_verified_releases": true,
+    "unique_objects": true,
+    "no_incorrect_grasps": true,
+    "complete_sequence_and_final_bin_audit": true,
+    "measured_joint_motion": true,
+    "valid_timing_order": true,
+    "actual_fourteen_operation_timings": true,
+    "csv_and_json_exports": true,
+    "timing_plot": true,
+    "fourteen_fresh_final_bin_snapshots": true,
+    "conveyor_continues_during_picks": true,
+    "raw_suction_contact_stream": true,
+    "complete_correct_bin_inventory": true,
+    "owned_processes_reaped": true
+  },
+  "scope": "Actual standard-mode Gazebo run; GUI and clutter are assessed separately."
+}

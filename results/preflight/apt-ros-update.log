@@ -1,0 +1,9 @@
+Hit:1 http://packages.osrfoundation.org/gazebo/ubuntu-stable noble InRelease
+Get:2 http://packages.ros.org/ros2/ubuntu noble InRelease [4679 B]
+Hit:3 http://ports.ubuntu.com/ubuntu-ports noble InRelease
+Hit:4 http://ports.ubuntu.com/ubuntu-ports noble-updates InRelease
+Hit:5 http://ports.ubuntu.com/ubuntu-ports noble-backports InRelease
+Get:6 http://packages.ros.org/ros2/ubuntu noble/main arm64 Packages [2098 kB]
+Hit:7 http://ports.ubuntu.com/ubuntu-ports noble-security InRelease
+Fetched 2103 kB in 4s (482 kB/s)
+Reading package lists...

@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "controllers": {
+    "arm_controller": "active",
+    "joint_state_broadcaster": "active"
+  }
+}

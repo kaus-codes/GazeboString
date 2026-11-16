@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "verified_placements": 0,
+  "move": {
+    "planning_time_reported": 0.135297209,
+    "trajectory_duration_sim": 1.932359173
+  },
+  "wall_seconds": 24.868341511000153
+}

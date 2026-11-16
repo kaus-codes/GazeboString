@@ -1,0 +1,174 @@
+{
+  "sim_stamp": 228.428,
+  "wall_monotonic_ns": 11331573388058,
+  "processing_start_wall_ns": 11331564507642,
+  "processing_ms": 8.74825,
+  "frames": 3296,
+  "tracks": [
+    {
+      "color": "RED",
+      "shape": "ROUND",
+      "confidence": 0.8886884343370177,
+      "u": 128.54453520031115,
+      "v": 243.7569039284325,
+      "bbox": [
+        117,
+        231,
+        24,
+        26
+      ],
+      "xyz": [
+        -0.36836663864562463,
+        -0.008962576375998288,
+        0.7350000000000001
+      ],
+      "area": 428.5,
+      "position_uncertainty_m": 0.012,
+      "color_confirmed_sim": 224.468,
+      "color_confirmed_wall_ns": 11325103078222,
+      "id": 51,
+      "first_seen": 224.336,
+      "last_seen": 228.428,
+      "velocity": [
+        0.039648090317686555,
+        0.0007250332654744108,
+        2.9568114238042875e-16
+      ],
+      "hits": 60,
+      "first_seen_wall_ns": 11324907339597,
+      "eligible": true
+    },
+    {
+      "color": "RED",
+      "shape": "BOX",
+      "confidence": 0.8865313537555598,
+      "u": 605.9957264957264,
+      "v": 287.5042735042735,
+      "bbox": [
+        590,
+        274,
+        33,
+        28
+      ],
+      "xyz": [
+        0.5253838433827599,
+        -0.10232387599780818,
+        0.7350000000000001
+      ],
+      "area": 585.0,
+      "position_uncertainty_m": 0.004,
+      "color_confirmed_sim": 201.83,
+      "color_confirmed_wall_ns": 11291077125248,
+      "id": 48,
+      "first_seen": 201.698,
+      "last_seen": 228.428,
+      "velocity": [
+        0.03937422799354204,
+        3.750806320917754e-05,
+        4.1016945631223384e-16
+      ],
+      "hits": 394,
+      "first_seen_wall_ns": 11290885321706,
+      "eligible": true
+    },
+    {
+      "color": "RED",
+      "shape": "ROUND",
+      "confidence": 0.886142470456196,
+      "u": 61.37353123067408,
+      "v": 203.43846629560915,
+      "bbox": [
+        52,
+        195,
+        20,
+        18
+      ],
+      "xyz": [
+        -0.5203158400557296,
+        0.08526880244710078,
+        0.7350000000000001
+      ],
+      "area": 269.5,
+      "position_uncertainty_m": 0.012,
+      "color_confirmed_sim": 227.768,
+      "color_confirmed_wall_ns": 11330408664849,
+      "id": 52,
+      "first_seen": 227.636,
+      "last_seen": 228.428,
+      "velocity": [
+        0.012312216684589244,
+        0.0007078216180063515,
+        4.3354516042858803e-16
+      ],
+      "hits": 12,
+      "first_seen_wall_ns": 11330097790224,
+      "eligible": true
+    },
+    {
+      "color": "RED",
+      "shape": "BOX",
+      "confidence": 0.8855537890832008,
+      "u": 484.42861788617887,
+      "v": 287.50959349593495,
+      "bbox": [
+        473,
+        274,
+        24,
+        28
+      ],
+      "xyz": [
+        0.3020592834175047,
+        -0.10233471596961213,
+        0.735
+      ],
+      "area": 512.5,
+      "position_uncertainty_m": 0.004,
+      "color_confirmed_sim": 207.44,
+      "color_confirmed_wall_ns": 11298975920418,
+      "id": 49,
+      "first_seen": 207.308,
+      "last_seen": 228.428,
+      "velocity": [
+        0.03969264021586229,
+        0.0007285141110173993,
+        9.16127230839693e-17
+      ],
+      "hits": 311,
+      "first_seen_wall_ns": 11298822839668,
+      "eligible": true
+    },
+    {
+      "color": "YELLOW",
+      "shape": "ROUND",
+      "confidence": 0.8824553702077846,
+      "u": 256.69703243616283,
+      "v": 203.45410628019323,
+      "bbox": [
+        248,
+        195,
+        18,
+        18
+      ],
+      "xyz": [
+        -0.1273533749164514,
+        0.08523058144788098,
+        0.735
+      ],
+      "area": 241.5,
+      "position_uncertainty_m": 0.012,
+      "color_confirmed_sim": 193.712,
+      "color_confirmed_wall_ns": 11277216331450,
+      "id": 47,
+      "first_seen": 193.58,
+      "last_seen": 228.428,
+      "velocity": [
+        0.01181973199474844,
+        0.0004539525282413016,
+        -1.7422856538888794e-17
+      ],
+      "hits": 510,
+      "first_seen_wall_ns": 11277061268992,
+      "eligible": false
+    }
+  ]
+}

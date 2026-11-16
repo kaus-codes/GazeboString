@@ -1,0 +1,317 @@
+{
+  "scope": "Named final-controller standard-mode runs; development attempts are listed separately and are not hidden or combined into this rate. GUI/recording adds overhead.",
+  "runs": [
+    {
+      "seed": 11,
+      "verified_placements": 14,
+      "attempts": 14,
+      "failed_attempts": 0,
+      "incorrect_picks": 0,
+      "wall_seconds": 291.220781717,
+      "sim_seconds": 222.098,
+      "real_time_factor": 0.7626447490819129,
+      "processing_mean_ms": 9.525814890776699,
+      "matched_color_accuracy": 0.999632333630968,
+      "localization_mean_m": 0.01034452065818302,
+      "throughput_per_wall_minute": 2.8844095364605122
+    },
+    {
+      "seed": 23,
+      "verified_placements": 14,
+      "attempts": 14,
+      "failed_attempts": 0,
+      "incorrect_picks": 0,
+      "wall_seconds": 563.016560629,
+      "sim_seconds": 249.91,
+      "real_time_factor": 0.4438768190420571,
+      "processing_mean_ms": 13.733621848407177,
+      "matched_color_accuracy": 0.9998755754634814,
+      "localization_mean_m": 0.010507489234403816,
+      "throughput_per_wall_minute": 1.4919632187400584
+    },
+    {
+      "seed": 47,
+      "verified_placements": 14,
+      "attempts": 16,
+      "failed_attempts": 2,
+      "incorrect_picks": 0,
+      "wall_seconds": 443.39338741,
+      "sim_seconds": 273.16200000000003,
+      "real_time_factor": 0.6160714339824169,
+      "processing_mean_ms": 10.78854401513965,
+      "matched_color_accuracy": 0.9994138580699183,
+      "localization_mean_m": 0.010498582300113054,
+      "throughput_per_wall_minute": 1.8944802152028106
+    }
+  ],
+  "verified_placements": 42,
+  "attempts": 44,
+  "wall_mean_s": 432.5435765853333,
+  "wall_std_population_s": 111.22507257746483,
+  "historical_summaries": [
+    {
+      "directory": "camera",
+      "passed": true,
+      "seed": null,
+      "verified_placements": 0,
+      "attempts": null,
+      "error": null
+    },
+    {
+      "directory": "camera-no-calibration-failure",
+      "passed": false,
+      "seed": null,
+      "verified_placements": 0,
+      "attempts": null,
+      "error": null
+    },
+    {
+      "directory": "camera-overhead-pass",
+      "passed": true,
+      "seed": null,
+      "verified_placements": 0,
+      "attempts": null,
+      "error": null
+    },
+    {
+      "directory": "conveyor",
+      "passed": true,
+      "seed": null,
+      "verified_placements": null,
+      "attempts": null,
+      "error": null
+    },
+    {
+      "directory": "conveyor-uniform-speed-failure",
+      "passed": false,
+      "seed": null,
+      "verified_placements": null,
+      "attempts": null,
+      "error": null
+    },
+    {
+      "directory": "feeder-probe",
+      "passed": true,
+      "seed": null,
+      "verified_placements": null,
+      "attempts": null,
+      "error": null
+    },
+    {
+      "directory": "full-seed-11",
+      "passed": true,
+      "seed": 11,
+      "verified_placements": 14,
+      "attempts": 14,
+      "error": null
+    },
+    {
+      "directory": "full-seed-11-archived-20261116T023125904602Z",
+      "passed": false,
+      "seed": 11,
+      "verified_placements": 0,
+      "attempts": 0,
+      "error": "name 'state' is not defined"
+    },
+    {
+      "directory": "full-seed-11-archived-20261116T023834309291Z",
+      "passed": false,
+      "seed": 11,
+      "verified_placements": 2,
+      "attempts": 2,
+      "error": "Required camera color unavailable within timeout"
+    },
+    {
+      "directory": "full-seed-11-archived-20261116T025748925056Z",
+      "passed": false,
+      "seed": 11,
+      "verified_placements": 2,
+      "attempts": 8,
+      "error": "Motion planning failed 99999"
+    },
+    {
+      "directory": "full-seed-11-archived-20261116T031252631008Z",
+      "passed": false,
+      "seed": 11,
+      "verified_placements": 8,
+      "attempts": 11,
+      "error": "Independent auditor rejected grasp identity/color"
+    },
+    {
+      "directory": "full-seed-11-archived-20261116T032658182960Z",
+      "passed": false,
+      "seed": 11,
+      "verified_placements": 14,
+      "attempts": 15,
+      "error": "Final bin audit rejected previously placed object"
+    },
+    {
+      "directory": "full-seed-11-archived-20261116T050157322875Z",
+      "passed": false,
+      "seed": 11,
+      "verified_placements": 3,
+      "attempts": 4,
+      "error": "Motion planning failed 99999"
+    },
+    {
+      "directory": "full-seed-23",
+      "passed": true,
+      "seed": 23,
+      "verified_placements": 14,
+      "attempts": 14,
+      "error": null
+    },
+    {
+      "directory": "full-seed-47",
+      "passed": true,
+      "seed": 47,
+      "verified_placements": 14,
+      "attempts": 16,
+      "error": null
+    },
+    {
+      "directory": "moving-overhead-occlusion-failure",
+      "passed": false,
+      "seed": 11,
+      "verified_placements": 0,
+      "attempts": 1,
+      "error": "Required camera color unavailable within timeout"
+    },
+    {
+      "directory": "moving-seed-11",
+      "passed": true,
+      "seed": 11,
+      "verified_placements": 2,
+      "attempts": 2,
+      "error": null
+    },
+    {
+      "directory": "moving-seed-11-archived-20261116T025113466988Z",
+      "passed": true,
+      "seed": 11,
+      "verified_placements": 2,
+      "attempts": 3,
+      "error": null
+    },
+    {
+      "directory": "moving-seed-11-archived-20261116T025520404965Z",
+      "passed": false,
+      "seed": 11,
+      "verified_placements": 1,
+      "attempts": 2,
+      "error": "Independent auditor rejected grasp identity/color"
+    },
+    {
+      "directory": "moving-seed-11-archived-20261116T033639942843Z",
+      "passed": true,
+      "seed": 11,
+      "verified_placements": 2,
+      "attempts": 2,
+      "error": null
+    },
+    {
+      "directory": "moving-seed-11-archived-20261116T035259360481Z",
+      "passed": false,
+      "seed": 11,
+      "verified_placements": 0,
+      "attempts": 1,
+      "error": "Required camera color unavailable within timeout"
+    },
+    {
+      "directory": "moving-seed-11-archived-20261116T040948362195Z",
+      "passed": false,
+      "seed": 11,
+      "verified_placements": 0,
+      "attempts": 8,
+      "error": "Retry limit exceeded"
+    },
+    {
+      "directory": "moving-seed-11-archived-20261116T041546980777Z",
+      "passed": false,
+      "seed": 11,
+      "verified_placements": 0,
+      "attempts": 8,
+      "error": "Retry limit exceeded"
+    },
+    {
+      "directory": "moving-seed-11-archived-20261116T042229395167Z",
+      "passed": false,
+      "seed": 11,
+      "verified_placements": 0,
+      "attempts": 8,
+      "error": "Retry limit exceeded"
+    },
+    {
+      "directory": "moving-seed-11-archived-20261116T042623117291Z",
+      "passed": false,
+      "seed": 11,
+      "verified_placements": 0,
+      "attempts": 0,
+      "error": "MoveIt execution failed -4"
+    },
+    {
+      "directory": "planner",
+      "passed": true,
+      "seed": null,
+      "verified_placements": 0,
+      "attempts": null,
+      "error": null
+    },
+    {
+      "directory": "planner-missing-plugin-failure",
+      "passed": false,
+      "seed": null,
+      "verified_placements": 0,
+      "attempts": null,
+      "error": "MoveIt execution failed -4"
+    },
+    {
+      "directory": "robot",
+      "passed": true,
+      "seed": null,
+      "verified_placements": 0,
+      "attempts": null,
+      "error": null
+    },
+    {
+      "directory": "static-adapter-adjacent-collision-failure",
+      "passed": false,
+      "seed": null,
+      "verified_placements": 0,
+      "attempts": null,
+      "error": "Motion planning failed 99999"
+    },
+    {
+      "directory": "static-before-retention-observer",
+      "passed": true,
+      "seed": null,
+      "verified_placements": 1,
+      "attempts": null,
+      "error": null
+    },
+    {
+      "directory": "static-original-tool-pass",
+      "passed": true,
+      "seed": null,
+      "verified_placements": 1,
+      "attempts": null,
+      "error": null
+    },
+    {
+      "directory": "static-pick",
+      "passed": true,
+      "seed": null,
+      "verified_placements": 1,
+      "attempts": null,
+      "error": null
+    },
+    {
+      "directory": "static-pick-no-contact-failure",
+      "passed": false,
+      "seed": null,
+      "verified_placements": 0,
+      "attempts": null,
+      "error": "No contact-gated grasp attachment"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "part_012",
+    "color": "BLUE",
+    "shape": "sphere",
+    "dimensions": [
+      0.019
+    ],
+    "spawn_sim": 7.972,
+    "confirmed_sim": 8.248,
+    "first_pose": [
+      -1.35,
+      0.095,
+      0.7249608
+    ],
+    "service_reply": "data: true",
+    "service_error": ""
+  },
+  {
+    "name": "part_013",
+    "color": "GREEN",
+    "shape": "box",
+    "dimensions": [
+      0.035,
+      0.035,
+      0.035
+    ],
+    "spawn_sim": 13.814,
+    "confirmed_sim": 14.044,
+    "first_pose": [
+      -1.35,
+      -0.095,
+      0.7249608
+    ],
+    "service_reply": "data: true",
+    "service_error": ""
+  },
+  {
+    "name": "part_014",
+    "color": "ORANGE",
+    "shape": "box",
+    "dimensions": [
+      0.035,
+      0.035,
+      0.035
+    ],
+    "spawn_sim": 19.572,
+    "confirmed_sim": 19.844,
+    "first_pose": [
+      -1.35,
+      -0.095,
+      0.7249608
+    ],
+    "service_reply": "data: true",
+    "service_error": ""
+  },
+  {
+    "name": "part_015",
+    "color": "ORANGE",
+    "shape": "sphere",
+    "dimensions": [
+      0.019
+    ],
+    "spawn_sim": 25.35,
+    "confirmed_sim": 25.52,
+    "first_pose": [
+      -1.35,
+      0.095,
+      0.7249608
+    ],
+    "service_reply": "data: true",
+    "service_error": ""
+  }
+]

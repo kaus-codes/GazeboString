@@ -1,0 +1,13 @@
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+[ WARN:0@88.405] global ./modules/imgcodecs/src/loadsave.cpp (239) findDecoder imread_('/project/results/full-seed-23/live/vision.jpg'): can't open/read file: check file path/integrity
+[ WARN:0@157.601] global ./modules/imgcodecs/src/loadsave.cpp (239) findDecoder imread_('/project/results/full-seed-23/live/vision.jpg'): can't open/read file: check file path/integrity
+[ WARN:0@177.597] global ./modules/imgcodecs/src/loadsave.cpp (239) findDecoder imread_('/project/results/full-seed-23/live/vision.jpg'): can't open/read file: check file path/integrity
+[ WARN:0@183.598] global ./modules/imgcodecs/src/loadsave.cpp (239) findDecoder imread_('/project/results/full-seed-23/live/vision.jpg'): can't open/read file: check file path/integrity
+[ WARN:0@212.797] global ./modules/imgcodecs/src/loadsave.cpp (239) findDecoder imread_('/project/results/full-seed-23/live/vision.jpg'): can't open/read file: check file path/integrity
+[ WARN:0@214.196] global ./modules/imgcodecs/src/loadsave.cpp (239) findDecoder imread_('/project/results/full-seed-23/live/vision.jpg'): can't open/read file: check file path/integrity
+[ WARN:0@325.598] global ./modules/imgcodecs/src/loadsave.cpp (239) findDecoder imread_('/project/results/full-seed-23/live/vision.jpg'): can't open/read file: check file path/integrity
+[ WARN:0@400.600] global ./modules/imgcodecs/src/loadsave.cpp (239) findDecoder imread_('/project/results/full-seed-23/live/vision.jpg'): can't open/read file: check file path/integrity
+[ WARN:0@412.800] global ./modules/imgcodecs/src/loadsave.cpp (239) findDecoder imread_('/project/results/full-seed-23/live/vision.jpg'): can't open/read file: check file path/integrity
+[ WARN:0@456.992] global ./modules/imgcodecs/src/loadsave.cpp (239) findDecoder imread_('/project/results/full-seed-23/live/vision.jpg'): can't open/read file: check file path/integrity
+[ WARN:0@508.593] global ./modules/imgcodecs/src/loadsave.cpp (239) findDecoder imread_('/project/results/full-seed-23/live/vision.jpg'): can't open/read file: check file path/integrity
+[ WARN:0@521.396] global ./modules/imgcodecs/src/loadsave.cpp (239) findDecoder imread_('/project/results/full-seed-23/live/vision.jpg'): can't open/read file: check file path/integrity

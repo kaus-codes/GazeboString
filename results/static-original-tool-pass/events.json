@@ -1,0 +1,93 @@
+[
+  {
+    "object_id": "5",
+    "event": "target_selected",
+    "wall_monotonic_ns": 1727540480418,
+    "sim_time": 1.9580000000000002,
+    "details": {
+      "track": {
+        "color": "RED",
+        "shape": "ROUND",
+        "confidence": 0.8564562967261161,
+        "u": 328.2415551306564,
+        "v": 159.77947737412362,
+        "bbox": [
+          320,
+          150,
+          18,
+          20
+        ],
+        "xyz": [
+          0.16916285582265528,
+          -0.01737915751420035,
+          0.7349999999999999
+        ],
+        "area": 261.5,
+        "position_uncertainty_m": 0.012,
+        "id": 5,
+        "first_seen": 1.19,
+        "last_seen": 1.916,
+        "velocity": [
+          2.560072361027259e-05,
+          1.3115186281543106e-05,
+          0.0
+        ],
+        "hits": 9,
+        "eligible": true
+      }
+    }
+  },
+  {
+    "object_id": "5",
+    "event": "planning_start",
+    "wall_monotonic_ns": 1727542566085,
+    "sim_time": 1.9620000000000002,
+    "details": {}
+  },
+  {
+    "object_id": "5",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 1727626451293,
+    "sim_time": 2.008,
+    "details": {}
+  },
+  {
+    "object_id": "5",
+    "event": "movement_start",
+    "wall_monotonic_ns": 1727634485418,
+    "sim_time": 2.012,
+    "details": {}
+  },
+  {
+    "object_id": "5",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 1732556335712,
+    "sim_time": 5.382,
+    "details": {
+      "attached_entity": "part_007"
+    }
+  },
+  {
+    "object_id": "5",
+    "event": "lift_confirmed",
+    "wall_monotonic_ns": 1735336280880,
+    "sim_time": 6.834,
+    "details": {}
+  },
+  {
+    "object_id": "5",
+    "event": "release",
+    "wall_monotonic_ns": 1739411633674,
+    "sim_time": 9.632,
+    "details": {}
+  },
+  {
+    "object_id": "5",
+    "event": "placement_confirmed",
+    "wall_monotonic_ns": 1740460484299,
+    "sim_time": 10.464,
+    "details": {
+      "entity": "part_007"
+    }
+  }
+]

@@ -1,0 +1,1075 @@
+[
+  {
+    "object_id": "attempt_001_track_4",
+    "event": "target_selected",
+    "wall_monotonic_ns": 4183433773496,
+    "sim_time": 4.396,
+    "details": {
+      "track": {
+        "color": "RED",
+        "shape": "BOX",
+        "confidence": 0.8795720794265367,
+        "u": 420.28170177612554,
+        "v": 243.83684427922344,
+        "bbox": [
+          410,
+          232,
+          22,
+          25
+        ],
+        "xyz": [
+          0.1929286109850152,
+          -0.009141241080730111,
+          0.7349999999999999
+        ],
+        "area": 403.5,
+        "position_uncertainty_m": 0.004,
+        "color_confirmed_sim": 2.312,
+        "color_confirmed_wall_ns": 4178639987243,
+        "id": 4,
+        "first_seen": 1.9820000000000002,
+        "last_seen": 4.292,
+        "velocity": [
+          0.034205261231885185,
+          -0.0001697783812826236,
+          -6.229688482244992e-16
+        ],
+        "hits": 19,
+        "first_seen_wall_ns": 4178033375618,
+        "eligible": true
+      }
+    }
+  },
+  {
+    "object_id": "attempt_001_track_4",
+    "event": "planning_start",
+    "wall_monotonic_ns": 4183451140996,
+    "sim_time": 4.412,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_001_track_4",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 4183660135246,
+    "sim_time": 4.5280000000000005,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_001_track_4",
+    "event": "movement_start",
+    "wall_monotonic_ns": 4183821753496,
+    "sim_time": 4.598,
+    "details": {
+      "source": "joint_state_change"
+    }
+  },
+  {
+    "object_id": "attempt_001_track_4",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 4189583513372,
+    "sim_time": 7.356,
+    "details": {
+      "entity": "part_007"
+    }
+  },
+  {
+    "object_id": "attempt_001_track_4",
+    "event": "lift_confirmed",
+    "wall_monotonic_ns": 4191948538124,
+    "sim_time": 8.57,
+    "details": {
+      "entity": "part_007"
+    }
+  },
+  {
+    "object_id": "attempt_001_track_4",
+    "event": "release",
+    "wall_monotonic_ns": 4199020966669,
+    "sim_time": 11.018,
+    "details": {
+      "entity": "part_007"
+    }
+  },
+  {
+    "object_id": "attempt_001_track_4",
+    "event": "placement_confirmed",
+    "wall_monotonic_ns": 4201044080128,
+    "sim_time": 11.842,
+    "details": {
+      "entity": "part_007",
+      "evaluated_color": "RED",
+      "bin_color": "RED",
+      "eligible_entry": {
+        "sim_time": 1.22,
+        "wall_monotonic_ns": 4174534734991,
+        "left_censored": true
+      },
+      "camera_first_detection_sim": 1.9820000000000002,
+      "camera_first_detection_wall_ns": 4178033375618,
+      "camera_color_confirmed_sim": 2.312,
+      "camera_color_confirmed_wall_ns": 4178639987243
+    }
+  },
+  {
+    "object_id": "attempt_002_track_5",
+    "event": "target_selected",
+    "wall_monotonic_ns": 4201112219628,
+    "sim_time": 11.862,
+    "details": {
+      "track": {
+        "color": "BLUE",
+        "shape": "ROUND",
+        "confidence": 0.8783951434777777,
+        "u": 242.80436264485343,
+        "v": 203.46080436264484,
+        "bbox": [
+          234,
+          195,
+          19,
+          18
+        ],
+        "xyz": [
+          -0.15530157254316188,
+          0.0852142130857736,
+          0.7350000000000001
+        ],
+        "area": 244.5,
+        "position_uncertainty_m": 0.012,
+        "color_confirmed_sim": 2.312,
+        "color_confirmed_wall_ns": 4178639998493,
+        "id": 5,
+        "first_seen": 1.9820000000000002,
+        "last_seen": 11.75,
+        "velocity": [
+          0.011165340483966443,
+          5.0847613301576994e-05,
+          1.6533677596286536e-16
+        ],
+        "hits": 80,
+        "first_seen_wall_ns": 4178033377701,
+        "eligible": true
+      }
+    }
+  },
+  {
+    "object_id": "attempt_002_track_5",
+    "event": "planning_start",
+    "wall_monotonic_ns": 4201137390420,
+    "sim_time": 11.870000000000001,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_002_track_5",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 4201399554920,
+    "sim_time": 11.89,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_002_track_5",
+    "event": "movement_start",
+    "wall_monotonic_ns": 4201641860962,
+    "sim_time": 11.948,
+    "details": {
+      "source": "joint_state_change"
+    }
+  },
+  {
+    "object_id": "attempt_002_track_5",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 4208833274840,
+    "sim_time": 15.014,
+    "details": {
+      "entity": "part_005"
+    }
+  },
+  {
+    "object_id": "attempt_002_track_5",
+    "event": "lift_confirmed",
+    "wall_monotonic_ns": 4212571180967,
+    "sim_time": 16.512,
+    "details": {
+      "entity": "part_005"
+    }
+  },
+  {
+    "object_id": "attempt_002_track_5",
+    "event": "release",
+    "wall_monotonic_ns": 4216662443760,
+    "sim_time": 18.916,
+    "details": {
+      "entity": "part_005"
+    }
+  },
+  {
+    "object_id": "attempt_002_track_5",
+    "event": "placement_confirmed",
+    "wall_monotonic_ns": 4217940246385,
+    "sim_time": 19.744,
+    "details": {
+      "entity": "part_005",
+      "evaluated_color": "BLUE",
+      "bin_color": "BLUE",
+      "eligible_entry": {
+        "sim_time": 1.22,
+        "wall_monotonic_ns": 4174534728075,
+        "left_censored": true
+      },
+      "camera_first_detection_sim": 1.9820000000000002,
+      "camera_first_detection_wall_ns": 4178033377701,
+      "camera_color_confirmed_sim": 2.312,
+      "camera_color_confirmed_wall_ns": 4178639998493
+    }
+  },
+  {
+    "object_id": "attempt_003_track_15",
+    "event": "target_selected",
+    "wall_monotonic_ns": 4313346404679,
+    "sim_time": 67.628,
+    "details": {
+      "track": {
+        "color": "RED",
+        "shape": "BOX",
+        "confidence": 0.8800659429985798,
+        "u": 103.39810017271157,
+        "v": 287.52331606217615,
+        "bbox": [
+          90,
+          275,
+          28,
+          26
+        ],
+        "xyz": [
+          -0.39789720016212987,
+          -0.10236267640881397,
+          0.735
+        ],
+        "area": 579.0,
+        "position_uncertainty_m": 0.004,
+        "color_confirmed_sim": 64.484,
+        "color_confirmed_wall_ns": 4306660369134,
+        "id": 15,
+        "first_seen": 64.352,
+        "last_seen": 67.586,
+        "velocity": [
+          0.03954131088163946,
+          9.17940078238424e-05,
+          -1.997118477694043e-16
+        ],
+        "hits": 34,
+        "first_seen_wall_ns": 4306449932217,
+        "eligible": true
+      }
+    }
+  },
+  {
+    "object_id": "attempt_003_track_15",
+    "event": "planning_start",
+    "wall_monotonic_ns": 4313355613804,
+    "sim_time": 67.634,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_003_track_15",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 4313438124596,
+    "sim_time": 67.682,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_003_track_15",
+    "event": "movement_start",
+    "wall_monotonic_ns": 4313529861637,
+    "sim_time": 67.732,
+    "details": {
+      "source": "joint_state_change"
+    }
+  },
+  {
+    "object_id": "attempt_003_track_15",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 4320062967724,
+    "sim_time": 71.354,
+    "details": {
+      "entity": "part_018"
+    }
+  },
+  {
+    "object_id": "attempt_003_track_15",
+    "event": "lift_confirmed",
+    "wall_monotonic_ns": 4322625264892,
+    "sim_time": 72.454,
+    "details": {
+      "entity": "part_018"
+    }
+  },
+  {
+    "object_id": "attempt_003_track_15",
+    "event": "release",
+    "wall_monotonic_ns": 4336259089440,
+    "sim_time": 76.408,
+    "details": {
+      "entity": "part_018"
+    }
+  },
+  {
+    "object_id": "attempt_003_track_15",
+    "event": "placement_confirmed",
+    "wall_monotonic_ns": 4338173669523,
+    "sim_time": 77.236,
+    "details": {
+      "entity": "part_018",
+      "evaluated_color": "RED",
+      "bin_color": "RED",
+      "eligible_entry": {
+        "sim_time": 64.442,
+        "wall_monotonic_ns": 4306537964384,
+        "left_censored": false
+      },
+      "camera_first_detection_sim": 64.352,
+      "camera_first_detection_wall_ns": 4306449932217,
+      "camera_color_confirmed_sim": 64.484,
+      "camera_color_confirmed_wall_ns": 4306660369134
+    }
+  },
+  {
+    "object_id": "attempt_004_track_11",
+    "event": "target_selected",
+    "wall_monotonic_ns": 4338252199690,
+    "sim_time": 77.264,
+    "details": {
+      "track": {
+        "color": "BLUE",
+        "shape": "ROUND",
+        "confidence": 0.8779927823305349,
+        "u": 300.6020408163265,
+        "v": 203.5,
+        "bbox": [
+          292,
+          195,
+          18,
+          18
+        ],
+        "xyz": [
+          -0.03902292952346475,
+          0.08511843417246401,
+          0.735
+        ],
+        "area": 245.0,
+        "position_uncertainty_m": 0.012,
+        "color_confirmed_sim": 33.794,
+        "color_confirmed_wall_ns": 4243548374273,
+        "id": 11,
+        "first_seen": 33.596000000000004,
+        "last_seen": 77.222,
+        "velocity": [
+          0.011162083919833265,
+          -3.874827701691295e-05,
+          -2.164823403997069e-17
+        ],
+        "hits": 374,
+        "first_seen_wall_ns": 4243233141564,
+        "eligible": true
+      }
+    }
+  },
+  {
+    "object_id": "attempt_004_track_11",
+    "event": "planning_start",
+    "wall_monotonic_ns": 4338256832815,
+    "sim_time": 77.268,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_005_track_17",
+    "event": "target_selected",
+    "wall_monotonic_ns": 4357986826699,
+    "sim_time": 84.778,
+    "details": {
+      "track": {
+        "color": "BLUE",
+        "shape": "BOX",
+        "confidence": 0.8790655403489263,
+        "u": 104.37716262975779,
+        "v": 287.51730103806227,
+        "bbox": [
+          91,
+          275,
+          28,
+          26
+        ],
+        "xyz": [
+          -0.39610112719443047,
+          -0.1023504205833895,
+          0.735
+        ],
+        "area": 578.0,
+        "position_uncertainty_m": 0.004,
+        "color_confirmed_sim": 81.578,
+        "color_confirmed_wall_ns": 4347609291319,
+        "id": 17,
+        "first_seen": 81.446,
+        "last_seen": 84.746,
+        "velocity": [
+          0.03934402329299161,
+          0.00010461322723084145,
+          2.55342019590588e-17
+        ],
+        "hits": 34,
+        "first_seen_wall_ns": 4347300595819,
+        "eligible": true
+      }
+    }
+  },
+  {
+    "object_id": "attempt_005_track_17",
+    "event": "planning_start",
+    "wall_monotonic_ns": 4357996141324,
+    "sim_time": 84.778,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_005_track_17",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 4358302842908,
+    "sim_time": 84.82,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_005_track_17",
+    "event": "movement_start",
+    "wall_monotonic_ns": 4358492816783,
+    "sim_time": 84.862,
+    "details": {
+      "source": "joint_state_change"
+    }
+  },
+  {
+    "object_id": "attempt_005_track_17",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 4371862841956,
+    "sim_time": 87.46,
+    "details": {
+      "entity": "part_021"
+    }
+  },
+  {
+    "object_id": "attempt_005_track_17",
+    "event": "lift_confirmed",
+    "wall_monotonic_ns": 4384027405545,
+    "sim_time": 88.602,
+    "details": {
+      "entity": "part_021"
+    }
+  },
+  {
+    "object_id": "attempt_005_track_17",
+    "event": "release",
+    "wall_monotonic_ns": 4394064683300,
+    "sim_time": 91.984,
+    "details": {
+      "entity": "part_021"
+    }
+  },
+  {
+    "object_id": "attempt_005_track_17",
+    "event": "placement_confirmed",
+    "wall_monotonic_ns": 4396606151676,
+    "sim_time": 92.826,
+    "details": {
+      "entity": "part_021",
+      "evaluated_color": "BLUE",
+      "bin_color": "BLUE",
+      "eligible_entry": {
+        "sim_time": 81.552,
+        "wall_monotonic_ns": 4347468327528,
+        "left_censored": false
+      },
+      "camera_first_detection_sim": 81.446,
+      "camera_first_detection_wall_ns": 4347300595819,
+      "camera_color_confirmed_sim": 81.578,
+      "camera_color_confirmed_wall_ns": 4347609291319
+    }
+  },
+  {
+    "object_id": "attempt_006_track_22",
+    "event": "target_selected",
+    "wall_monotonic_ns": 4438759188987,
+    "sim_time": 107.624,
+    "details": {
+      "track": {
+        "color": "RED",
+        "shape": "ROUND",
+        "confidence": 0.8795706480410114,
+        "u": 115.54392021480628,
+        "v": 243.7851937092443,
+        "bbox": [
+          103,
+          232,
+          26,
+          25
+        ],
+        "xyz": [
+          -0.39336820444616083,
+          -0.009025806870837871,
+          0.735
+        ],
+        "area": 434.5,
+        "position_uncertainty_m": 0.012,
+        "color_confirmed_sim": 104.48,
+        "color_confirmed_wall_ns": 4429662145024,
+        "id": 22,
+        "first_seen": 104.15,
+        "last_seen": 107.582,
+        "velocity": [
+          0.03876812453904188,
+          0.0004148692831261565,
+          -2.576388461102812e-16
+        ],
+        "hits": 27,
+        "first_seen_wall_ns": 4428860867774,
+        "eligible": true
+      }
+    }
+  },
+  {
+    "object_id": "attempt_006_track_22",
+    "event": "planning_start",
+    "wall_monotonic_ns": 4438764878695,
+    "sim_time": 107.628,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_006_track_22",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 4438905566237,
+    "sim_time": 107.674,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_006_track_22",
+    "event": "movement_start",
+    "wall_monotonic_ns": 4439014968028,
+    "sim_time": 107.722,
+    "details": {
+      "source": "joint_state_change"
+    }
+  },
+  {
+    "object_id": "attempt_006_track_22",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 4449414124825,
+    "sim_time": 111.408,
+    "details": {
+      "entity": "part_025"
+    }
+  },
+  {
+    "object_id": "attempt_006_track_22",
+    "event": "lift_confirmed",
+    "wall_monotonic_ns": 4453649639577,
+    "sim_time": 112.53,
+    "details": {
+      "entity": "part_025"
+    }
+  },
+  {
+    "object_id": "attempt_006_track_22",
+    "event": "release",
+    "wall_monotonic_ns": 4461735962872,
+    "sim_time": 115.906,
+    "details": {
+      "entity": "part_025"
+    }
+  },
+  {
+    "object_id": "attempt_006_track_22",
+    "event": "placement_confirmed",
+    "wall_monotonic_ns": 4463658570039,
+    "sim_time": 116.736,
+    "details": {
+      "entity": "part_025",
+      "evaluated_color": "RED",
+      "bin_color": "RED",
+      "eligible_entry": {
+        "sim_time": 104.316,
+        "wall_monotonic_ns": 4429243867440,
+        "left_censored": false
+      },
+      "camera_first_detection_sim": 104.15,
+      "camera_first_detection_wall_ns": 4428860867774,
+      "camera_color_confirmed_sim": 104.48,
+      "camera_color_confirmed_wall_ns": 4429662145024
+    }
+  },
+  {
+    "object_id": "attempt_007_track_21",
+    "event": "target_selected",
+    "wall_monotonic_ns": 4463666370706,
+    "sim_time": 116.742,
+    "details": {
+      "track": {
+        "color": "BLUE",
+        "shape": "BOX",
+        "confidence": 0.8785488102228433,
+        "u": 422.5689768976897,
+        "v": 287.5029702970297,
+        "bbox": [
+          412,
+          275,
+          23,
+          26
+        ],
+        "xyz": [
+          0.18842294093471496,
+          -0.10232122057513388,
+          0.7350000000000001
+        ],
+        "area": 505.0,
+        "position_uncertainty_m": 0.004,
+        "color_confirmed_sim": 98.606,
+        "color_confirmed_wall_ns": 4411874578808,
+        "id": 21,
+        "first_seen": 98.474,
+        "last_seen": 116.69,
+        "velocity": [
+          0.03970141488849984,
+          -2.559103135921143e-06,
+          5.683640548622113e-16
+        ],
+        "hits": 167,
+        "first_seen_wall_ns": 4411569158266,
+        "eligible": true
+      }
+    }
+  },
+  {
+    "object_id": "attempt_007_track_21",
+    "event": "planning_start",
+    "wall_monotonic_ns": 4463669110248,
+    "sim_time": 116.744,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_007_track_21",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 4463773202539,
+    "sim_time": 116.784,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_007_track_21",
+    "event": "movement_start",
+    "wall_monotonic_ns": 4463839815956,
+    "sim_time": 116.824,
+    "details": {
+      "source": "joint_state_change"
+    }
+  },
+  {
+    "object_id": "attempt_007_track_21",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 4480797975798,
+    "sim_time": 121.704,
+    "details": {
+      "entity": "part_024"
+    }
+  },
+  {
+    "object_id": "attempt_007_track_21",
+    "event": "lift_confirmed",
+    "wall_monotonic_ns": 4488661032967,
+    "sim_time": 122.882,
+    "details": {
+      "entity": "part_024"
+    }
+  },
+  {
+    "object_id": "attempt_007_track_21",
+    "event": "release",
+    "wall_monotonic_ns": 4494678654095,
+    "sim_time": 125.06,
+    "details": {
+      "entity": "part_024"
+    }
+  },
+  {
+    "object_id": "attempt_007_track_21",
+    "event": "placement_confirmed",
+    "wall_monotonic_ns": 4501299474432,
+    "sim_time": 125.896,
+    "details": {
+      "entity": "part_024",
+      "evaluated_color": "BLUE",
+      "bin_color": "BLUE",
+      "eligible_entry": {
+        "sim_time": 98.634,
+        "wall_monotonic_ns": 4411864046974,
+        "left_censored": false
+      },
+      "camera_first_detection_sim": 98.474,
+      "camera_first_detection_wall_ns": 4411569158266,
+      "camera_color_confirmed_sim": 98.606,
+      "camera_color_confirmed_wall_ns": 4411874578808
+    }
+  },
+  {
+    "object_id": "attempt_008_track_26",
+    "event": "target_selected",
+    "wall_monotonic_ns": 4501408952515,
+    "sim_time": 125.91,
+    "details": {
+      "track": {
+        "color": "RED",
+        "shape": "BOX",
+        "confidence": 0.8797495519149268,
+        "u": 246.88457609805926,
+        "v": 287.5100442628532,
+        "bbox": [
+          236,
+          275,
+          22,
+          26
+        ],
+        "xyz": [
+          -0.1343147108139836,
+          -0.10233563444314558,
+          0.735
+        ],
+        "area": 489.5,
+        "position_uncertainty_m": 0.004,
+        "color_confirmed_sim": 115.766,
+        "color_confirmed_wall_ns": 4461538108913,
+        "id": 26,
+        "first_seen": 115.634,
+        "last_seen": 125.666,
+        "velocity": [
+          0.039200061653363386,
+          6.4973778270478895e-06,
+          -3.903166657987122e-17
+        ],
+        "hits": 84,
+        "first_seen_wall_ns": 4461301080788,
+        "eligible": true
+      }
+    }
+  },
+  {
+    "object_id": "attempt_008_track_26",
+    "event": "planning_start",
+    "wall_monotonic_ns": 4501414134640,
+    "sim_time": 125.912,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_008_track_26",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 4501909200140,
+    "sim_time": 125.954,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_008_track_26",
+    "event": "movement_start",
+    "wall_monotonic_ns": 4502077223765,
+    "sim_time": 126.004,
+    "details": {
+      "source": "joint_state_change"
+    }
+  },
+  {
+    "object_id": "attempt_009_track_32",
+    "event": "target_selected",
+    "wall_monotonic_ns": 4522240273733,
+    "sim_time": 129.22,
+    "details": {
+      "track": {
+        "color": "RED",
+        "shape": "BOX",
+        "confidence": 0.8865094863856474,
+        "u": 317.741610738255,
+        "v": 287.52013422818794,
+        "bbox": [
+          308,
+          275,
+          20,
+          26
+        ],
+        "xyz": [
+          -0.004148669610313347,
+          -0.10235619332795542,
+          0.7349999999999999
+        ],
+        "area": 447.0,
+        "position_uncertainty_m": 0.004,
+        "color_confirmed_sim": 127.91,
+        "color_confirmed_wall_ns": 4516050272230,
+        "id": 32,
+        "first_seen": 127.712,
+        "last_seen": 128.966,
+        "velocity": [
+          0.03972131841690592,
+          -8.089526613328456e-05,
+          -8.61819513060353e-17
+        ],
+        "hits": 12,
+        "first_seen_wall_ns": 4515654546730,
+        "eligible": true
+      }
+    }
+  },
+  {
+    "object_id": "attempt_009_track_32",
+    "event": "planning_start",
+    "wall_monotonic_ns": 4522273076192,
+    "sim_time": 129.224,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_009_track_32",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 4522647290775,
+    "sim_time": 129.276,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_009_track_32",
+    "event": "movement_start",
+    "wall_monotonic_ns": 4522871952192,
+    "sim_time": 129.288,
+    "details": {
+      "source": "joint_state_change"
+    }
+  },
+  {
+    "object_id": "attempt_009_track_32",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 4529696333945,
+    "sim_time": 130.944,
+    "details": {
+      "entity": "part_027"
+    }
+  },
+  {
+    "object_id": "attempt_009_track_32",
+    "event": "lift_confirmed",
+    "wall_monotonic_ns": 4539824711617,
+    "sim_time": 132.026,
+    "details": {
+      "entity": "part_027"
+    }
+  },
+  {
+    "object_id": "attempt_009_track_32",
+    "event": "release",
+    "wall_monotonic_ns": 4563608254711,
+    "sim_time": 136.594,
+    "details": {
+      "entity": "part_027"
+    }
+  },
+  {
+    "object_id": "attempt_009_track_32",
+    "event": "placement_confirmed",
+    "wall_monotonic_ns": 4569357078797,
+    "sim_time": 137.428,
+    "details": {
+      "entity": "part_027",
+      "evaluated_color": "RED",
+      "bin_color": "RED",
+      "eligible_entry": {
+        "sim_time": 115.818,
+        "wall_monotonic_ns": 4461567166288,
+        "left_censored": false
+      },
+      "camera_first_detection_sim": 127.712,
+      "camera_first_detection_wall_ns": 4515654546730,
+      "camera_color_confirmed_sim": 127.91,
+      "camera_color_confirmed_wall_ns": 4516050272230
+    }
+  },
+  {
+    "object_id": "attempt_010_track_56",
+    "event": "target_selected",
+    "wall_monotonic_ns": 4594667714726,
+    "sim_time": 144.038,
+    "details": {
+      "track": {
+        "color": "BLUE",
+        "shape": "ROUND",
+        "confidence": 0.8787373148666551,
+        "u": 150.37111373475008,
+        "v": 243.85517512790238,
+        "bbox": [
+          139,
+          232,
+          24,
+          25
+        ],
+        "xyz": [
+          -0.32633686386205024,
+          -0.009182205715724812,
+          0.7349999999999999
+        ],
+        "area": 423.5,
+        "position_uncertainty_m": 0.012,
+        "color_confirmed_sim": 143.618,
+        "color_confirmed_wall_ns": 4594003238017,
+        "id": 56,
+        "first_seen": 143.486,
+        "last_seen": 144.014,
+        "velocity": [
+          0.03703348410076472,
+          -0.00040510008885715593,
+          -4.546968862035093e-16
+        ],
+        "hits": 8,
+        "first_seen_wall_ns": 4593759810850,
+        "eligible": true
+      }
+    }
+  },
+  {
+    "object_id": "attempt_010_track_56",
+    "event": "planning_start",
+    "wall_monotonic_ns": 4594673741309,
+    "sim_time": 144.042,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_010_track_56",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 4594827412017,
+    "sim_time": 144.126,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_010_track_56",
+    "event": "movement_start",
+    "wall_monotonic_ns": 4594900539142,
+    "sim_time": 144.168,
+    "details": {
+      "source": "joint_state_change"
+    }
+  },
+  {
+    "object_id": "attempt_010_track_56",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 4604959704314,
+    "sim_time": 149.172,
+    "details": {
+      "entity": "part_031"
+    }
+  },
+  {
+    "object_id": "attempt_010_track_56",
+    "event": "lift_confirmed",
+    "wall_monotonic_ns": 4607320756190,
+    "sim_time": 150.398,
+    "details": {
+      "entity": "part_031"
+    }
+  },
+  {
+    "object_id": "attempt_010_track_56",
+    "event": "release",
+    "wall_monotonic_ns": 4611497034483,
+    "sim_time": 152.448,
+    "details": {
+      "entity": "part_031"
+    }
+  },
+  {
+    "object_id": "attempt_010_track_56",
+    "event": "placement_confirmed",
+    "wall_monotonic_ns": 4613256636818,
+    "sim_time": 153.272,
+    "details": {
+      "entity": "part_031",
+      "evaluated_color": "BLUE",
+      "bin_color": "BLUE",
+      "eligible_entry": {
+        "sim_time": 139.05,
+        "wall_monotonic_ns": 4576401478342,
+        "left_censored": false
+      },
+      "camera_first_detection_sim": 143.486,
+      "camera_first_detection_wall_ns": 4593759810850,
+      "camera_color_confirmed_sim": 143.618,
+      "camera_color_confirmed_wall_ns": 4594003238017
+    }
+  },
+  {
+    "object_id": "attempt_011_track_58",
+    "event": "target_selected",
+    "wall_monotonic_ns": 4616427059319,
+    "sim_time": 154.932,
+    "details": {
+      "track": {
+        "color": "RED",
+        "shape": "BOX",
+        "confidence": 0.88011854565563,
+        "u": 103.31174438687393,
+        "v": 287.5112262521589,
+        "bbox": [
+          90,
+          275,
+          28,
+          26
+        ],
+        "xyz": [
+          -0.3980608096032777,
+          -0.10233804283652592,
+          0.735
+        ],
+        "area": 579.0,
+        "position_uncertainty_m": 0.004,
+        "color_confirmed_sim": 151.736,
+        "color_confirmed_wall_ns": 4610291425358,
+        "id": 58,
+        "first_seen": 151.604,
+        "last_seen": 154.904,
+        "velocity": [
+          0.03949072972797962,
+          7.998738882230236e-05,
+          9.309286377929142e-17
+        ],
+        "hits": 44,
+        "first_seen_wall_ns": 4609997755733,
+        "eligible": true
+      }
+    }
+  },
+  {
+    "object_id": "attempt_011_track_58",
+    "event": "planning_start",
+    "wall_monotonic_ns": 4616430822527,
+    "sim_time": 154.934,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_011_track_58",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 4616475859402,
+    "sim_time": 154.946,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_011_track_58",
+    "event": "movement_start",
+    "wall_monotonic_ns": 4616540868819,
+    "sim_time": 154.976,
+    "details": {
+      "source": "joint_state_change"
+    }
+  },
+  {
+    "object_id": "attempt_011_track_58",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 4624216438323,
+    "sim_time": 157.852,
+    "details": {
+      "entity": "part_033"
+    }
+  }
+]

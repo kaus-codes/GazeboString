@@ -1,0 +1,108 @@
+{
+  "sim_stamp": 257.666,
+  "wall_monotonic_ns": 12244358433971,
+  "processing_start_wall_ns": 12244349019346,
+  "processing_ms": 9.296791,
+  "frames": 2731,
+  "tracks": [
+    {
+      "color": "RED",
+      "shape": "BOX",
+      "confidence": 0.8865182231084524,
+      "u": 195.51124538435715,
+      "v": 287.4947969117153,
+      "bbox": [
+        182,
+        273,
+        28,
+        30
+      ],
+      "xyz": [
+        -0.22869230180079594,
+        -0.10230456627445894,
+        0.735
+      ],
+      "area": 496.5,
+      "position_uncertainty_m": 0.004,
+      "color_confirmed_sim": 250.34,
+      "color_confirmed_wall_ns": 12224638920004,
+      "id": 59,
+      "first_seen": 250.01,
+      "last_seen": 257.666,
+      "velocity": [
+        0.03949360622770359,
+        0.00023881372284298698,
+        -1.417338314349382e-16
+      ],
+      "hits": 78,
+      "first_seen_wall_ns": 12223942203503,
+      "eligible": true
+    },
+    {
+      "color": "RED",
+      "shape": "BOX",
+      "confidence": 0.8853522019220615,
+      "u": 558.4353281853282,
+      "v": 287.5868725868726,
+      "bbox": [
+        544,
+        273,
+        30,
+        30
+      ],
+      "xyz": [
+        0.4379763878267348,
+        -0.10249216577557563,
+        0.735
+      ],
+      "area": 518.0,
+      "position_uncertainty_m": 0.004,
+      "color_confirmed_sim": 233.246,
+      "color_confirmed_wall_ns": 12178428165774,
+      "id": 55,
+      "first_seen": 233.114,
+      "last_seen": 257.666,
+      "velocity": [
+        0.03910390840416501,
+        0.0001732957057536975,
+        -5.034930324630085e-16
+      ],
+      "hits": 262,
+      "first_seen_wall_ns": 12177961366941,
+      "eligible": true
+    },
+    {
+      "color": "BLUE",
+      "shape": "BOX",
+      "confidence": 0.8849732620320855,
+      "u": 431.9983559391697,
+      "v": 243.75996711878338,
+      "bbox": [
+        421,
+        232,
+        23,
+        25
+      ],
+      "xyz": [
+        0.21548782191557028,
+        -0.008969423100344653,
+        0.735
+      ],
+      "area": 405.5,
+      "position_uncertainty_m": 0.004,
+      "color_confirmed_sim": 238.856,
+      "color_confirmed_wall_ns": 12194741368240,
+      "id": 56,
+      "first_seen": 238.724,
+      "last_seen": 257.666,
+      "velocity": [
+        0.04006073262784854,
+        -0.0003079478047700116,
+        -5.31039906206438e-16
+      ],
+      "hits": 199,
+      "first_seen_wall_ns": 12194439354823,
+      "eligible": true
+    }
+  ]
+}

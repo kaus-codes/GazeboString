@@ -1,0 +1,64 @@
+{
+  "passed": false,
+  "error": "Motion planning failed 99999",
+  "experiment_start_wall_ns": 5918549108037,
+  "experiment_end_wall_ns": 6091559755866,
+  "experiment_start_sim": 2.17,
+  "experiment_end_sim": 80.364,
+  "seed": 11,
+  "verified_placements": 3,
+  "attempts": 4,
+  "failed_attempts": 1,
+  "incorrect_picks": 0,
+  "sequence": {
+    "complete": false,
+    "target": "BLUE",
+    "red": 2,
+    "blue": 1,
+    "pairs": 1,
+    "successful_picks": 3,
+    "remaining_pairs": 6,
+    "errors": [],
+    "placements": [
+      {
+        "object_id": "part_007",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 14.21,
+        "wall_monotonic_ns": 5937764548296
+      },
+      {
+        "object_id": "part_003",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 27.956,
+        "wall_monotonic_ns": 5961349250973
+      },
+      {
+        "object_id": "part_018",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 74.864,
+        "wall_monotonic_ns": 6072902431608
+      }
+    ]
+  },
+  "wall_seconds": 173.010647829,
+  "sim_seconds": 78.194,
+  "seven_pair_elapsed_time_wall_s": null
+}

@@ -1,0 +1,22 @@
+{
+  "part_004": {
+    "sim_time": 0.908,
+    "wall_monotonic_ns": 2477425891509
+  },
+  "part_005": {
+    "sim_time": 0.908,
+    "wall_monotonic_ns": 2477425896301
+  },
+  "part_006": {
+    "sim_time": 0.908,
+    "wall_monotonic_ns": 2477425899426
+  },
+  "part_007": {
+    "sim_time": 0.908,
+    "wall_monotonic_ns": 2477425902301
+  },
+  "part_008": {
+    "sim_time": 0.908,
+    "wall_monotonic_ns": 2477425905093
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "passed": true,
+  "error": null,
+  "experiment_start_wall_ns": 4028131821258,
+  "experiment_end_wall_ns": 4053063081394,
+  "experiment_start_sim": 4.854,
+  "experiment_end_sim": 20.816,
+  "seed": 11,
+  "verified_placements": 2,
+  "attempts": 2,
+  "failed_attempts": 0,
+  "incorrect_picks": 0,
+  "sequence": {
+    "complete": false,
+    "target": "RED",
+    "red": 1,
+    "blue": 1,
+    "pairs": 1,
+    "successful_picks": 2,
+    "remaining_pairs": 6,
+    "errors": [],
+    "placements": [
+      {
+        "object_id": "part_007",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 13.144,
+        "wall_monotonic_ns": 4040567452680
+      },
+      {
+        "object_id": "part_005",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 20.778,
+        "wall_monotonic_ns": 4053000361602
+      }
+    ]
+  },
+  "wall_seconds": 24.931304553,
+  "sim_seconds": 15.962,
+  "seven_pair_elapsed_time_wall_s": null
+}

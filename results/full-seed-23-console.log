@@ -1,0 +1,344 @@
+Built Panda URDF from /opt/ros/jazzy/share/moveit_resources_panda_description
+Resolved suction contact collision: suction_cup_fixed_joint_lump__suction_collision_collision
+Robot spawn verified from actual model poses
+joint_state_broadcaster verified active
+arm_controller verified active
+WAIT_FOR_TARGET target RED placements 0
+TRACK target RED placements 0
+PLAN_PICK target RED placements 0
+APPROACH target RED placements 0
+VERIFY_GRASP target RED placements 0
+LIFT target RED placements 0
+TRANSPORT target RED placements 0
+PLACE target RED placements 0
+VERIFY_PLACEMENT target RED placements 0
+RETURN_READY target BLUE placements 1
+WAIT_FOR_TARGET target BLUE placements 1
+TRACK target BLUE placements 1
+PLAN_PICK target BLUE placements 1
+APPROACH target BLUE placements 1
+VERIFY_GRASP target BLUE placements 1
+LIFT target BLUE placements 1
+TRANSPORT target BLUE placements 1
+PLACE target BLUE placements 1
+VERIFY_PLACEMENT target BLUE placements 1
+RETURN_READY target RED placements 2
+WAIT_FOR_TARGET target RED placements 2
+TRACK target RED placements 2
+PLAN_PICK target RED placements 2
+APPROACH target RED placements 2
+VERIFY_GRASP target RED placements 2
+LIFT target RED placements 2
+TRANSPORT target RED placements 2
+PLACE target RED placements 2
+VERIFY_PLACEMENT target RED placements 2
+RETURN_READY target BLUE placements 3
+WAIT_FOR_TARGET target BLUE placements 3
+TRACK target BLUE placements 3
+PLAN_PICK target BLUE placements 3
+APPROACH target BLUE placements 3
+VERIFY_GRASP target BLUE placements 3
+LIFT target BLUE placements 3
+TRANSPORT target BLUE placements 3
+PLACE target BLUE placements 3
+VERIFY_PLACEMENT target BLUE placements 3
+RETURN_READY target RED placements 4
+WAIT_FOR_TARGET target RED placements 4
+TRACK target RED placements 4
+PLAN_PICK target RED placements 4
+APPROACH target RED placements 4
+VERIFY_GRASP target RED placements 4
+LIFT target RED placements 4
+TRANSPORT target RED placements 4
+PLACE target RED placements 4
+VERIFY_PLACEMENT target RED placements 4
+RETURN_READY target BLUE placements 5
+WAIT_FOR_TARGET target BLUE placements 5
+TRACK target BLUE placements 5
+PLAN_PICK target BLUE placements 5
+APPROACH target BLUE placements 5
+VERIFY_GRASP target BLUE placements 5
+LIFT target BLUE placements 5
+TRANSPORT target BLUE placements 5
+PLACE target BLUE placements 5
+VERIFY_PLACEMENT target BLUE placements 5
+RETURN_READY target RED placements 6
+WAIT_FOR_TARGET target RED placements 6
+TRACK target RED placements 6
+PLAN_PICK target RED placements 6
+APPROACH target RED placements 6
+VERIFY_GRASP target RED placements 6
+LIFT target RED placements 6
+TRANSPORT target RED placements 6
+PLACE target RED placements 6
+VERIFY_PLACEMENT target RED placements 6
+RETURN_READY target BLUE placements 7
+WAIT_FOR_TARGET target BLUE placements 7
+TRACK target BLUE placements 7
+PLAN_PICK target BLUE placements 7
+APPROACH target BLUE placements 7
+VERIFY_GRASP target BLUE placements 7
+LIFT target BLUE placements 7
+TRANSPORT target BLUE placements 7
+PLACE target BLUE placements 7
+VERIFY_PLACEMENT target BLUE placements 7
+RETURN_READY target RED placements 8
+WAIT_FOR_TARGET target RED placements 8
+TRACK target RED placements 8
+PLAN_PICK target RED placements 8
+APPROACH target RED placements 8
+VERIFY_GRASP target RED placements 8
+LIFT target RED placements 8
+TRANSPORT target RED placements 8
+PLACE target RED placements 8
+VERIFY_PLACEMENT target RED placements 8
+RETURN_READY target BLUE placements 9
+WAIT_FOR_TARGET target BLUE placements 9
+TRACK target BLUE placements 9
+PLAN_PICK target BLUE placements 9
+APPROACH target BLUE placements 9
+VERIFY_GRASP target BLUE placements 9
+LIFT target BLUE placements 9
+TRANSPORT target BLUE placements 9
+PLACE target BLUE placements 9
+VERIFY_PLACEMENT target BLUE placements 9
+RETURN_READY target RED placements 10
+WAIT_FOR_TARGET target RED placements 10
+TRACK target RED placements 10
+PLAN_PICK target RED placements 10
+APPROACH target RED placements 10
+VERIFY_GRASP target RED placements 10
+LIFT target RED placements 10
+TRANSPORT target RED placements 10
+PLACE target RED placements 10
+VERIFY_PLACEMENT target RED placements 10
+RETURN_READY target BLUE placements 11
+WAIT_FOR_TARGET target BLUE placements 11
+TRACK target BLUE placements 11
+PLAN_PICK target BLUE placements 11
+APPROACH target BLUE placements 11
+VERIFY_GRASP target BLUE placements 11
+LIFT target BLUE placements 11
+TRANSPORT target BLUE placements 11
+PLACE target BLUE placements 11
+VERIFY_PLACEMENT target BLUE placements 11
+RETURN_READY target RED placements 12
+WAIT_FOR_TARGET target RED placements 12
+TRACK target RED placements 12
+PLAN_PICK target RED placements 12
+APPROACH target RED placements 12
+VERIFY_GRASP target RED placements 12
+LIFT target RED placements 12
+TRANSPORT target RED placements 12
+PLACE target RED placements 12
+VERIFY_PLACEMENT target RED placements 12
+RETURN_READY target BLUE placements 13
+WAIT_FOR_TARGET target BLUE placements 13
+TRACK target BLUE placements 13
+PLAN_PICK target BLUE placements 13
+APPROACH target BLUE placements 13
+VERIFY_GRASP target BLUE placements 13
+LIFT target BLUE placements 13
+TRANSPORT target BLUE placements 13
+PLACE target BLUE placements 13
+VERIFY_PLACEMENT target BLUE placements 13
+RETURN_READY target None placements 14
+WAIT_FOR_TARGET target None placements 14
+COMPLETE target None placements 14
+{
+  "passed": true,
+  "error": null,
+  "experiment_start_wall_ns": 11668038821169,
+  "experiment_end_wall_ns": 12231055381798,
+  "experiment_start_sim": 2.698,
+  "experiment_end_sim": 252.608,
+  "seed": 23,
+  "verified_placements": 14,
+  "attempts": 14,
+  "failed_attempts": 0,
+  "incorrect_picks": 0,
+  "incorrect_placements": 0,
+  "sequence": {
+    "complete": true,
+    "target": null,
+    "red": 7,
+    "blue": 7,
+    "pairs": 7,
+    "successful_picks": 14,
+    "remaining_pairs": 0,
+    "errors": [],
+    "placements": [
+      {
+        "object_id": "part_008",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 12.302,
+        "wall_monotonic_ns": 11683700036217
+      },
+      {
+        "object_id": "part_001",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 28.302,
+        "wall_monotonic_ns": 11712699831606
+      },
+      {
+        "object_id": "part_014",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 54.31,
+        "wall_monotonic_ns": 11757512600126
+      },
+      {
+        "object_id": "part_007",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 65.904,
+        "wall_monotonic_ns": 11781338878220
+      },
+      {
+        "object_id": "part_024",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 110.358,
+        "wall_monotonic_ns": 11884769111517
+      },
+      {
+        "object_id": "part_029",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 141.304,
+        "wall_monotonic_ns": 11951915688881
+      },
+      {
+        "object_id": "part_032",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 156.412,
+        "wall_monotonic_ns": 11982712887936
+      },
+      {
+        "object_id": "part_033",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 168.912,
+        "wall_monotonic_ns": 12013418905117
+      },
+      {
+        "object_id": "part_039",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 193.706,
+        "wall_monotonic_ns": 12076537019061
+      },
+      {
+        "object_id": "part_040",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 204.756,
+        "wall_monotonic_ns": 12104164367824
+      },
+      {
+        "object_id": "part_042",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 216.106,
+        "wall_monotonic_ns": 12134459868921
+      },
+      {
+        "object_id": "part_045",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 227.806,
+        "wall_monotonic_ns": 12164285858851
+      },
+      {
+        "object_id": "part_031",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 237.608,
+        "wall_monotonic_ns": 12191088536739
+      },
+      {
+        "object_id": "part_036",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 252.608,
+        "wall_monotonic_ns": 12231055381798
+      }
+    ]
+  },
+  "wall_seconds": 563.016560629,
+  "sim_seconds": 249.91,
+  "seven_pair_elapsed_time_wall_s": 563.016560629
+}

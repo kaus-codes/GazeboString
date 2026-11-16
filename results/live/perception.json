@@ -1,0 +1,108 @@
+{
+  "sim_stamp": 3.038,
+  "wall_monotonic_ns": 9252751279564,
+  "processing_start_wall_ns": 9252743137148,
+  "processing_ms": 8.055375,
+  "frames": 25,
+  "tracks": [
+    {
+      "color": "RED",
+      "shape": "BOX",
+      "confidence": 0.8905296840958606,
+      "u": 110.95353159851301,
+      "v": 287.5,
+      "bbox": [
+        96,
+        274,
+        31,
+        28
+      ],
+      "xyz": [
+        -0.38402714434870006,
+        -0.10231516825386322,
+        0.735
+      ],
+      "area": 538.0,
+      "position_uncertainty_m": 0.004,
+      "color_confirmed_sim": 1.388,
+      "color_confirmed_wall_ns": 9250779034564,
+      "id": 1,
+      "first_seen": 1.256,
+      "last_seen": 3.038,
+      "velocity": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "hits": 25,
+      "first_seen_wall_ns": 9250597899063,
+      "eligible": true
+    },
+    {
+      "color": "BLUE",
+      "shape": "ROUND",
+      "confidence": 0.8889448713104084,
+      "u": 120.34645061728395,
+      "v": 243.80671296296296,
+      "bbox": [
+        108,
+        232,
+        25,
+        25
+      ],
+      "xyz": [
+        -0.3841193122839593,
+        -0.009073901965884423,
+        0.7349999999999999
+      ],
+      "area": 432.0,
+      "position_uncertainty_m": 0.012,
+      "color_confirmed_sim": 1.388,
+      "color_confirmed_wall_ns": 9250779053980,
+      "id": 2,
+      "first_seen": 1.256,
+      "last_seen": 3.038,
+      "velocity": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "hits": 25,
+      "first_seen_wall_ns": 9250597908397,
+      "eligible": true
+    },
+    {
+      "color": "RED",
+      "shape": "ROUND",
+      "confidence": 0.8844044379317563,
+      "u": 128.83792650918636,
+      "v": 203.41929133858267,
+      "bbox": [
+        120,
+        195,
+        19,
+        18
+      ],
+      "xyz": [
+        -0.38459641917398374,
+        0.08531566405980784,
+        0.735
+      ],
+      "area": 254.0,
+      "position_uncertainty_m": 0.012,
+      "color_confirmed_sim": 1.388,
+      "color_confirmed_wall_ns": 9250779066897,
+      "id": 3,
+      "first_seen": 1.256,
+      "last_seen": 3.038,
+      "velocity": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "hits": 25,
+      "first_seen_wall_ns": 9250597912688,
+      "eligible": true
+    }
+  ]
+}

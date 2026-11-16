@@ -1,0 +1,47 @@
+{
+  "state": "MOVING_GATE_PASSED",
+  "current_target": "RED",
+  "selected": null,
+  "attempted_picks": 3,
+  "failed_attempts": 1,
+  "incorrect_picks": 0,
+  "wall_elapsed": 73.125461075,
+  "sim_time": 29.698,
+  "sequence": {
+    "complete": false,
+    "target": "RED",
+    "red": 1,
+    "blue": 1,
+    "pairs": 1,
+    "successful_picks": 2,
+    "remaining_pairs": 6,
+    "errors": [],
+    "placements": [
+      {
+        "object_id": "part_007",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 13.948,
+        "wall_monotonic_ns": 2227672016937
+      },
+      {
+        "object_id": "part_003",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 29.694,
+        "wall_monotonic_ns": 2262250496203
+      }
+    ]
+  },
+  "latest_perception_ms": 15.493917
+}

@@ -1,0 +1,61 @@
+[
+  {
+    "object_id": "5",
+    "event": "target_selected",
+    "wall_monotonic_ns": 1628261953540,
+    "sim_time": 2.566,
+    "details": {
+      "track": {
+        "color": "RED",
+        "shape": "ROUND",
+        "confidence": 0.8564562967261161,
+        "u": 328.2415551306564,
+        "v": 159.77947737412362,
+        "bbox": [
+          320,
+          150,
+          18,
+          20
+        ],
+        "xyz": [
+          0.16916285582265528,
+          -0.01737915751420035,
+          0.7349999999999999
+        ],
+        "area": 261.5,
+        "position_uncertainty_m": 0.012,
+        "id": 5,
+        "first_seen": 2.378,
+        "last_seen": 2.51,
+        "velocity": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "hits": 3,
+        "eligible": true
+      }
+    }
+  },
+  {
+    "object_id": "5",
+    "event": "planning_start",
+    "wall_monotonic_ns": 1628264693456,
+    "sim_time": 2.568,
+    "details": {}
+  },
+  {
+    "object_id": "5",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 1628308192415,
+    "sim_time": 2.592,
+    "details": {}
+  },
+  {
+    "object_id": "5",
+    "event": "movement_start",
+    "wall_monotonic_ns": 1628309594373,
+    "sim_time": 2.596,
+    "details": {}
+  }
+]

@@ -1,0 +1,364 @@
+[INFO] [launch]: All log files can be found below /root/.ros/log/2026-11-16-06-58-56-175966-388be9c2419b-21211
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [python3-1]: process started with pid [21214]
+[python3-1] Built Panda URDF from /opt/ros/jazzy/share/moveit_resources_panda_description
+[python3-1] Resolved suction contact collision: suction_cup_fixed_joint_lump__suction_collision_collision
+[python3-1] Robot spawn verified from actual model poses
+[python3-1] joint_state_broadcaster verified active
+[python3-1] arm_controller verified active
+[python3-1] WAIT_FOR_TARGET target RED placements 0
+[python3-1] TRACK target RED placements 0
+[python3-1] PLAN_PICK target RED placements 0
+[python3-1] APPROACH target RED placements 0
+[python3-1] VERIFY_GRASP target RED placements 0
+[python3-1] LIFT target RED placements 0
+[python3-1] TRANSPORT target RED placements 0
+[python3-1] PLACE target RED placements 0
+[python3-1] VERIFY_PLACEMENT target RED placements 0
+[python3-1] RETURN_READY target BLUE placements 1
+[python3-1] WAIT_FOR_TARGET target BLUE placements 1
+[python3-1] TRACK target BLUE placements 1
+[python3-1] PLAN_PICK target BLUE placements 1
+[python3-1] APPROACH target BLUE placements 1
+[python3-1] VERIFY_GRASP target BLUE placements 1
+[python3-1] LIFT target BLUE placements 1
+[python3-1] TRANSPORT target BLUE placements 1
+[python3-1] PLACE target BLUE placements 1
+[python3-1] VERIFY_PLACEMENT target BLUE placements 1
+[python3-1] RETURN_READY target RED placements 2
+[python3-1] WAIT_FOR_TARGET target RED placements 2
+[python3-1] TRACK target RED placements 2
+[python3-1] PLAN_PICK target RED placements 2
+[python3-1] APPROACH target RED placements 2
+[python3-1] VERIFY_GRASP target RED placements 2
+[python3-1] LIFT target RED placements 2
+[python3-1] TRANSPORT target RED placements 2
+[python3-1] PLACE target RED placements 2
+[python3-1] VERIFY_PLACEMENT target RED placements 2
+[python3-1] RETURN_READY target BLUE placements 3
+[python3-1] WAIT_FOR_TARGET target BLUE placements 3
+[python3-1] TRACK target BLUE placements 3
+[python3-1] PLAN_PICK target BLUE placements 3
+[python3-1] APPROACH target BLUE placements 3
+[python3-1] VERIFY_GRASP target BLUE placements 3
+[python3-1] LIFT target BLUE placements 3
+[python3-1] TRANSPORT target BLUE placements 3
+[python3-1] PLACE target BLUE placements 3
+[python3-1] VERIFY_PLACEMENT target BLUE placements 3
+[python3-1] RETURN_READY target RED placements 4
+[python3-1] WAIT_FOR_TARGET target RED placements 4
+[python3-1] TRACK target RED placements 4
+[python3-1] PLAN_PICK target RED placements 4
+[python3-1] APPROACH target RED placements 4
+[python3-1] VERIFY_GRASP target RED placements 4
+[python3-1] LIFT target RED placements 4
+[python3-1] TRANSPORT target RED placements 4
+[python3-1] PLACE target RED placements 4
+[python3-1] VERIFY_PLACEMENT target RED placements 4
+[python3-1] RETURN_READY target BLUE placements 5
+[python3-1] WAIT_FOR_TARGET target BLUE placements 5
+[python3-1] TRACK target BLUE placements 5
+[python3-1] PLAN_PICK target BLUE placements 5
+[python3-1] APPROACH target BLUE placements 5
+[python3-1] VERIFY_GRASP target BLUE placements 5
+[python3-1] LIFT target BLUE placements 5
+[python3-1] TRANSPORT target BLUE placements 5
+[python3-1] RECOVERY target BLUE placements 5
+[python3-1] WAIT_FOR_TARGET target BLUE placements 5
+[python3-1] TRACK target BLUE placements 5
+[python3-1] PLAN_PICK target BLUE placements 5
+[python3-1] APPROACH target BLUE placements 5
+[python3-1] VERIFY_GRASP target BLUE placements 5
+[python3-1] LIFT target BLUE placements 5
+[python3-1] TRANSPORT target BLUE placements 5
+[python3-1] PLACE target BLUE placements 5
+[python3-1] VERIFY_PLACEMENT target BLUE placements 5
+[python3-1] RETURN_READY target RED placements 6
+[python3-1] WAIT_FOR_TARGET target RED placements 6
+[python3-1] TRACK target RED placements 6
+[python3-1] PLAN_PICK target RED placements 6
+[python3-1] APPROACH target RED placements 6
+[python3-1] VERIFY_GRASP target RED placements 6
+[python3-1] LIFT target RED placements 6
+[python3-1] TRANSPORT target RED placements 6
+[python3-1] PLACE target RED placements 6
+[python3-1] VERIFY_PLACEMENT target RED placements 6
+[python3-1] RETURN_READY target BLUE placements 7
+[python3-1] WAIT_FOR_TARGET target BLUE placements 7
+[python3-1] TRACK target BLUE placements 7
+[python3-1] PLAN_PICK target BLUE placements 7
+[python3-1] APPROACH target BLUE placements 7
+[python3-1] VERIFY_GRASP target BLUE placements 7
+[python3-1] LIFT target BLUE placements 7
+[python3-1] TRANSPORT target BLUE placements 7
+[python3-1] PLACE target BLUE placements 7
+[python3-1] VERIFY_PLACEMENT target BLUE placements 7
+[python3-1] RETURN_READY target RED placements 8
+[python3-1] WAIT_FOR_TARGET target RED placements 8
+[python3-1] TRACK target RED placements 8
+[python3-1] PLAN_PICK target RED placements 8
+[python3-1] APPROACH target RED placements 8
+[python3-1] VERIFY_GRASP target RED placements 8
+[python3-1] LIFT target RED placements 8
+[python3-1] TRANSPORT target RED placements 8
+[python3-1] PLACE target RED placements 8
+[python3-1] VERIFY_PLACEMENT target RED placements 8
+[python3-1] RETURN_READY target BLUE placements 9
+[python3-1] WAIT_FOR_TARGET target BLUE placements 9
+[python3-1] TRACK target BLUE placements 9
+[python3-1] PLAN_PICK target BLUE placements 9
+[python3-1] APPROACH target BLUE placements 9
+[python3-1] VERIFY_GRASP target BLUE placements 9
+[python3-1] LIFT target BLUE placements 9
+[python3-1] TRANSPORT target BLUE placements 9
+[python3-1] PLACE target BLUE placements 9
+[python3-1] VERIFY_PLACEMENT target BLUE placements 9
+[python3-1] RETURN_READY target RED placements 10
+[python3-1] WAIT_FOR_TARGET target RED placements 10
+[python3-1] TRACK target RED placements 10
+[python3-1] PLAN_PICK target RED placements 10
+[python3-1] APPROACH target RED placements 10
+[python3-1] VERIFY_GRASP target RED placements 10
+[python3-1] LIFT target RED placements 10
+[python3-1] TRANSPORT target RED placements 10
+[python3-1] RECOVERY target RED placements 10
+[python3-1] WAIT_FOR_TARGET target RED placements 10
+[python3-1] TRACK target RED placements 10
+[python3-1] PLAN_PICK target RED placements 10
+[python3-1] APPROACH target RED placements 10
+[python3-1] VERIFY_GRASP target RED placements 10
+[python3-1] LIFT target RED placements 10
+[python3-1] TRANSPORT target RED placements 10
+[python3-1] PLACE target RED placements 10
+[python3-1] VERIFY_PLACEMENT target RED placements 10
+[python3-1] RETURN_READY target BLUE placements 11
+[python3-1] WAIT_FOR_TARGET target BLUE placements 11
+[python3-1] TRACK target BLUE placements 11
+[python3-1] PLAN_PICK target BLUE placements 11
+[python3-1] APPROACH target BLUE placements 11
+[python3-1] VERIFY_GRASP target BLUE placements 11
+[python3-1] LIFT target BLUE placements 11
+[python3-1] TRANSPORT target BLUE placements 11
+[python3-1] PLACE target BLUE placements 11
+[python3-1] VERIFY_PLACEMENT target BLUE placements 11
+[python3-1] RETURN_READY target RED placements 12
+[python3-1] WAIT_FOR_TARGET target RED placements 12
+[python3-1] TRACK target RED placements 12
+[python3-1] PLAN_PICK target RED placements 12
+[python3-1] APPROACH target RED placements 12
+[python3-1] VERIFY_GRASP target RED placements 12
+[python3-1] LIFT target RED placements 12
+[python3-1] TRANSPORT target RED placements 12
+[python3-1] PLACE target RED placements 12
+[python3-1] VERIFY_PLACEMENT target RED placements 12
+[python3-1] RETURN_READY target BLUE placements 13
+[python3-1] WAIT_FOR_TARGET target BLUE placements 13
+[python3-1] TRACK target BLUE placements 13
+[python3-1] PLAN_PICK target BLUE placements 13
+[python3-1] APPROACH target BLUE placements 13
+[python3-1] VERIFY_GRASP target BLUE placements 13
+[python3-1] LIFT target BLUE placements 13
+[python3-1] TRANSPORT target BLUE placements 13
+[python3-1] PLACE target BLUE placements 13
+[python3-1] VERIFY_PLACEMENT target BLUE placements 13
+[python3-1] RETURN_READY target None placements 14
+[python3-1] WAIT_FOR_TARGET target None placements 14
+[python3-1] COMPLETE target None placements 14
+[python3-1] {
+[python3-1]   "passed": true,
+[python3-1]   "error": null,
+[python3-1]   "experiment_start_wall_ns": 18059265029910,
+[python3-1]   "experiment_end_wall_ns": 18502658417320,
+[python3-1]   "experiment_start_sim": 3.292,
+[python3-1]   "experiment_end_sim": 276.454,
+[python3-1]   "seed": 47,
+[python3-1]   "verified_placements": 14,
+[python3-1]   "attempts": 16,
+[python3-1]   "failed_attempts": 2,
+[python3-1]   "incorrect_picks": 0,
+[python3-1]   "incorrect_placements": 0,
+[python3-1]   "sequence": {
+[python3-1]     "complete": true,
+[python3-1]     "target": null,
+[python3-1]     "red": 7,
+[python3-1]     "blue": 7,
+[python3-1]     "pairs": 7,
+[python3-1]     "successful_picks": 14,
+[python3-1]     "remaining_pairs": 0,
+[python3-1]     "errors": [],
+[python3-1]     "placements": [
+[python3-1]       {
+[python3-1]         "object_id": "part_011",
+[python3-1]         "perceived_color": "RED",
+[python3-1]         "evaluated_color": "RED",
+[python3-1]         "bin_color": "RED",
+[python3-1]         "grasp_contact": true,
+[python3-1]         "lift_confirmed": true,
+[python3-1]         "released": true,
+[python3-1]         "contained_and_settled": true,
+[python3-1]         "sim_time": 13.006,
+[python3-1]         "wall_monotonic_ns": 18075290110501
+[python3-1]       },
+[python3-1]       {
+[python3-1]         "object_id": "part_000",
+[python3-1]         "perceived_color": "BLUE",
+[python3-1]         "evaluated_color": "BLUE",
+[python3-1]         "bin_color": "BLUE",
+[python3-1]         "grasp_contact": true,
+[python3-1]         "lift_confirmed": true,
+[python3-1]         "released": true,
+[python3-1]         "contained_and_settled": true,
+[python3-1]         "sim_time": 27.656,
+[python3-1]         "wall_monotonic_ns": 18095593662010
+[python3-1]       },
+[python3-1]       {
+[python3-1]         "object_id": "part_022",
+[python3-1]         "perceived_color": "RED",
+[python3-1]         "evaluated_color": "RED",
+[python3-1]         "bin_color": "RED",
+[python3-1]         "grasp_contact": true,
+[python3-1]         "lift_confirmed": true,
+[python3-1]         "released": true,
+[python3-1]         "contained_and_settled": true,
+[python3-1]         "sim_time": 98.258,
+[python3-1]         "wall_monotonic_ns": 18185452467468
+[python3-1]       },
+[python3-1]       {
+[python3-1]         "object_id": "part_001",
+[python3-1]         "perceived_color": "BLUE",
+[python3-1]         "evaluated_color": "BLUE",
+[python3-1]         "bin_color": "BLUE",
+[python3-1]         "grasp_contact": true,
+[python3-1]         "lift_confirmed": true,
+[python3-1]         "released": true,
+[python3-1]         "contained_and_settled": true,
+[python3-1]         "sim_time": 110.602,
+[python3-1]         "wall_monotonic_ns": 18203927573143
+[python3-1]       },
+[python3-1]       {
+[python3-1]         "object_id": "part_024",
+[python3-1]         "perceived_color": "RED",
+[python3-1]         "evaluated_color": "RED",
+[python3-1]         "bin_color": "RED",
+[python3-1]         "grasp_contact": true,
+[python3-1]         "lift_confirmed": true,
+[python3-1]         "released": true,
+[python3-1]         "contained_and_settled": true,
+[python3-1]         "sim_time": 123.71,
+[python3-1]         "wall_monotonic_ns": 18221091825734
+[python3-1]       },
+[python3-1]       {
+[python3-1]         "object_id": "part_019",
+[python3-1]         "perceived_color": "BLUE",
+[python3-1]         "evaluated_color": "BLUE",
+[python3-1]         "bin_color": "BLUE",
+[python3-1]         "grasp_contact": true,
+[python3-1]         "lift_confirmed": true,
+[python3-1]         "released": true,
+[python3-1]         "contained_and_settled": true,
+[python3-1]         "sim_time": 146.706,
+[python3-1]         "wall_monotonic_ns": 18256539685875
+[python3-1]       },
+[python3-1]       {
+[python3-1]         "object_id": "part_032",
+[python3-1]         "perceived_color": "RED",
+[python3-1]         "evaluated_color": "RED",
+[python3-1]         "bin_color": "RED",
+[python3-1]         "grasp_contact": true,
+[python3-1]         "lift_confirmed": true,
+[python3-1]         "released": true,
+[python3-1]         "contained_and_settled": true,
+[python3-1]         "sim_time": 159.906,
+[python3-1]         "wall_monotonic_ns": 18276596099634
+[python3-1]       },
+[python3-1]       {
+[python3-1]         "object_id": "part_037",
+[python3-1]         "perceived_color": "BLUE",
+[python3-1]         "evaluated_color": "BLUE",
+[python3-1]         "bin_color": "BLUE",
+[python3-1]         "grasp_contact": true,
+[python3-1]         "lift_confirmed": true,
+[python3-1]         "released": true,
+[python3-1]         "contained_and_settled": true,
+[python3-1]         "sim_time": 184.358,
+[python3-1]         "wall_monotonic_ns": 18315437398694
+[python3-1]       },
+[python3-1]       {
+[python3-1]         "object_id": "part_028",
+[python3-1]         "perceived_color": "RED",
+[python3-1]         "evaluated_color": "RED",
+[python3-1]         "bin_color": "RED",
+[python3-1]         "grasp_contact": true,
+[python3-1]         "lift_confirmed": true,
+[python3-1]         "released": true,
+[python3-1]         "contained_and_settled": true,
+[python3-1]         "sim_time": 196.604,
+[python3-1]         "wall_monotonic_ns": 18335169785828
+[python3-1]       },
+[python3-1]       {
+[python3-1]         "object_id": "part_039",
+[python3-1]         "perceived_color": "BLUE",
+[python3-1]         "evaluated_color": "BLUE",
+[python3-1]         "bin_color": "BLUE",
+[python3-1]         "grasp_contact": true,
+[python3-1]         "lift_confirmed": true,
+[python3-1]         "released": true,
+[python3-1]         "contained_and_settled": true,
+[python3-1]         "sim_time": 209.106,
+[python3-1]         "wall_monotonic_ns": 18357121888712
+[python3-1]       },
+[python3-1]       {
+[python3-1]         "object_id": "part_031",
+[python3-1]         "perceived_color": "RED",
+[python3-1]         "evaluated_color": "RED",
+[python3-1]         "bin_color": "RED",
+[python3-1]         "grasp_contact": true,
+[python3-1]         "lift_confirmed": true,
+[python3-1]         "released": true,
+[python3-1]         "contained_and_settled": true,
+[python3-1]         "sim_time": 228.81,
+[python3-1]         "wall_monotonic_ns": 18400452064691
+[python3-1]       },
+[python3-1]       {
+[python3-1]         "object_id": "part_038",
+[python3-1]         "perceived_color": "BLUE",
+[python3-1]         "evaluated_color": "BLUE",
+[python3-1]         "bin_color": "BLUE",
+[python3-1]         "grasp_contact": true,
+[python3-1]         "lift_confirmed": true,
+[python3-1]         "released": true,
+[python3-1]         "contained_and_settled": true,
+[python3-1]         "sim_time": 249.702,
+[python3-1]         "wall_monotonic_ns": 18443394860377
+[python3-1]       },
+[python3-1]       {
+[python3-1]         "object_id": "part_036",
+[python3-1]         "perceived_color": "RED",
+[python3-1]         "evaluated_color": "RED",
+[python3-1]         "bin_color": "RED",
+[python3-1]         "grasp_contact": true,
+[python3-1]         "lift_confirmed": true,
+[python3-1]         "released": true,
+[python3-1]         "contained_and_settled": true,
+[python3-1]         "sim_time": 259.81,
+[python3-1]         "wall_monotonic_ns": 18464568200720
+[python3-1]       },
+[python3-1]       {
+[python3-1]         "object_id": "part_043",
+[python3-1]         "perceived_color": "BLUE",
+[python3-1]         "evaluated_color": "BLUE",
+[python3-1]         "bin_color": "BLUE",
+[python3-1]         "grasp_contact": true,
+[python3-1]         "lift_confirmed": true,
+[python3-1]         "released": true,
+[python3-1]         "contained_and_settled": true,
+[python3-1]         "sim_time": 276.454,
+[python3-1]         "wall_monotonic_ns": 18502658417320
+[python3-1]       }
+[python3-1]     ]
+[python3-1]   },
+[python3-1]   "wall_seconds": 443.39338741,
+[python3-1]   "sim_seconds": 273.16200000000003,
+[python3-1]   "seven_pair_elapsed_time_wall_s": 443.39338741
+[python3-1] }
+[INFO] [python3-1]: process has finished cleanly [pid 21214]

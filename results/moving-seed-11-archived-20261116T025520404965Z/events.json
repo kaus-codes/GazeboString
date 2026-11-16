@@ -1,0 +1,182 @@
+[
+  {
+    "object_id": "attempt_001_track_4",
+    "event": "target_selected",
+    "wall_monotonic_ns": 3778841778810,
+    "sim_time": 4.01,
+    "details": {
+      "track": {
+        "color": "RED",
+        "shape": "BOX",
+        "confidence": 0.8675645243064153,
+        "u": 408.9501246882793,
+        "v": 252.0211970074813,
+        "bbox": [
+          399,
+          240,
+          21,
+          25
+        ],
+        "xyz": [
+          0.16962542995227095,
+          -0.02727087066164291,
+          0.735
+        ],
+        "area": 401.0,
+        "position_uncertainty_m": 0.004,
+        "color_confirmed_sim": 3.236,
+        "color_confirmed_wall_ns": 3777634482393,
+        "id": 4,
+        "first_seen": 3.038,
+        "last_seen": 3.962,
+        "velocity": [
+          0.014687314202773699,
+          -0.0003176064663379887,
+          -3.5325278056255063e-16
+        ],
+        "hits": 14,
+        "first_seen_wall_ns": 3777380412643,
+        "eligible": true
+      }
+    }
+  },
+  {
+    "object_id": "attempt_001_track_4",
+    "event": "planning_start",
+    "wall_monotonic_ns": 3778845376685,
+    "sim_time": 4.014,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_001_track_4",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 3778948021102,
+    "sim_time": 4.066,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_001_track_4",
+    "event": "movement_start",
+    "wall_monotonic_ns": 3778949852602,
+    "sim_time": 4.07,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_001_track_4",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 3782839607187,
+    "sim_time": 7.038,
+    "details": {
+      "entity": "part_007"
+    }
+  },
+  {
+    "object_id": "attempt_001_track_4",
+    "event": "lift_confirmed",
+    "wall_monotonic_ns": 3784222355313,
+    "sim_time": 8.234,
+    "details": {
+      "entity": "part_007"
+    }
+  },
+  {
+    "object_id": "attempt_001_track_4",
+    "event": "release",
+    "wall_monotonic_ns": 3787605473231,
+    "sim_time": 10.974,
+    "details": {
+      "entity": "part_007"
+    }
+  },
+  {
+    "object_id": "attempt_001_track_4",
+    "event": "placement_confirmed",
+    "wall_monotonic_ns": 3788508484982,
+    "sim_time": 11.8,
+    "details": {
+      "entity": "part_007",
+      "evaluated_color": "RED",
+      "bin_color": "RED",
+      "eligible_entry": {
+        "sim_time": 0.0,
+        "wall_monotonic_ns": 3774634915350,
+        "left_censored": true
+      },
+      "camera_first_detection_sim": 3.038,
+      "camera_first_detection_wall_ns": 3777380412643,
+      "camera_color_confirmed_sim": 3.236,
+      "camera_color_confirmed_wall_ns": 3777634482393
+    }
+  },
+  {
+    "object_id": "attempt_002_track_5",
+    "event": "target_selected",
+    "wall_monotonic_ns": 3788513205440,
+    "sim_time": 11.804,
+    "details": {
+      "track": {
+        "color": "BLUE",
+        "shape": "ROUND",
+        "confidence": 0.8658592408640684,
+        "u": 256.21033210332104,
+        "v": 254.33579335793357,
+        "bbox": [
+          247,
+          245,
+          19,
+          20
+        ],
+        "xyz": [
+          -0.12134378454715151,
+          -0.03234045215889492,
+          0.7349999999999999
+        ],
+        "area": 271.0,
+        "position_uncertainty_m": 0.012,
+        "color_confirmed_sim": 3.236,
+        "color_confirmed_wall_ns": 3777634497310,
+        "id": 5,
+        "first_seen": 3.038,
+        "last_seen": 11.75,
+        "velocity": [
+          0.032619838522463404,
+          0.009791534025141746,
+          -4.465539243962969e-16
+        ],
+        "hits": 119,
+        "first_seen_wall_ns": 3777380414851,
+        "eligible": true
+      }
+    }
+  },
+  {
+    "object_id": "attempt_002_track_5",
+    "event": "planning_start",
+    "wall_monotonic_ns": 3788514669273,
+    "sim_time": 11.806000000000001,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_002_track_5",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 3788537924982,
+    "sim_time": 11.828,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_002_track_5",
+    "event": "movement_start",
+    "wall_monotonic_ns": 3788540696607,
+    "sim_time": 11.828,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_002_track_5",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 3791962477942,
+    "sim_time": 14.866,
+    "details": {
+      "entity": "part_004"
+    }
+  }
+]

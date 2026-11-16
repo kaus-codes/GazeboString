@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "frames_processed": 224,
+  "frames_received": 225,
+  "wall_seconds": 25.027529553000022,
+  "sim_first": 0.004,
+  "sim_last": 14.934,
+  "detected_colors": [
+    "BLUE",
+    "GREEN",
+    "ORANGE",
+    "RED",
+    "YELLOW"
+  ],
+  "matched_evaluation_samples": 1158,
+  "color_accuracy_matched": 1.0,
+  "localization_error_mean_m": 0.004648833244374575,
+  "processing_latency_ms": {
+    "mean": 23.18344104910714,
+    "median": 17.3488335,
+    "min": 10.992917,
+    "max": 149.24725,
+    "std": 18.072821583042742
+  },
+  "verified_placements": 0,
+  "seven_pair_elapsed_time": null
+}

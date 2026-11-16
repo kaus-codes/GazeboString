@@ -1,0 +1,3412 @@
+[
+  {
+    "sim_time": 5.972,
+    "wall_monotonic_ns": 5924101839957,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "part_007::body::collision",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "sim_time": 10.124,
+    "wall_monotonic_ns": 5930848985043,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "part_007::body::collision",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "sim_time": 10.126,
+    "wall_monotonic_ns": 5930854527084,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "part_007::body::collision",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "sim_time": 18.954,
+    "wall_monotonic_ns": 5947208301134,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "part_003::body::collision",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "sim_time": 24.584,
+    "wall_monotonic_ns": 5956627004763,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "part_003::body::collision",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "sim_time": 69.132,
+    "wall_monotonic_ns": 6051152195056,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "part_018::body::collision",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "sim_time": 72.992,
+    "wall_monotonic_ns": 6069511439106,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "part_018::body::collision",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "sim_time": 72.994,
+    "wall_monotonic_ns": 6069520872523,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "part_018::body::collision",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "sim_time": 72.996,
+    "wall_monotonic_ns": 6069522984523,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "part_018::body::collision",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "sim_time": 77.788,
+    "wall_monotonic_ns": 6082172568362,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.79,
+    "wall_monotonic_ns": 6082184091070,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.792,
+    "wall_monotonic_ns": 6082187871779,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.794,
+    "wall_monotonic_ns": 6082198437862,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.796,
+    "wall_monotonic_ns": 6082202575112,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.798,
+    "wall_monotonic_ns": 6082206446279,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.8,
+    "wall_monotonic_ns": 6082209488070,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.802,
+    "wall_monotonic_ns": 6082218730195,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.804,
+    "wall_monotonic_ns": 6082221788737,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.806,
+    "wall_monotonic_ns": 6082227039237,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.808,
+    "wall_monotonic_ns": 6082231539237,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.81,
+    "wall_monotonic_ns": 6082234742404,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.812,
+    "wall_monotonic_ns": 6082244406154,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.814,
+    "wall_monotonic_ns": 6082244587612,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.816,
+    "wall_monotonic_ns": 6082249900529,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.818,
+    "wall_monotonic_ns": 6082254458695,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.82,
+    "wall_monotonic_ns": 6082259878362,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.822,
+    "wall_monotonic_ns": 6082268694695,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.824,
+    "wall_monotonic_ns": 6082283871487,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.826,
+    "wall_monotonic_ns": 6082285883154,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.828,
+    "wall_monotonic_ns": 6082290879029,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.83,
+    "wall_monotonic_ns": 6082291816820,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.832,
+    "wall_monotonic_ns": 6082297561154,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.834,
+    "wall_monotonic_ns": 6082306099737,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.836,
+    "wall_monotonic_ns": 6082308827029,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.838,
+    "wall_monotonic_ns": 6082311415487,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.84,
+    "wall_monotonic_ns": 6082315644445,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.842,
+    "wall_monotonic_ns": 6082317476320,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.844,
+    "wall_monotonic_ns": 6082320377987,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.846,
+    "wall_monotonic_ns": 6082323619862,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.848,
+    "wall_monotonic_ns": 6082326138904,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.85,
+    "wall_monotonic_ns": 6082327612279,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.852,
+    "wall_monotonic_ns": 6082330027529,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.854,
+    "wall_monotonic_ns": 6082332216779,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.856,
+    "wall_monotonic_ns": 6082334846779,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.858,
+    "wall_monotonic_ns": 6082337272070,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.86,
+    "wall_monotonic_ns": 6082339485612,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.862,
+    "wall_monotonic_ns": 6082341403945,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.864,
+    "wall_monotonic_ns": 6082344163987,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.866,
+    "wall_monotonic_ns": 6082347992029,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.868,
+    "wall_monotonic_ns": 6082350285195,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.87,
+    "wall_monotonic_ns": 6082352502862,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.872,
+    "wall_monotonic_ns": 6082355013112,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.874,
+    "wall_monotonic_ns": 6082359230279,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.876,
+    "wall_monotonic_ns": 6082361630654,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.878,
+    "wall_monotonic_ns": 6082366668029,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.88,
+    "wall_monotonic_ns": 6082371554529,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.882,
+    "wall_monotonic_ns": 6082374213737,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.884,
+    "wall_monotonic_ns": 6082379383154,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.886,
+    "wall_monotonic_ns": 6082381809487,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.888,
+    "wall_monotonic_ns": 6082384270487,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.89,
+    "wall_monotonic_ns": 6082388121112,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.892,
+    "wall_monotonic_ns": 6082393187654,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.894,
+    "wall_monotonic_ns": 6082410101070,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.896,
+    "wall_monotonic_ns": 6082418011070,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.898,
+    "wall_monotonic_ns": 6082424322487,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.9,
+    "wall_monotonic_ns": 6082434447362,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.902,
+    "wall_monotonic_ns": 6082434524820,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.904,
+    "wall_monotonic_ns": 6082438591195,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.906,
+    "wall_monotonic_ns": 6082442041612,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.908,
+    "wall_monotonic_ns": 6082444936404,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.91,
+    "wall_monotonic_ns": 6082449757987,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.912,
+    "wall_monotonic_ns": 6082454760987,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.914,
+    "wall_monotonic_ns": 6082456547945,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.916,
+    "wall_monotonic_ns": 6082459913654,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.918,
+    "wall_monotonic_ns": 6082463251654,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.92,
+    "wall_monotonic_ns": 6082466659445,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.922,
+    "wall_monotonic_ns": 6082469568987,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.924,
+    "wall_monotonic_ns": 6082471730695,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.926,
+    "wall_monotonic_ns": 6082473893904,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.928,
+    "wall_monotonic_ns": 6082476737612,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.93,
+    "wall_monotonic_ns": 6082478742320,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.932,
+    "wall_monotonic_ns": 6082483228029,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.934,
+    "wall_monotonic_ns": 6082484426654,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.936,
+    "wall_monotonic_ns": 6082486398320,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.938,
+    "wall_monotonic_ns": 6082488489112,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.94,
+    "wall_monotonic_ns": 6082490634529,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.942,
+    "wall_monotonic_ns": 6082497545487,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.944,
+    "wall_monotonic_ns": 6082500135279,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.946,
+    "wall_monotonic_ns": 6082502714779,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.948,
+    "wall_monotonic_ns": 6082504931779,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.95,
+    "wall_monotonic_ns": 6082509490820,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.952,
+    "wall_monotonic_ns": 6082513570279,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.954,
+    "wall_monotonic_ns": 6082516854820,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.958,
+    "wall_monotonic_ns": 6082535290654,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.96,
+    "wall_monotonic_ns": 6082536558029,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.962,
+    "wall_monotonic_ns": 6082544081695,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.964,
+    "wall_monotonic_ns": 6082545429362,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.966,
+    "wall_monotonic_ns": 6082550875862,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.968,
+    "wall_monotonic_ns": 6082556876195,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.97,
+    "wall_monotonic_ns": 6082559956154,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.972,
+    "wall_monotonic_ns": 6082564457487,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.974,
+    "wall_monotonic_ns": 6082565761862,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.976,
+    "wall_monotonic_ns": 6082575637362,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.978,
+    "wall_monotonic_ns": 6082577242904,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.98,
+    "wall_monotonic_ns": 6082581035487,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.982,
+    "wall_monotonic_ns": 6082583453279,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.984,
+    "wall_monotonic_ns": 6082586727404,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.986,
+    "wall_monotonic_ns": 6082597949237,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.988,
+    "wall_monotonic_ns": 6082606255237,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.99,
+    "wall_monotonic_ns": 6082611236195,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.992,
+    "wall_monotonic_ns": 6082615740695,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.994,
+    "wall_monotonic_ns": 6082622920320,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.996,
+    "wall_monotonic_ns": 6082627076112,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 77.998,
+    "wall_monotonic_ns": 6082627319404,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.0,
+    "wall_monotonic_ns": 6082631830154,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.004,
+    "wall_monotonic_ns": 6082637929987,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.006,
+    "wall_monotonic_ns": 6082640921154,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall3::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.13,
+    "wall_monotonic_ns": 6082857858070,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.132,
+    "wall_monotonic_ns": 6082861157195,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.134,
+    "wall_monotonic_ns": 6082862807529,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.136,
+    "wall_monotonic_ns": 6082866193987,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.138,
+    "wall_monotonic_ns": 6082875213279,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.14,
+    "wall_monotonic_ns": 6082880895612,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.142,
+    "wall_monotonic_ns": 6082883049196,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.144,
+    "wall_monotonic_ns": 6082889284487,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.146,
+    "wall_monotonic_ns": 6082891859529,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.148,
+    "wall_monotonic_ns": 6082895006362,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.152,
+    "wall_monotonic_ns": 6082919108029,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.154,
+    "wall_monotonic_ns": 6082923483279,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.156,
+    "wall_monotonic_ns": 6082925295071,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.158,
+    "wall_monotonic_ns": 6082932900237,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.16,
+    "wall_monotonic_ns": 6082937820696,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.162,
+    "wall_monotonic_ns": 6082940064779,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.164,
+    "wall_monotonic_ns": 6082944347737,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.166,
+    "wall_monotonic_ns": 6082945650654,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.168,
+    "wall_monotonic_ns": 6082948887737,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.17,
+    "wall_monotonic_ns": 6082952373946,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.172,
+    "wall_monotonic_ns": 6082954611612,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.174,
+    "wall_monotonic_ns": 6082959290446,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.176,
+    "wall_monotonic_ns": 6082964668946,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.178,
+    "wall_monotonic_ns": 6082968148404,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.18,
+    "wall_monotonic_ns": 6082971012946,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.182,
+    "wall_monotonic_ns": 6082973602071,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.184,
+    "wall_monotonic_ns": 6082983087529,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.186,
+    "wall_monotonic_ns": 6082985630862,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.188,
+    "wall_monotonic_ns": 6082998422571,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.19,
+    "wall_monotonic_ns": 6082998814737,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.192,
+    "wall_monotonic_ns": 6083004130029,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.194,
+    "wall_monotonic_ns": 6083006949279,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.196,
+    "wall_monotonic_ns": 6083009277696,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.198,
+    "wall_monotonic_ns": 6083011466529,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.2,
+    "wall_monotonic_ns": 6083014377862,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.202,
+    "wall_monotonic_ns": 6083017604154,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.204,
+    "wall_monotonic_ns": 6083021870612,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.206,
+    "wall_monotonic_ns": 6083023205237,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.208,
+    "wall_monotonic_ns": 6083032654446,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.21,
+    "wall_monotonic_ns": 6083033920321,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.212,
+    "wall_monotonic_ns": 6083036572446,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.214,
+    "wall_monotonic_ns": 6083048926571,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.216,
+    "wall_monotonic_ns": 6083049307946,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.218,
+    "wall_monotonic_ns": 6083058619987,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.22,
+    "wall_monotonic_ns": 6083067057571,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.222,
+    "wall_monotonic_ns": 6083067966904,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.224,
+    "wall_monotonic_ns": 6083086138362,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.226,
+    "wall_monotonic_ns": 6083093117946,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.228,
+    "wall_monotonic_ns": 6083107174029,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.23,
+    "wall_monotonic_ns": 6083110445904,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.232,
+    "wall_monotonic_ns": 6083114130571,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.234,
+    "wall_monotonic_ns": 6083118848821,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.236,
+    "wall_monotonic_ns": 6083121645737,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.238,
+    "wall_monotonic_ns": 6083135737862,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.24,
+    "wall_monotonic_ns": 6083140750737,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.242,
+    "wall_monotonic_ns": 6083152692321,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.244,
+    "wall_monotonic_ns": 6083160437654,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.246,
+    "wall_monotonic_ns": 6083163596404,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.248,
+    "wall_monotonic_ns": 6083166135821,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.25,
+    "wall_monotonic_ns": 6083169122029,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.252,
+    "wall_monotonic_ns": 6083174910279,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.254,
+    "wall_monotonic_ns": 6083180493904,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.256,
+    "wall_monotonic_ns": 6083183811612,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.258,
+    "wall_monotonic_ns": 6083193833904,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.26,
+    "wall_monotonic_ns": 6083200048321,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall0::body::collision",
+        "points": 2
+      },
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.262,
+    "wall_monotonic_ns": 6083202662279,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.264,
+    "wall_monotonic_ns": 6083207034487,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.266,
+    "wall_monotonic_ns": 6083211528112,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.268,
+    "wall_monotonic_ns": 6083221968404,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.27,
+    "wall_monotonic_ns": 6083225063904,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.272,
+    "wall_monotonic_ns": 6083234707779,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.274,
+    "wall_monotonic_ns": 6083239097362,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 78.276,
+    "wall_monotonic_ns": 6083241967237,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall2::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.368,
+    "wall_monotonic_ns": 6087256265114,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.37,
+    "wall_monotonic_ns": 6087285042114,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.372,
+    "wall_monotonic_ns": 6087289976989,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.374,
+    "wall_monotonic_ns": 6087291560489,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.376,
+    "wall_monotonic_ns": 6087293514948,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.378,
+    "wall_monotonic_ns": 6087295981156,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.38,
+    "wall_monotonic_ns": 6087298409448,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.382,
+    "wall_monotonic_ns": 6087300871823,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.384,
+    "wall_monotonic_ns": 6087303539698,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.386,
+    "wall_monotonic_ns": 6087305282698,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.388,
+    "wall_monotonic_ns": 6087307205864,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.39,
+    "wall_monotonic_ns": 6087310810948,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.392,
+    "wall_monotonic_ns": 6087314033198,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.394,
+    "wall_monotonic_ns": 6087316216573,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.396,
+    "wall_monotonic_ns": 6087319438239,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.398,
+    "wall_monotonic_ns": 6087321623239,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.4,
+    "wall_monotonic_ns": 6087323973656,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.402,
+    "wall_monotonic_ns": 6087326568531,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.404,
+    "wall_monotonic_ns": 6087330958239,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.406,
+    "wall_monotonic_ns": 6087334383906,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.408,
+    "wall_monotonic_ns": 6087339333698,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.41,
+    "wall_monotonic_ns": 6087340647823,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.412,
+    "wall_monotonic_ns": 6087343529323,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.414,
+    "wall_monotonic_ns": 6087346678864,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.416,
+    "wall_monotonic_ns": 6087349867114,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.418,
+    "wall_monotonic_ns": 6087354682198,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.42,
+    "wall_monotonic_ns": 6087357515323,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.422,
+    "wall_monotonic_ns": 6087384448156,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.424,
+    "wall_monotonic_ns": 6087385998489,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.426,
+    "wall_monotonic_ns": 6087390773781,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.428,
+    "wall_monotonic_ns": 6087395671281,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.43,
+    "wall_monotonic_ns": 6087403459406,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.432,
+    "wall_monotonic_ns": 6087412065614,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.434,
+    "wall_monotonic_ns": 6087417673364,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.436,
+    "wall_monotonic_ns": 6087422071448,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.438,
+    "wall_monotonic_ns": 6087430990989,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.44,
+    "wall_monotonic_ns": 6087442938823,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.442,
+    "wall_monotonic_ns": 6087446260239,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.444,
+    "wall_monotonic_ns": 6087448838948,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.446,
+    "wall_monotonic_ns": 6087453066323,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.448,
+    "wall_monotonic_ns": 6087455132156,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.45,
+    "wall_monotonic_ns": 6087457457614,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.452,
+    "wall_monotonic_ns": 6087459527906,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.454,
+    "wall_monotonic_ns": 6087461276573,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.456,
+    "wall_monotonic_ns": 6087467033114,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.458,
+    "wall_monotonic_ns": 6087469501281,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.46,
+    "wall_monotonic_ns": 6087473071739,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.462,
+    "wall_monotonic_ns": 6087479206948,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.464,
+    "wall_monotonic_ns": 6087482032323,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.466,
+    "wall_monotonic_ns": 6087483913948,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.468,
+    "wall_monotonic_ns": 6087488114989,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.47,
+    "wall_monotonic_ns": 6087492974656,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.472,
+    "wall_monotonic_ns": 6087499401114,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.474,
+    "wall_monotonic_ns": 6087507982239,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.476,
+    "wall_monotonic_ns": 6087510356656,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.478,
+    "wall_monotonic_ns": 6087516421114,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.48,
+    "wall_monotonic_ns": 6087531901531,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.482,
+    "wall_monotonic_ns": 6087542792031,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.484,
+    "wall_monotonic_ns": 6087574025448,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.614,
+    "wall_monotonic_ns": 6087908995073,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.616,
+    "wall_monotonic_ns": 6087911148906,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.618,
+    "wall_monotonic_ns": 6087914693948,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.62,
+    "wall_monotonic_ns": 6087925760615,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.622,
+    "wall_monotonic_ns": 6087931690823,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.624,
+    "wall_monotonic_ns": 6087943847156,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.626,
+    "wall_monotonic_ns": 6087954995323,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.628,
+    "wall_monotonic_ns": 6087959291531,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.636,
+    "wall_monotonic_ns": 6087967549781,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.638,
+    "wall_monotonic_ns": 6087974006990,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.64,
+    "wall_monotonic_ns": 6087976861740,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 79.642,
+    "wall_monotonic_ns": 6087977992156,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "rail_0.205::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.344,
+    "wall_monotonic_ns": 6091515630658,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.346,
+    "wall_monotonic_ns": 6091515861658,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.348,
+    "wall_monotonic_ns": 6091518645533,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.35,
+    "wall_monotonic_ns": 6091533095741,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.352,
+    "wall_monotonic_ns": 6091534701325,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.354,
+    "wall_monotonic_ns": 6091534913241,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.356,
+    "wall_monotonic_ns": 6091535684616,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.358,
+    "wall_monotonic_ns": 6091539092950,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.36,
+    "wall_monotonic_ns": 6091549844450,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.362,
+    "wall_monotonic_ns": 6091555990991,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.37,
+    "wall_monotonic_ns": 6091576499241,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.372,
+    "wall_monotonic_ns": 6091584800033,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.374,
+    "wall_monotonic_ns": 6091601778158,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.376,
+    "wall_monotonic_ns": 6091609226658,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.378,
+    "wall_monotonic_ns": 6091609347325,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.38,
+    "wall_monotonic_ns": 6091611264616,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.388,
+    "wall_monotonic_ns": 6091625548450,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.39,
+    "wall_monotonic_ns": 6091633549158,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.392,
+    "wall_monotonic_ns": 6091639837616,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.394,
+    "wall_monotonic_ns": 6091643237616,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.396,
+    "wall_monotonic_ns": 6091659889908,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.398,
+    "wall_monotonic_ns": 6091660206533,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.4,
+    "wall_monotonic_ns": 6091670527075,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.402,
+    "wall_monotonic_ns": 6091693551658,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.404,
+    "wall_monotonic_ns": 6091717926033,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.406,
+    "wall_monotonic_ns": 6091718196866,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.408,
+    "wall_monotonic_ns": 6091718353950,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.41,
+    "wall_monotonic_ns": 6091730921491,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "sim_time": 80.412,
+    "wall_monotonic_ns": 6091747041908,
+    "contacts": [
+      {
+        "collision1": "panda::suction_cup::suction_cup_fixed_joint_lump__suction_collision_collision",
+        "collision2": "red_bin_wall1::body::collision",
+        "points": 2
+      }
+    ]
+  }
+]

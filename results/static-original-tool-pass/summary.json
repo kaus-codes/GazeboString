@@ -1,0 +1,31 @@
+{
+  "passed": true,
+  "verified_placements": 1,
+  "entity": "part_007",
+  "sequence": {
+    "complete": false,
+    "target": "BLUE",
+    "red": 1,
+    "blue": 0,
+    "pairs": 0,
+    "successful_picks": 1,
+    "remaining_pairs": 7,
+    "errors": [],
+    "placements": [
+      {
+        "object_id": "part_007",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 10.466,
+        "wall_monotonic_ns": 1740460484299
+      }
+    ]
+  },
+  "wall_seconds": 16.623329632999912,
+  "seven_pair_elapsed_time": null
+}

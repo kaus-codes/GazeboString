@@ -1,0 +1,76 @@
+[
+  {
+    "object_id": "attempt_001_track_4",
+    "event": "target_selected",
+    "wall_monotonic_ns": 6941178616506,
+    "sim_time": 20.976,
+    "details": {
+      "track": {
+        "color": "RED",
+        "shape": "BOX",
+        "confidence": 0.8838535019530495,
+        "u": 426.16577919772806,
+        "v": 287.5097621583244,
+        "bbox": [
+          413,
+          273,
+          27,
+          30
+        ],
+        "xyz": [
+          0.19502902846099224,
+          -0.10233505963277739,
+          0.7349999999999999
+        ],
+        "area": 469.5,
+        "position_uncertainty_m": 0.004,
+        "color_confirmed_sim": 19.34,
+        "color_confirmed_wall_ns": 6938488710046,
+        "id": 4,
+        "first_seen": 19.142,
+        "last_seen": 20.924,
+        "velocity": [
+          0.03757916735289935,
+          -0.0003869415352517293,
+          -7.397617871809554e-16
+        ],
+        "hits": 23,
+        "first_seen_wall_ns": 6938159274796,
+        "eligible": true
+      }
+    }
+  },
+  {
+    "object_id": "attempt_001_track_4",
+    "event": "planning_start",
+    "wall_monotonic_ns": 6941187111589,
+    "sim_time": 20.984,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_001_track_4",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 6941383337714,
+    "sim_time": 21.06,
+    "details": {}
+  },
+  {
+    "object_id": "attempt_001_track_4",
+    "event": "movement_start",
+    "wall_monotonic_ns": 6941453352714,
+    "sim_time": 21.164,
+    "details": {
+      "source": "joint_state_change"
+    }
+  },
+  {
+    "object_id": "attempt_001_track_4",
+    "event": "attempt_failed",
+    "wall_monotonic_ns": 6951710392802,
+    "sim_time": 26.45,
+    "details": {
+      "state": "APPROACH",
+      "error": "Predicted target left reachable grasp zone"
+    }
+  }
+]

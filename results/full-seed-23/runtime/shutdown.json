@@ -1,0 +1,55 @@
+{
+  "direct_children_reaped": true,
+  "processes": [
+    {
+      "name": "gazebo",
+      "pid": 19954,
+      "exit_code": 0
+    },
+    {
+      "name": "rsp",
+      "pid": 19955,
+      "exit_code": 0
+    },
+    {
+      "name": "vnc",
+      "pid": 19956,
+      "exit_code": 0
+    },
+    {
+      "name": "novnc",
+      "pid": 19957,
+      "exit_code": 0
+    },
+    {
+      "name": "gui",
+      "pid": 19958,
+      "exit_code": 0
+    },
+    {
+      "name": "panel",
+      "pid": 19959,
+      "exit_code": 0
+    },
+    {
+      "name": "recording",
+      "pid": 19960,
+      "exit_code": 255
+    },
+    {
+      "name": "bridge",
+      "pid": 19961,
+      "exit_code": 0
+    },
+    {
+      "name": "moveit",
+      "pid": 20195,
+      "exit_code": 0
+    },
+    {
+      "name": "vision",
+      "pid": 20196,
+      "exit_code": 0
+    }
+  ]
+}

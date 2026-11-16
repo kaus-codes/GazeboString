@@ -1,0 +1,273 @@
+{
+  "sim_stamp": 29.108,
+  "wall_monotonic_ns": 9522627367230,
+  "processing_start_wall_ns": 9522616416813,
+  "processing_ms": 10.730417,
+  "frames": 331,
+  "tracks": [
+    {
+      "color": "ORANGE",
+      "shape": "ROUND",
+      "confidence": 0.9155544570769484,
+      "u": 552.5462438656097,
+      "v": 243.85994714986785,
+      "bbox": [
+        540,
+        232,
+        26,
+        25
+      ],
+      "xyz": [
+        0.4473767505438979,
+        -0.009192869665492709,
+        0.735
+      ],
+      "area": 441.5,
+      "position_uncertainty_m": 0.012,
+      "color_confirmed_sim": 4.424,
+      "color_confirmed_wall_ns": 9488768842965,
+      "id": 4,
+      "first_seen": 4.292,
+      "last_seen": 29.108,
+      "velocity": [
+        0.038539969518086914,
+        -0.0001541987626198932,
+        -3.661674958571253e-16
+      ],
+      "hits": 297,
+      "first_seen_wall_ns": 9488390557756,
+      "eligible": false
+    },
+    {
+      "color": "BLUE",
+      "shape": "ROUND",
+      "confidence": 0.8857445680975093,
+      "u": 62.610180012414645,
+      "v": 203.53196772191183,
+      "bbox": [
+        53,
+        195,
+        20,
+        18
+      ],
+      "xyz": [
+        -0.5177730963383824,
+        0.08504032376892645,
+        0.735
+      ],
+      "area": 268.5,
+      "position_uncertainty_m": 0.012,
+      "color_confirmed_sim": 28.382,
+      "color_confirmed_wall_ns": 9521806764980,
+      "id": 13,
+      "first_seen": 28.118,
+      "last_seen": 29.108,
+      "velocity": [
+        0.010344982212372582,
+        -0.0006430357367522871,
+        -4.756249291721605e-16
+      ],
+      "hits": 10,
+      "first_seen_wall_ns": 9521531110729,
+      "eligible": true
+    },
+    {
+      "color": "BLUE",
+      "shape": "ROUND",
+      "confidence": 0.8850536440991491,
+      "u": 327.92854086435597,
+      "v": 243.71715875053485,
+      "bbox": [
+        319,
+        231,
+        19,
+        26
+      ],
+      "xyz": [
+        0.01525543090657407,
+        -0.008873735377786907,
+        0.7349999999999999
+      ],
+      "area": 389.5,
+      "position_uncertainty_m": 0.012,
+      "color_confirmed_sim": 15.446,
+      "color_confirmed_wall_ns": 9504267848847,
+      "id": 12,
+      "first_seen": 15.314,
+      "last_seen": 29.108,
+      "velocity": [
+        0.03970974444626988,
+        0.0007378489265408579,
+        -2.3466608786693435e-16
+      ],
+      "hits": 160,
+      "first_seen_wall_ns": 9504133227513,
+      "eligible": true
+    },
+    {
+      "color": "YELLOW",
+      "shape": "ROUND",
+      "confidence": 0.8839046409930879,
+      "u": 170.16037110669316,
+      "v": 203.55599734923788,
+      "bbox": [
+        161,
+        195,
+        19,
+        18
+      ],
+      "xyz": [
+        -0.3014137024077101,
+        0.08498161314404529,
+        0.7349999999999999
+      ],
+      "area": 251.5,
+      "position_uncertainty_m": 0.012,
+      "color_confirmed_sim": 8.978,
+      "color_confirmed_wall_ns": 9496605415760,
+      "id": 8,
+      "first_seen": 8.846,
+      "last_seen": 29.108,
+      "velocity": [
+        0.010494958475824908,
+        -0.0008315846417414806,
+        -5.349109590345849e-16
+      ],
+      "hits": 241,
+      "first_seen_wall_ns": 9496471523260,
+      "eligible": false
+    },
+    {
+      "color": "GREEN",
+      "shape": "BOX",
+      "confidence": 0.8833986928104576,
+      "u": 563.627345844504,
+      "v": 287.46946678582066,
+      "bbox": [
+        549,
+        274,
+        31,
+        28
+      ],
+      "xyz": [
+        0.44756779377685363,
+        -0.10225295116939037,
+        0.7350000000000001
+      ],
+      "area": 559.5,
+      "position_uncertainty_m": 0.004,
+      "color_confirmed_sim": 4.424,
+      "color_confirmed_wall_ns": 9488769090590,
+      "id": 5,
+      "first_seen": 4.292,
+      "last_seen": 29.108,
+      "velocity": [
+        0.039204199416897456,
+        0.00011654733960542238,
+        1.556824101888988e-16
+      ],
+      "hits": 297,
+      "first_seen_wall_ns": 9488390690048,
+      "eligible": false
+    },
+    {
+      "color": "RED",
+      "shape": "BOX",
+      "confidence": 0.8833820605777102,
+      "u": 445.8499820981024,
+      "v": 287.4837092731829,
+      "bbox": [
+        433,
+        273,
+        27,
+        30
+      ],
+      "xyz": [
+        0.23119559687605748,
+        -0.10228197336649802,
+        0.735
+      ],
+      "area": 465.5,
+      "position_uncertainty_m": 0.004,
+      "color_confirmed_sim": 9.902,
+      "color_confirmed_wall_ns": 9497548221385,
+      "id": 9,
+      "first_seen": 9.77,
+      "last_seen": 29.108,
+      "velocity": [
+        0.039172024717819165,
+        -0.00022493855147934233,
+        -4.513184290689802e-17
+      ],
+      "hits": 229,
+      "first_seen_wall_ns": 9497398405052,
+      "eligible": true
+    },
+    {
+      "color": "BLUE",
+      "shape": "BOX",
+      "confidence": 0.8823201932129846,
+      "u": 328.21954944635354,
+      "v": 287.44826269568534,
+      "bbox": [
+        318,
+        275,
+        21,
+        26
+      ],
+      "xyz": [
+        0.015100465137864668,
+        -0.10220974159403173,
+        0.7350000000000001
+      ],
+      "area": 436.5,
+      "position_uncertainty_m": 0.004,
+      "color_confirmed_sim": 15.446,
+      "color_confirmed_wall_ns": 9504267825055,
+      "id": 11,
+      "first_seen": 15.314,
+      "last_seen": 29.108,
+      "velocity": [
+        0.039620285750569584,
+        0.0005307830839117711,
+        5.870510361601321e-16
+      ],
+      "hits": 160,
+      "first_seen_wall_ns": 9504133213805,
+      "eligible": true
+    },
+    {
+      "color": "RED",
+      "shape": "ROUND",
+      "confidence": 0.8821032532863333,
+      "u": 277.7102351313969,
+      "v": 203.4668049792531,
+      "bbox": [
+        269,
+        195,
+        18,
+        18
+      ],
+      "xyz": [
+        -0.08507763654528445,
+        0.08519954935859231,
+        0.7350000000000001
+      ],
+      "area": 241.0,
+      "position_uncertainty_m": 0.012,
+      "color_confirmed_sim": 7.988,
+      "color_confirmed_wall_ns": 9494342554759,
+      "id": 7,
+      "first_seen": 7.79,
+      "last_seen": 29.108,
+      "velocity": [
+        0.010468050624525719,
+        0.0003550191089934535,
+        4.983156423957883e-16
+      ],
+      "hits": 248,
+      "first_seen_wall_ns": 9494101910467,
+      "eligible": true
+    }
+  ]
+}

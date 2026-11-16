@@ -1,0 +1,187 @@
+[1;32m[Msg] [0m[1;32mGazebo Sim Server v[0m[1;32m8.15.0[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mLoading SDF world file[[0m[1;32m/project/worlds/robot_test.sdf[0m[1;32m].[0m
+[1;32m[Msg] [0m[1;32mServing entity system service on [[0m[1;32m/[0m[1;32mentity/system/add[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mCreate[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/create_multiple[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mCreate[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/create_multiple/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mRemove[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/remove[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mRemove[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/remove/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPose[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_pose[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPose[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_pose/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPose[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_pose_vector[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPose[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_pose_vector/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mLight configuration[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/light_config[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mLight configuration[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/light_config/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPhysics[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_physics[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPhysics[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_physics/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mSphericalCoordinates[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_spherical_coordinates[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mSphericalCoordinates[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_spherical_coordinates/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mEnable collision[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/enable_collision[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mEnable collision[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/enable_collision/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mDisable collision[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/disable_collision[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mDisable collision[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/disable_collision/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mMaterial[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/visual_config[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mMaterial[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/visual_config/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mMaterial[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/wheel_slip[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mMaterial[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/wheel_slip/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mLoaded level [[0m[1;32mdefault[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing world controls on [[0m[1;32m/world/rgb_sorting[0m[1;32m/control], [[0m[1;32m/world/rgb_sorting[0m[1;32m/control/state] and [[0m[1;32m/world/rgb_sorting[0m[1;32m/playback/control][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing GUI information on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mgui/info[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mWorld [[0m[1;32mrgb_sorting[0m[1;32m] initialized with [[0m[1;32mphysics[0m[1;32m] physics profile.[0m[1;32m[0m
+[1;32m[Msg] [1;33m[Wrn] [SimulationRunner.cc:820] [0m[1;33mFound additional publishers on /stats,[0m[1;33m using namespaced stats topic only[0m[1;33m[0m
+[1;33m[Wrn] [SimulationRunner.cc:854] [0m[1;33mFound additional publishers on /clock,[0m[1;33m using namespaced clock topic only[0m[1;33m[0m
+[1;33m[Wrn] [Ogre2Camera.cc:423] [0m[1;33mOgre2Camera::SetVisibilityMask: Mask bits [0m[1;33mc0000000[0m[1;33m are set but will be ignored as they conflict with the [0m[1;33mreserved bits used internally by the ogre2 backend.[0m[1;33m[0m
+[1;33m[Wrn] [Ogre2RenderTarget.cc:668] [0m[1;33mAnti-aliasing level of '[0m[1;33m[0m[1;33m' [0m[1;33mis not supported; valid FSAA levels are: [0m[1;33m[ 0 ][0m[1;33m. Setting to 1[0m[1;33m[0m
+[INFO] [1794795224.257556252] [gz_ros_control]: [gz_ros2_control] Fixed joint ['world_anchor'] (Entity='166') is skipped.
+[INFO] [1794795224.257995544] [gz_ros_control]: [gz_ros2_control] Fixed joint ['suction_joint'] (Entity='176') is skipped.
+[INFO] [1794795224.261948919] [gz_ros_control]: Loading controller_manager
+[INFO] [1794795224.303187460] [controller_manager]: Using ROS clock for triggering controller manager cycles.
+[WARN] [1794795224.303449085] [controller_manager]: The resource manager is not yet initialized, will wait for the robot description to initialize it..
+[INFO] [1794795224.675610044] [controller_manager]: Subscribing to '/robot_description' topic for robot description.
+[WARN] [1794795224.676182002] [gz_ros_control]: Waiting RM to load and initialize hardware...
+[INFO] [1794795224.687452711] [controller_manager]: Received robot description from topic.
+[INFO] [1794795224.688055836] [controller_manager]: Enforcing command limits is disabled. Command limits from URDF will be ignored.
+[INFO] [1794795224.703226294] [gz_ros_control]: The position_proportional_gain has been set to: 0.1
+[INFO] [1794795224.703752752] [gz_ros_control]: Loading joint: panda_joint1
+[INFO] [1794795224.703857544] [gz_ros_control]: 	State:
+[INFO] [1794795224.703951627] [gz_ros_control]: 		 position
+[INFO] [1794795224.704381169] [gz_ros_control]: 			 found initial value: 0.000000
+[INFO] [1794795224.704470294] [gz_ros_control]: 		 velocity
+[INFO] [1794795224.704810002] [gz_ros_control]: 	Command:
+[INFO] [1794795224.704891377] [gz_ros_control]: 		 position
+[INFO] [1794795224.705016836] [gz_ros_control]: Loading joint: panda_joint2
+[INFO] [1794795224.705110544] [gz_ros_control]: 	State:
+[INFO] [1794795224.705187961] [gz_ros_control]: 		 position
+[INFO] [1794795224.705260169] [gz_ros_control]: 			 found initial value: -0.500000
+[INFO] [1794795224.705353127] [gz_ros_control]: 		 velocity
+[INFO] [1794795224.705430919] [gz_ros_control]: 	Command:
+[INFO] [1794795224.705506919] [gz_ros_control]: 		 position
+[INFO] [1794795224.705610211] [gz_ros_control]: Loading joint: panda_joint3
+[INFO] [1794795224.705680836] [gz_ros_control]: 	State:
+[INFO] [1794795224.705786336] [gz_ros_control]: 		 position
+[INFO] [1794795224.705876461] [gz_ros_control]: 			 found initial value: 0.000000
+[INFO] [1794795224.705956502] [gz_ros_control]: 		 velocity
+[INFO] [1794795224.706115502] [gz_ros_control]: 	Command:
+[INFO] [1794795224.706196836] [gz_ros_control]: 		 position
+[INFO] [1794795224.706301669] [gz_ros_control]: Loading joint: panda_joint4
+[INFO] [1794795224.706379794] [gz_ros_control]: 	State:
+[INFO] [1794795224.706479211] [gz_ros_control]: 		 position
+[INFO] [1794795224.706565336] [gz_ros_control]: 			 found initial value: -2.000000
+[INFO] [1794795224.706640002] [gz_ros_control]: 		 velocity
+[INFO] [1794795224.706711127] [gz_ros_control]: 	Command:
+[INFO] [1794795224.706809044] [gz_ros_control]: 		 position
+[INFO] [1794795224.706908794] [gz_ros_control]: Loading joint: panda_joint5
+[INFO] [1794795224.706986419] [gz_ros_control]: 	State:
+[INFO] [1794795224.707059836] [gz_ros_control]: 		 position
+[INFO] [1794795224.707137252] [gz_ros_control]: 			 found initial value: 0.000000
+[INFO] [1794795224.707208169] [gz_ros_control]: 		 velocity
+[INFO] [1794795224.707279086] [gz_ros_control]: 	Command:
+[INFO] [1794795224.707344544] [gz_ros_control]: 		 position
+[INFO] [1794795224.707457252] [gz_ros_control]: Loading joint: panda_joint6
+[INFO] [1794795224.707554086] [gz_ros_control]: 	State:
+[INFO] [1794795224.707624336] [gz_ros_control]: 		 position
+[INFO] [1794795224.707689086] [gz_ros_control]: 			 found initial value: 1.500000
+[INFO] [1794795224.707765044] [gz_ros_control]: 		 velocity
+[INFO] [1794795224.707848419] [gz_ros_control]: 	Command:
+[INFO] [1794795224.707915836] [gz_ros_control]: 		 position
+[INFO] [1794795224.708006169] [gz_ros_control]: Loading joint: panda_joint7
+[INFO] [1794795224.708077461] [gz_ros_control]: 	State:
+[INFO] [1794795224.708147586] [gz_ros_control]: 		 position
+[INFO] [1794795224.708241752] [gz_ros_control]: 			 found initial value: 0.785398
+[INFO] [1794795224.708469669] [gz_ros_control]: 		 velocity
+[INFO] [1794795224.708546669] [gz_ros_control]: 	Command:
+[INFO] [1794795224.708615961] [gz_ros_control]: 		 position
+[INFO] [1794795224.708745419] [gz_ros_control]: Loading joint: panda_finger_joint1
+[INFO] [1794795224.708822377] [gz_ros_control]: 	State:
+[INFO] [1794795224.708895669] [gz_ros_control]: 		 position
+[INFO] [1794795224.708974586] [gz_ros_control]: 			 found initial value: 0.040000
+[INFO] [1794795224.709050836] [gz_ros_control]: 		 velocity
+[INFO] [1794795224.709127002] [gz_ros_control]: 	Command:
+[INFO] [1794795224.709207711] [gz_ros_control]: 		 position
+[INFO] [1794795224.709350544] [gz_ros_control]: Loading joint: panda_finger_joint2
+[INFO] [1794795224.709455544] [gz_ros_control]: Joint 'panda_finger_joint2'is mimicking joint 'panda_finger_joint1' with multiplier: 1 and offset: 0
+[INFO] [1794795224.709594169] [gz_ros_control]: 	State:
+[INFO] [1794795224.709670419] [gz_ros_control]: 		 position
+[INFO] [1794795224.709786211] [gz_ros_control]: 		 velocity
+[INFO] [1794795224.709860711] [gz_ros_control]: 	Command:
+[INFO] [1794795224.711326919] [controller_manager]: Initialize hardware 'GazeboSystem' 
+[WARN] [1794795224.711641336] [controller_manager.hardware_component.system.GazeboSystem]: Executor is not available during hardware component initialization for 'GazeboSystem'. Skipping node creation!
+[INFO] [1794795224.712421336] [controller_manager]: Successful initialization of hardware 'GazeboSystem'
+[INFO] [1794795224.713089044] [controller_manager]: Activating component 'GazeboSystem'.
+[INFO] [1794795224.713207752] [resource_manager]: 'configure' hardware 'GazeboSystem' 
+[INFO] [1794795224.713345877] [gz_ros_control]: System Successfully configured!
+[INFO] [1794795224.713440127] [resource_manager]: Successful 'configure' of hardware 'GazeboSystem'
+[INFO] [1794795224.713532919] [resource_manager]: 'activate' hardware 'GazeboSystem' 
+[INFO] [1794795224.713650961] [resource_manager]: Successful 'activate' of hardware 'GazeboSystem'
+[WARN] [1794795224.713849252] [controller_manager]: Component 'GazeboSystem' does not have read or write statistics initialized, skipping registration.
+[INFO] [1794795224.713966252] [controller_manager]: Resource Manager has been successfully initialized. Starting Controller Manager services...
+[INFO] [1794795224.755996877] [controller_manager]: Loading controller : 'joint_state_broadcaster' of type 'joint_state_broadcaster/JointStateBroadcaster'
+[INFO] [1794795224.756295252] [controller_manager]: Loading controller 'joint_state_broadcaster'
+[INFO] [1794795224.777290794] [controller_manager]: Controller 'joint_state_broadcaster' node arguments: --ros-args --params-file /project/config/controllers.yaml -p use_sim_time:=true --param use_sim_time:=true 
+[INFO] [1794795224.819774002] [controller_manager]: Configuring controller: 'joint_state_broadcaster'
+[INFO] [1794795224.820176794] [joint_state_broadcaster]: 'joints' or 'interfaces' parameter is empty. All available state interfaces will be published
+[INFO] [1794795224.883676794] [controller_manager]: Activating controllers: [ joint_state_broadcaster ]
+[1;31m[Err] [Physics.cc:1906] [0m[1;31mAttempting to create a mimic constraint for joint [[0m[1;31mpanda_finger_joint2[0m[1;31m] but the chosen physics engine does not support [0m[1;31mmimic constraints, so no constraint will be [0m[1;31mcreated.[0m[1;31m[0m
+[WARN] [1794795226.756965170] [gz_ros_control]:  Desired controller update period (0.004 s) is slower than the gazebo simulation period (0.002 s).
+[WARN] [1794795226.762888253] [controller_manager]: No clock received, using time argument instead! Check your node's clock configuration (use_sim_time parameter) and if a valid clock source is available
+[INFO] [1794795226.763552962] [controller_manager]: Successfully switched controllers!
+[INFO] [1794795226.779631087] [controller_manager]: Loading controller : 'arm_controller' of type 'joint_trajectory_controller/JointTrajectoryController'
+[INFO] [1794795226.779959878] [controller_manager]: Loading controller 'arm_controller'
+[INFO] [1794795226.799994003] [controller_manager]: Controller 'arm_controller' node arguments: --ros-args --params-file /project/config/controllers.yaml -p use_sim_time:=true --param use_sim_time:=true 
+[WARN] [1794795228.181749837] [controller_manager]: No clock received, using time argument instead! Check your node's clock configuration (use_sim_time parameter) and if a valid clock source is available
+[INFO] [1794795228.207152296] [controller_manager]: Configuring controller: 'arm_controller'
+[INFO] [1794795228.217679004] [arm_controller]: No specific joint names are used for command interfaces. Using 'joints' parameter.
+[INFO] [1794795228.218693712] [arm_controller]: Command interfaces are [position] and state interfaces are [position velocity].
+[INFO] [1794795228.219062004] [arm_controller]: Using 'splines' interpolation method.
+[INFO] [1794795228.232347962] [arm_controller]: Action status changes will be monitored at 20.00 Hz.
+[INFO] [1794795228.258845671] [arm_controller]: Setting initial scaling factor to 1.000000
+[INFO] [1794795228.262743837] [arm_controller]: No scaling interface set. This controller will not read speed scaling from the hardware.
+[INFO] [1794795228.267741337] [controller_manager]: Activating controllers: [ arm_controller ]
+[INFO] [1794795228.486433879] [controller_manager]: Successfully switched controllers!
+[0m[1;32mServing world SDF generation service on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mgenerate_world_sdf[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing world names on [[0m[1;32m/gazebo/worlds[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mResource path add service on [[0m[1;32m/gazebo/resource_paths/add[0m[1;32m].[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mResource path get service on [[0m[1;32m/gazebo/resource_paths/get[0m[1;32m].[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mResource path resolve service on [[0m[1;32m/gazebo/resource_paths/resolve[0m[1;32m].[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mResource paths published on [[0m[1;32m/gazebo/resource_paths[0m[1;32m].[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServer control service on [[0m[1;32m/server_control[0m[1;32m].[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mEnabled contact surface customization for world entity [[0m[1;32m1[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mEnabling contact surface customization for collision [[0m[1;32mcollision[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mLoading plugin [[0m[1;32mgz-rendering-ogre2[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing scene information on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mscene/info[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing graph information on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mscene/graph[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing full state on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mstate[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing full state (async) on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mstate_async[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPublishing scene information on [[0m[1;32m/world/rgb_sorting/scene/info[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPublishing entity deletions on [[0m[1;32m/world/rgb_sorting/scene/deletion[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPublishing state changes on [[0m[1;32m/world/rgb_sorting/state[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPublishing pose messages on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mpose/info[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPublishing dynamic pose messages on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mdynamic_pose/info[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mContact system publishing on [0m[1;32mworld/rgb_sorting/model/panda/link/suction_cup/sensor/suction_contact/contact[0m[1;32m[0m
+[WARN] [1794795229.213470421] [controller_manager]: No clock received, using time argument instead! Check your node's clock configuration (use_sim_time parameter) and if a valid clock source is available
+[WARN] [1794795230.250433963] [controller_manager]: No clock received, using time argument instead! Check your node's clock configuration (use_sim_time parameter) and if a valid clock source is available
+[WARN] [1794795231.250873297] [controller_manager]: No clock received, using time argument instead! Check your node's clock configuration (use_sim_time parameter) and if a valid clock source is available
+[WARN] [1794795232.301121631] [controller_manager]: No clock received, using time argument instead! Check your node's clock configuration (use_sim_time parameter) and if a valid clock source is available
+[WARN] [1794795233.311920298] [controller_manager]: No clock received, using time argument instead! Check your node's clock configuration (use_sim_time parameter) and if a valid clock source is available
+[WARN] [1794795234.316987799] [controller_manager]: No clock received, using time argument instead! Check your node's clock configuration (use_sim_time parameter) and if a valid clock source is available
+[WARN] [1794795235.322712424] [controller_manager]: No clock received, using time argument instead! Check your node's clock configuration (use_sim_time parameter) and if a valid clock source is available
+[WARN] [1794795236.331172050] [controller_manager]: No clock received, using time argument instead! Check your node's clock configuration (use_sim_time parameter) and if a valid clock source is available
+[WARN] [1794795237.414461675] [controller_manager]: No clock received, using time argument instead! Check your node's clock configuration (use_sim_time parameter) and if a valid clock source is available
+[WARN] [1794795241.533868510] [controller_manager]: No clock received, using time argument instead! Check your node's clock configuration (use_sim_time parameter) and if a valid clock source is available
+[WARN] [1794795243.266645511] [controller_manager]: No clock received, using time argument instead! Check your node's clock configuration (use_sim_time parameter) and if a valid clock source is available
+[WARN] [1794795244.546155678] [controller_manager]: No clock received, using time argument instead! Check your node's clock configuration (use_sim_time parameter) and if a valid clock source is available
+[WARN] [1794795245.746907721] [controller_manager]: No clock received, using time argument instead! Check your node's clock configuration (use_sim_time parameter) and if a valid clock source is available
+[WARN] [1794795246.755546430] [controller_manager]: No clock received, using time argument instead! Check your node's clock configuration (use_sim_time parameter) and if a valid clock source is available
+[WARN] [1794795249.494287666] [controller_manager]: No clock received, using time argument instead! Check your node's clock configuration (use_sim_time parameter) and if a valid clock source is available
+[WARN] [1794795250.604246125] [controller_manager]: No clock received, using time argument instead! Check your node's clock configuration (use_sim_time parameter) and if a valid clock source is available
+[INFO] [1794795250.902777084] [arm_controller]: Received new action goal
+[INFO] [1794795250.912135459] [arm_controller]: Accepted new action goal
+[WARN] [1794795251.616197959] [controller_manager]: No clock received, using time argument instead! Check your node's clock configuration (use_sim_time parameter) and if a valid clock source is available
+[WARN] [1794795252.620793085] [controller_manager]: No clock received, using time argument instead! Check your node's clock configuration (use_sim_time parameter) and if a valid clock source is available
+[WARN] [1794795253.623589085] [controller_manager]: No clock received, using time argument instead! Check your node's clock configuration (use_sim_time parameter) and if a valid clock source is available
+[WARN] [1794795254.628297960] [controller_manager]: No clock received, using time argument instead! Check your node's clock configuration (use_sim_time parameter) and if a valid clock source is available
+[INFO] [1794795254.892042169] [arm_controller]: Goal reached, success!
+[WARN] [1794795255.636255919] [controller_manager]: No clock received, using time argument instead! Check your node's clock configuration (use_sim_time parameter) and if a valid clock source is available
+[INFO] [1794795258.559498962] [controller_manager.pal_statistics]: Async messages lost 0
+[INFO] [1794795258.561352879] [controller_manager.pal_statistics]: publish_async_failures_ 0
+[INFO] [1794795258.606331296] [controller_manager.pal_statistics]: Async messages lost 0
+[INFO] [1794795258.606676171] [controller_manager.pal_statistics]: publish_async_failures_ 0

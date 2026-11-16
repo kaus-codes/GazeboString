@@ -1,0 +1,32 @@
+{
+  "part_004": {
+    "sim_time": 0.0,
+    "wall_monotonic_ns": 3774634904892,
+    "left_censored": true
+  },
+  "part_005": {
+    "sim_time": 0.0,
+    "wall_monotonic_ns": 3774634909392,
+    "left_censored": true
+  },
+  "part_006": {
+    "sim_time": 0.0,
+    "wall_monotonic_ns": 3774634912308,
+    "left_censored": true
+  },
+  "part_007": {
+    "sim_time": 0.0,
+    "wall_monotonic_ns": 3774634915350,
+    "left_censored": true
+  },
+  "part_008": {
+    "sim_time": 0.0,
+    "wall_monotonic_ns": 3774634918267,
+    "left_censored": true
+  },
+  "part_003": {
+    "sim_time": 7.384,
+    "wall_monotonic_ns": 3783239515438,
+    "left_censored": false
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "state": "FAILED",
+  "current_target": "BLUE",
+  "selected": {
+    "color": "BLUE",
+    "shape": "ROUND",
+    "confidence": 0.8836175049730037,
+    "u": 192.2197728790915,
+    "v": 203.55444221776884,
+    "bbox": [
+      183,
+      195,
+      19,
+      18
+    ],
+    "xyz": [
+      -0.2570400062069144,
+      0.0849854126377555,
+      0.735
+    ],
+    "area": 249.5,
+    "position_uncertainty_m": 0.012,
+    "color_confirmed_sim": 50.69,
+    "color_confirmed_wall_ns": 5999846521699,
+    "id": 10,
+    "first_seen": 50.558,
+    "last_seen": 74.78,
+    "velocity": [
+      0.010837258246591897,
+      -0.0007720713659753961,
+      1.1170156291919421e-17
+    ],
+    "hits": 202,
+    "first_seen_wall_ns": 5999662272907,
+    "eligible": true
+  },
+  "attempted_picks": 4,
+  "failed_attempts": 1,
+  "incorrect_picks": 0,
+  "wall_elapsed": 172.982708913,
+  "sim_time": 80.35,
+  "sequence": {
+    "complete": false,
+    "target": "BLUE",
+    "red": 2,
+    "blue": 1,
+    "pairs": 1,
+    "successful_picks": 3,
+    "remaining_pairs": 6,
+    "errors": [],
+    "placements": [
+      {
+        "object_id": "part_007",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 14.21,
+        "wall_monotonic_ns": 5937764548296
+      },
+      {
+        "object_id": "part_003",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 27.956,
+        "wall_monotonic_ns": 5961349250973
+      },
+      {
+        "object_id": "part_018",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 74.864,
+        "wall_monotonic_ns": 6072902431608
+      }
+    ]
+  },
+  "latest_perception_ms": 17.853208,
+  "latest_operation_wall_s": 34.960533224,
+  "sim_elapsed": 78.17999999999999,
+  "real_time_factor": 0.4519525887849974
+}

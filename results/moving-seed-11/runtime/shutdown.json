@@ -1,0 +1,30 @@
+{
+  "direct_children_reaped": true,
+  "processes": [
+    {
+      "name": "gazebo",
+      "pid": 18729,
+      "exit_code": 0
+    },
+    {
+      "name": "rsp",
+      "pid": 18730,
+      "exit_code": 0
+    },
+    {
+      "name": "bridge",
+      "pid": 18731,
+      "exit_code": 0
+    },
+    {
+      "name": "moveit",
+      "pid": 18869,
+      "exit_code": 0
+    },
+    {
+      "name": "vision",
+      "pid": 18870,
+      "exit_code": 0
+    }
+  ]
+}

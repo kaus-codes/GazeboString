@@ -1,0 +1,132 @@
+{"kind": "ik", "wall_start_ns": 11036131539506, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11036135962422}
+{"kind": "ik", "wall_start_ns": 11036140397547, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11036141015006}
+{"kind": "ompl", "wall_start_ns": 11036141400006, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.03913275, "error_code": 1, "wall_end_ns": 11036195654589}
+{"kind": "cartesian", "wall_start_ns": 11039371233591, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11039388455216}
+{"kind": "cartesian", "wall_start_ns": 11039390328882, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11039403779466}
+{"kind": "ik", "wall_start_ns": 11040518337758, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11040524525049}
+{"kind": "ompl", "wall_start_ns": 11040528779299, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.032347083, "error_code": 1, "wall_end_ns": 11040568598675}
+{"kind": "ik", "wall_start_ns": 11041789062758, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11041798333675}
+{"kind": "ompl", "wall_start_ns": 11041800237133, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.030036666, "error_code": 1, "wall_end_ns": 11041841479050}
+{"kind": "ompl", "wall_start_ns": 11046537663927, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.028700001000000003, "error_code": 1, "wall_end_ns": 11046577347386}
+{"kind": "ik", "wall_start_ns": 11049764461721, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11049770515512}
+{"kind": "ik", "wall_start_ns": 11049772722721, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11049776976762}
+{"kind": "ompl", "wall_start_ns": 11049778370762, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.05412775, "error_code": 1, "wall_end_ns": 11049848239387}
+{"kind": "cartesian", "wall_start_ns": 11052420476846, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11052426093096}
+{"kind": "ik", "wall_start_ns": 11053194612513, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11053199438138}
+{"kind": "ompl", "wall_start_ns": 11053200784972, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.034269834, "error_code": 1, "wall_end_ns": 11053240608055}
+{"kind": "ik", "wall_start_ns": 11054708021056, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11054710220639}
+{"kind": "ompl", "wall_start_ns": 11054711048889, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.038086708, "error_code": 1, "wall_end_ns": 11054761394931}
+{"kind": "ompl", "wall_start_ns": 11061030096392, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.024823209, "error_code": 1, "wall_end_ns": 11061065165184}
+{"kind": "ik", "wall_start_ns": 11063982728268, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11063984726602}
+{"kind": "ik", "wall_start_ns": 11063986416768, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11063987250852}
+{"kind": "ompl", "wall_start_ns": 11063987715810, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.027223125, "error_code": 1, "wall_end_ns": 11064023934852}
+{"kind": "cartesian", "wall_start_ns": 11066481945103, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11066486126061}
+{"kind": "ik", "wall_start_ns": 11067446067978, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11067447732937}
+{"kind": "ompl", "wall_start_ns": 11067448991603, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.020647584, "error_code": 1, "wall_end_ns": 11067473825228}
+{"kind": "ik", "wall_start_ns": 11068985580854, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11068986884646}
+{"kind": "ompl", "wall_start_ns": 11068987700896, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.026694791000000002, "error_code": 1, "wall_end_ns": 11069020263937}
+{"kind": "ompl", "wall_start_ns": 11075284865107, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.041340625, "error_code": 1, "wall_end_ns": 11075348433190}
+{"kind": "ik", "wall_start_ns": 11078273080692, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11078275898442}
+{"kind": "ik", "wall_start_ns": 11078277545692, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11078279089650}
+{"kind": "ompl", "wall_start_ns": 11078280338484, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.017962958, "error_code": 1, "wall_end_ns": 11078434935567}
+{"kind": "cartesian", "wall_start_ns": 11081246534777, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11081251945402}
+{"kind": "ik", "wall_start_ns": 11082014029444, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11082019933402}
+{"kind": "ompl", "wall_start_ns": 11082022328735, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.02390375, "error_code": 1, "wall_end_ns": 11082054068027}
+{"kind": "ik", "wall_start_ns": 11083420996652, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11083422150986}
+{"kind": "ompl", "wall_start_ns": 11083422997236, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.029473875, "error_code": 1, "wall_end_ns": 11083461882027}
+{"kind": "ompl", "wall_start_ns": 11088558579988, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.030493001000000002, "error_code": 1, "wall_end_ns": 11088599984238}
+{"kind": "ik", "wall_start_ns": 11103950533870, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11103953536995}
+{"kind": "ik", "wall_start_ns": 11103954671120, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11103956211204}
+{"kind": "ompl", "wall_start_ns": 11103957554037, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.029556417, "error_code": 1, "wall_end_ns": 11104000425829}
+{"kind": "cartesian", "wall_start_ns": 11106767728038, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11106773898330}
+{"kind": "cartesian", "wall_start_ns": 11106774745830, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11106780750622}
+{"kind": "ik", "wall_start_ns": 11107495449455, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11107496691539}
+{"kind": "ompl", "wall_start_ns": 11107497773705, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.022937875, "error_code": 1, "wall_end_ns": 11107527292122}
+{"kind": "ik", "wall_start_ns": 11108691449414, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11108692619956}
+{"kind": "ompl", "wall_start_ns": 11108694266248, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.027709916, "error_code": 1, "wall_end_ns": 11108730035498}
+{"kind": "ompl", "wall_start_ns": 11115883482625, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.031008042, "error_code": 1, "wall_end_ns": 11115930512626}
+{"kind": "ik", "wall_start_ns": 11122856515254, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11122858897379}
+{"kind": "ik", "wall_start_ns": 11122860151962, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11122861269129}
+{"kind": "ompl", "wall_start_ns": 11122862270462, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.027763375, "error_code": 1, "wall_end_ns": 11122901712754}
+{"kind": "cartesian", "wall_start_ns": 11125569188005, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11125573268005}
+{"kind": "ik", "wall_start_ns": 11126293566464, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11126295413922}
+{"kind": "ompl", "wall_start_ns": 11126296407422, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.025425501000000003, "error_code": 1, "wall_end_ns": 11126326125630}
+{"kind": "ik", "wall_start_ns": 11127636975339, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11127638479506}
+{"kind": "ompl", "wall_start_ns": 11127639336089, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.015656916, "error_code": 1, "wall_end_ns": 11127662920381}
+{"kind": "ompl", "wall_start_ns": 11132528805675, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.023635667, "error_code": 1, "wall_end_ns": 11132565853925}
+{"kind": "ik", "wall_start_ns": 11154038254851, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11154041784976}
+{"kind": "ik", "wall_start_ns": 11154042965934, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11154044323851}
+{"kind": "ompl", "wall_start_ns": 11154045433184, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.030361292, "error_code": 1, "wall_end_ns": 11154090281768}
+{"kind": "cartesian", "wall_start_ns": 11156906510602, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11156910290144}
+{"kind": "ik", "wall_start_ns": 11157670991228, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11157672068019}
+{"kind": "ompl", "wall_start_ns": 11157673412394, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.024613876, "error_code": 1, "wall_end_ns": 11157701910436}
+{"kind": "ik", "wall_start_ns": 11159068317353, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11159070092728}
+{"kind": "ompl", "wall_start_ns": 11159071543895, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.026464959000000003, "error_code": 1, "wall_end_ns": 11159112654978}
+{"kind": "ompl", "wall_start_ns": 11165911166690, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.040393917, "error_code": 1, "wall_end_ns": 11165994981273}
+{"kind": "ik", "wall_start_ns": 11169849630359, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11169853354400}
+{"kind": "ik", "wall_start_ns": 11169855227942, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11169857966192}
+{"kind": "ompl", "wall_start_ns": 11169859590192, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.079341626, "error_code": 1, "wall_end_ns": 11169952341442}
+{"kind": "cartesian", "wall_start_ns": 11174888045735, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11174902629110}
+{"kind": "cartesian", "wall_start_ns": 11174904189319, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11174917369444}
+{"kind": "ik", "wall_start_ns": 11176748481569, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11176755284819}
+{"kind": "ompl", "wall_start_ns": 11176761942486, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.063559417, "error_code": 1, "wall_end_ns": 11176847320528}
+{"kind": "ik", "wall_start_ns": 11181981872822, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11181988537239}
+{"kind": "ompl", "wall_start_ns": 11181990963530, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.030602541, "error_code": 1, "wall_end_ns": 11182034833072}
+{"kind": "ompl", "wall_start_ns": 11190316224951, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.034196708, "error_code": 1, "wall_end_ns": 11190369664326}
+{"kind": "ik", "wall_start_ns": 11193116043244, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11193118423536}
+{"kind": "ik", "wall_start_ns": 11193119571494, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11193120314202}
+{"kind": "ompl", "wall_start_ns": 11193121499202, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.038510834, "error_code": 1, "wall_end_ns": 11193185983327}
+{"kind": "cartesian", "wall_start_ns": 11197463806038, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11197469745579}
+{"kind": "cartesian", "wall_start_ns": 11197471218038, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11197476324996}
+{"kind": "ik", "wall_start_ns": 11198495649080, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11198497713622}
+{"kind": "ompl", "wall_start_ns": 11198499213163, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.022657793, "error_code": 1, "wall_end_ns": 11198530703955}
+{"kind": "ik", "wall_start_ns": 11200964772206, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11200969497706}
+{"kind": "ompl", "wall_start_ns": 11200977608623, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.042304667000000004, "error_code": 1, "wall_end_ns": 11201066058748}
+{"kind": "ompl", "wall_start_ns": 11218497146589, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.028293542, "error_code": 1, "wall_end_ns": 11218560498964}
+{"kind": "ik", "wall_start_ns": 11222281636341, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11222286358508}
+{"kind": "ik", "wall_start_ns": 11222287231508, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11222288475758}
+{"kind": "ompl", "wall_start_ns": 11222289764424, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.037690457999999996, "error_code": 1, "wall_end_ns": 11222341033008}
+{"kind": "cartesian", "wall_start_ns": 11225166762467, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11225173379717}
+{"kind": "cartesian", "wall_start_ns": 11225176785884, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11225186146801}
+{"kind": "ik", "wall_start_ns": 11226202791135, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11226205039135}
+{"kind": "ompl", "wall_start_ns": 11226206181551, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.027534542000000002, "error_code": 1, "wall_end_ns": 11226238581843}
+{"kind": "ik", "wall_start_ns": 11227652807552, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11227654433219}
+{"kind": "ompl", "wall_start_ns": 11227655415677, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.029013291, "error_code": 1, "wall_end_ns": 11227692855844}
+{"kind": "ompl", "wall_start_ns": 11232970932054, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.035011292, "error_code": 1, "wall_end_ns": 11233020793888}
+{"kind": "ik", "wall_start_ns": 11235510053930, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11235517585847}
+{"kind": "ik", "wall_start_ns": 11235520763597, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11235521655722}
+{"kind": "ompl", "wall_start_ns": 11235522223389, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.027029542, "error_code": 1, "wall_end_ns": 11235575217555}
+{"kind": "cartesian", "wall_start_ns": 11238698935307, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11238706919224}
+{"kind": "ik", "wall_start_ns": 11240035009557, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11240037910557}
+{"kind": "ompl", "wall_start_ns": 11240044833641, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.092337875, "error_code": 1, "wall_end_ns": 11240146041516}
+{"kind": "ik", "wall_start_ns": 11241630386642, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11241632566683}
+{"kind": "ompl", "wall_start_ns": 11241633737350, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.039753334, "error_code": 1, "wall_end_ns": 11241688156933}
+{"kind": "ompl", "wall_start_ns": 11249225474395, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.013626833, "error_code": 1, "wall_end_ns": 11249255742020}
+{"kind": "ik", "wall_start_ns": 11253398366481, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11253404164939}
+{"kind": "ik", "wall_start_ns": 11253406075772, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11253409455064}
+{"kind": "ompl", "wall_start_ns": 11253411657147, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.040573709, "error_code": 1, "wall_end_ns": 11253486011314}
+{"kind": "cartesian", "wall_start_ns": 11256370136274, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11256380601899}
+{"kind": "ik", "wall_start_ns": 11257653198399, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11257655651274}
+{"kind": "ompl", "wall_start_ns": 11257659267358, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.025597792, "error_code": 1, "wall_end_ns": 11257696477566}
+{"kind": "ik", "wall_start_ns": 11259460933192, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11259462740108}
+{"kind": "ompl", "wall_start_ns": 11259463870025, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.036297541, "error_code": 1, "wall_end_ns": 11259514786608}
+{"kind": "ompl", "wall_start_ns": 11266125681861, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.020374374, "error_code": 1, "wall_end_ns": 11266164495945}
+{"kind": "ik", "wall_start_ns": 11269040297196, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11269042689654}
+{"kind": "ik", "wall_start_ns": 11269043398238, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11269044427821}
+{"kind": "ompl", "wall_start_ns": 11269045393154, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.026969667000000003, "error_code": 1, "wall_end_ns": 11269081883488}
+{"kind": "cartesian", "wall_start_ns": 11272403259489, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11272409370573}
+{"kind": "ik", "wall_start_ns": 11273723735615, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11273726223823}
+{"kind": "ompl", "wall_start_ns": 11273727274198, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.024043251, "error_code": 1, "wall_end_ns": 11273764159615}
+{"kind": "ik", "wall_start_ns": 11275586930491, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11275588781116}
+{"kind": "ompl", "wall_start_ns": 11275590174574, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.030502500000000002, "error_code": 1, "wall_end_ns": 11275634808741}
+{"kind": "ompl", "wall_start_ns": 11285993640871, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.024810791999999998, "error_code": 1, "wall_end_ns": 11286033397954}
+{"kind": "ik", "wall_start_ns": 11312775544842, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11312778668842}
+{"kind": "ik", "wall_start_ns": 11312779527508, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11312781051175}
+{"kind": "ompl", "wall_start_ns": 11312782321842, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.028808249, "error_code": 1, "wall_end_ns": 11312825317967}
+{"kind": "cartesian", "wall_start_ns": 11316649759885, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11316656174135}
+{"kind": "cartesian", "wall_start_ns": 11316657083302, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11316662370052}
+{"kind": "ik", "wall_start_ns": 11317725188344, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11317726674802}
+{"kind": "ompl", "wall_start_ns": 11317727960886, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.019563875, "error_code": 1, "wall_end_ns": 11317752957136}
+{"kind": "ik", "wall_start_ns": 11319513811303, "source": "ROS service round trip", "response_received": true, "error_code": 1, "wall_end_ns": 11319515584011}
+{"kind": "ompl", "wall_start_ns": 11319516521428, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.018575416, "error_code": 1, "wall_end_ns": 11319550385720}
+{"kind": "ompl", "wall_start_ns": 11326552867847, "source": "ROS service round trip", "response_received": true, "server_planning_s": 0.02449225, "error_code": 1, "wall_end_ns": 11326589321056}

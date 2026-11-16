@@ -1,0 +1,17 @@
+object_id,event,wall_monotonic_ns,sim_time,details
+attempt_001_track_4,target_selected,2587271030227,3.782,"{""track"": {""color"": ""RED"", ""shape"": ""BOX"", ""confidence"": 0.8669326704641003, ""u"": 428.5924559245592, ""v"": 252.02788027880277, ""bbox"": [418, 240, 22, 25], ""xyz"": [0.20708132793610565, -0.027285545050690918, 0.735], ""area"": 406.5, ""position_uncertainty_m"": 0.004, ""color_confirmed_sim"": 3.434, ""color_confirmed_wall_ns"": 2587175167477, ""id"": 4, ""first_seen"": 3.236, ""last_seen"": 3.566, ""velocity"": [0.029921856468158974, -0.0005452424219038108, -4.5418214643754934e-17], ""hits"": 5, ""first_seen_wall_ns"": 2586820029393, ""eligible"": true}}"
+attempt_001_track_4,planning_start,2587284355810,3.794,{}
+attempt_001_track_4,planning_complete,2587354241935,3.846,{}
+attempt_001_track_4,movement_start,2587356612102,3.848,{}
+attempt_001_track_4,grasp_confirmed,2591104645812,6.67,"{""entity"": ""part_007""}"
+attempt_001_track_4,lift_confirmed,2592598289854,7.998,"{""entity"": ""part_007""}"
+attempt_001_track_4,release,2595685142980,10.644,"{""entity"": ""part_007""}"
+attempt_001_track_4,placement_confirmed,2596627400856,11.484,"{""entity"": ""part_007"", ""evaluated_color"": ""RED"", ""bin_color"": ""RED"", ""eligible_entry"": {""sim_time"": 0.7280000000000001, ""wall_monotonic_ns"": 2583670975475}, ""camera_first_detection_sim"": 3.236, ""camera_first_detection_wall_ns"": 2586820029393, ""camera_color_confirmed_sim"": 3.434, ""camera_color_confirmed_wall_ns"": 2587175167477}"
+attempt_002_track_5,target_selected,2596635043106,11.492,"{""track"": {""color"": ""BLUE"", ""shape"": ""ROUND"", ""confidence"": 0.8658470779881897, ""u"": 274.2730042656916, ""v"": 249.89640463132233, ""bbox"": [265, 241, 20, 19], ""xyz"": [-0.08739936927610208, -0.022594792314652112, 0.735], ""area"": 273.5, ""position_uncertainty_m"": 0.012, ""color_confirmed_sim"": 3.434, ""color_confirmed_wall_ns"": 2587175571893, ""id"": 5, ""first_seen"": 3.236, ""last_seen"": 11.42, ""velocity"": [0.03327750163823028, 0.009441730041135734, 1.968169513032115e-16], ""hits"": 120, ""first_seen_wall_ns"": 2586820031435, ""eligible"": true}}"
+attempt_002_track_5,planning_start,2596637302148,11.494,{}
+attempt_002_track_5,planning_complete,2596688911981,11.542,{}
+attempt_002_track_5,movement_start,2596689848314,11.544,{}
+attempt_002_track_5,grasp_confirmed,2603869499568,17.384,"{""entity"": ""part_005""}"
+attempt_002_track_5,lift_confirmed,2605556556318,18.724,"{""entity"": ""part_005""}"
+attempt_002_track_5,release,2610670571196,22.774,"{""entity"": ""part_005""}"
+attempt_002_track_5,placement_confirmed,2612718107489,23.598,"{""entity"": ""part_005"", ""evaluated_color"": ""BLUE"", ""bin_color"": ""BLUE"", ""eligible_entry"": {""sim_time"": 0.7280000000000001, ""wall_monotonic_ns"": 2583670969225}, ""camera_first_detection_sim"": 3.236, ""camera_first_detection_wall_ns"": 2586820031435, ""camera_color_confirmed_sim"": 3.434, ""camera_color_confirmed_wall_ns"": 2587175571893}"

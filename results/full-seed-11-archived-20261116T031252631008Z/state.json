@@ -1,0 +1,151 @@
+{
+  "state": "FAILED",
+  "current_target": "RED",
+  "selected": {
+    "color": "RED",
+    "shape": "BOX",
+    "confidence": 0.88011854565563,
+    "u": 103.31174438687393,
+    "v": 287.5112262521589,
+    "bbox": [
+      90,
+      275,
+      28,
+      26
+    ],
+    "xyz": [
+      -0.3980608096032777,
+      -0.10233804283652592,
+      0.735
+    ],
+    "area": 579.0,
+    "position_uncertainty_m": 0.004,
+    "color_confirmed_sim": 151.736,
+    "color_confirmed_wall_ns": 4610291425358,
+    "id": 58,
+    "first_seen": 151.604,
+    "last_seen": 154.904,
+    "velocity": [
+      0.03949072972797962,
+      7.998738882230236e-05,
+      9.309286377929142e-17
+    ],
+    "hits": 44,
+    "first_seen_wall_ns": 4609997755733,
+    "eligible": true
+  },
+  "attempted_picks": 11,
+  "failed_attempts": 3,
+  "incorrect_picks": 1,
+  "wall_elapsed": 442.056330161,
+  "sim_time": 157.858,
+  "sequence": {
+    "complete": false,
+    "target": "RED",
+    "red": 4,
+    "blue": 4,
+    "pairs": 4,
+    "successful_picks": 8,
+    "remaining_pairs": 3,
+    "errors": [],
+    "placements": [
+      {
+        "object_id": "part_007",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 11.848,
+        "wall_monotonic_ns": 4201044080128
+      },
+      {
+        "object_id": "part_005",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 19.748,
+        "wall_monotonic_ns": 4217940246385
+      },
+      {
+        "object_id": "part_018",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 77.242,
+        "wall_monotonic_ns": 4338173669523
+      },
+      {
+        "object_id": "part_021",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 92.828,
+        "wall_monotonic_ns": 4396606151676
+      },
+      {
+        "object_id": "part_025",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 116.738,
+        "wall_monotonic_ns": 4463658570039
+      },
+      {
+        "object_id": "part_024",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 125.898,
+        "wall_monotonic_ns": 4501299474432
+      },
+      {
+        "object_id": "part_027",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 137.432,
+        "wall_monotonic_ns": 4569357078797
+      },
+      {
+        "object_id": "part_031",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 153.274,
+        "wall_monotonic_ns": 4613256636818
+      }
+    ]
+  },
+  "latest_perception_ms": 27.879667
+}

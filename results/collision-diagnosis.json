@@ -1,0 +1,11 @@
+{
+  "ik_without_collision_filter": 1,
+  "valid": false,
+  "contacts": [
+    {
+      "body1": "panda_hand",
+      "body2": "rail_-0.205/collision",
+      "depth": 0.0013282606390926874
+    }
+  ]
+}

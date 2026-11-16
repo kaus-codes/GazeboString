@@ -1,0 +1,48 @@
+{
+  "passed": false,
+  "error": "Motion planning failed 99999",
+  "seed": 11,
+  "verified_placements": 2,
+  "attempts": 8,
+  "failed_attempts": 6,
+  "incorrect_picks": 0,
+  "sequence": {
+    "complete": false,
+    "target": "RED",
+    "red": 1,
+    "blue": 1,
+    "pairs": 1,
+    "successful_picks": 2,
+    "remaining_pairs": 6,
+    "errors": [],
+    "placements": [
+      {
+        "object_id": "part_019",
+        "perceived_color": "RED",
+        "evaluated_color": "RED",
+        "bin_color": "RED",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 83.402,
+        "wall_monotonic_ns": 3126571749722
+      },
+      {
+        "object_id": "part_022",
+        "perceived_color": "BLUE",
+        "evaluated_color": "BLUE",
+        "bin_color": "BLUE",
+        "grasp_contact": true,
+        "lift_confirmed": true,
+        "released": true,
+        "contained_and_settled": true,
+        "sim_time": 106.622,
+        "wall_monotonic_ns": 3174480876994
+      }
+    ]
+  },
+  "wall_seconds": 172.305402621,
+  "sim_seconds": 108.83000000000001,
+  "seven_pair_elapsed_time_wall_s": null
+}

@@ -1,0 +1,19 @@
+Built Panda URDF from /opt/ros/jazzy/share/moveit_resources_panda_description
+Resolved suction contact collision: suction_cup_fixed_joint_lump__suction_collision_collision
+Robot spawn accepted
+[INFO] [1794796985.490641386] [spawner_joint_state_broadcaster]: waiting for service /controller_manager/list_controllers to become available...
+[INFO] [1794796986.335187512] [spawner_joint_state_broadcaster]: Loaded joint_state_broadcaster
+[INFO] [1794796990.681565639] [spawner_joint_state_broadcaster]: Configured and activated joint_state_broadcaster
+[INFO] [1794796990.732353805] [spawner_joint_state_broadcaster]: Loaded arm_controller
+[INFO] [1794796990.770246472] [spawner_joint_state_broadcaster]: Configured and activated arm_controller
+{
+  "ik_without_collision_filter": 1,
+  "valid": false,
+  "contacts": [
+    {
+      "body1": "panda_hand",
+      "body2": "rail_-0.205/collision",
+      "depth": 0.0013282606390926874
+    }
+  ]
+}

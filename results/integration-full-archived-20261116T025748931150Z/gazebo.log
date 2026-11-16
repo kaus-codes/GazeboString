@@ -1,0 +1,297 @@
+[1;32m[Msg] [0m[1;32mGazebo Sim Server v[0m[1;32m8.15.0[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mLoading SDF world file[[0m[1;32m/project/worlds/robot_test.sdf[0m[1;32m].[0m
+[1;32m[Msg] [0m[1;32mServing entity system service on [[0m[1;32m/[0m[1;32mentity/system/add[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mCreate[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/create_multiple[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mCreate[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/create_multiple/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mRemove[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/remove[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mRemove[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/remove/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPose[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_pose[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPose[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_pose/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPose[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_pose_vector[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPose[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_pose_vector/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mLight configuration[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/light_config[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mLight configuration[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/light_config/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPhysics[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_physics[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPhysics[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_physics/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mSphericalCoordinates[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_spherical_coordinates[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mSphericalCoordinates[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_spherical_coordinates/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mEnable collision[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/enable_collision[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mEnable collision[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/enable_collision/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mDisable collision[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/disable_collision[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mDisable collision[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/disable_collision/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mMaterial[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/visual_config[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mMaterial[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/visual_config/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mMaterial[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/wheel_slip[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mMaterial[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/wheel_slip/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mLoaded level [[0m[1;32mdefault[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing world controls on [[0m[1;32m/world/rgb_sorting[0m[1;32m/control], [[0m[1;32m/world/rgb_sorting[0m[1;32m/control/state] and [[0m[1;32m/world/rgb_sorting[0m[1;32m/playback/control][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing GUI information on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mgui/info[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mWorld [[0m[1;32mrgb_sorting[0m[1;32m] initialized with [[0m[1;32mphysics[0m[1;32m] physics profile.[0m[1;32m[0m
+[1;32m[Msg] [INFO] [1794796716.763305345] [gz_ros_control]: [gz_ros2_control] Fixed joint ['world_anchor'] (Entity='166') is skipped.
+[INFO] [1794796716.763627220] [gz_ros_control]: [gz_ros2_control] Fixed joint ['suction_joint'] (Entity='176') is skipped.
+[INFO] [1794796716.766183137] [gz_ros_control]: Loading controller_manager
+[INFO] [1794796716.779363804] [controller_manager]: Using ROS clock for triggering controller manager cycles.
+[WARN] [1794796716.779601929] [controller_manager]: The resource manager is not yet initialized, will wait for the robot description to initialize it..
+[INFO] [1794796716.790787345] [controller_manager]: Subscribing to '/robot_description' topic for robot description.
+[WARN] [1794796716.791163970] [gz_ros_control]: Waiting RM to load and initialize hardware...
+[WARN] [1794796717.792540429] [controller_manager]: Waiting for data on 'robot_description' topic to finish initialization
+[INFO] [1794796718.407000596] [controller_manager]: Received robot description from topic.
+[INFO] [1794796718.407327554] [controller_manager]: Enforcing command limits is disabled. Command limits from URDF will be ignored.
+[INFO] [1794796718.420903929] [gz_ros_control]: The position_proportional_gain has been set to: 0.1
+[INFO] [1794796718.421341179] [gz_ros_control]: Loading joint: panda_joint1
+[INFO] [1794796718.421420346] [gz_ros_control]: 	State:
+[INFO] [1794796718.421539471] [gz_ros_control]: 		 position
+[INFO] [1794796718.422337804] [gz_ros_control]: 			 found initial value: 0.000000
+[INFO] [1794796718.422420971] [gz_ros_control]: 		 velocity
+[INFO] [1794796718.423045429] [gz_ros_control]: 	Command:
+[INFO] [1794796718.423162429] [gz_ros_control]: 		 position
+[INFO] [1794796718.423266096] [gz_ros_control]: Loading joint: panda_joint2
+[INFO] [1794796718.423340638] [gz_ros_control]: 	State:
+[INFO] [1794796718.423423846] [gz_ros_control]: 		 position
+[INFO] [1794796718.423501929] [gz_ros_control]: 			 found initial value: -0.500000
+[INFO] [1794796718.423569346] [gz_ros_control]: 		 velocity
+[INFO] [1794796718.423614471] [gz_ros_control]: 	Command:
+[INFO] [1794796718.423673221] [gz_ros_control]: 		 position
+[INFO] [1794796718.423733346] [gz_ros_control]: Loading joint: panda_joint3
+[INFO] [1794796718.423781763] [gz_ros_control]: 	State:
+[INFO] [1794796718.423854929] [gz_ros_control]: 		 position
+[INFO] [1794796718.423913471] [gz_ros_control]: 			 found initial value: 0.000000
+[INFO] [1794796718.423969346] [gz_ros_control]: 		 velocity
+[INFO] [1794796718.424015846] [gz_ros_control]: 	Command:
+[INFO] [1794796718.424058929] [gz_ros_control]: 		 position
+[INFO] [1794796718.424112304] [gz_ros_control]: Loading joint: panda_joint4
+[INFO] [1794796718.424165596] [gz_ros_control]: 	State:
+[INFO] [1794796718.424211929] [gz_ros_control]: 		 position
+[INFO] [1794796718.424264513] [gz_ros_control]: 			 found initial value: -2.000000
+[INFO] [1794796718.424309554] [gz_ros_control]: 		 velocity
+[INFO] [1794796718.424352179] [gz_ros_control]: 	Command:
+[INFO] [1794796718.424406263] [gz_ros_control]: 		 position
+[INFO] [1794796718.424467304] [gz_ros_control]: Loading joint: panda_joint5
+[INFO] [1794796718.424517846] [gz_ros_control]: 	State:
+[INFO] [1794796718.424566554] [gz_ros_control]: 		 position
+[INFO] [1794796718.424612763] [gz_ros_control]: 			 found initial value: 0.000000
+[INFO] [1794796718.424660013] [gz_ros_control]: 		 velocity
+[INFO] [1794796718.424713763] [gz_ros_control]: 	Command:
+[INFO] [1794796718.424759554] [gz_ros_control]: 		 position
+[INFO] [1794796718.424809054] [gz_ros_control]: Loading joint: panda_joint6
+[INFO] [1794796718.424861013] [gz_ros_control]: 	State:
+[INFO] [1794796718.424902888] [gz_ros_control]: 		 position
+[INFO] [1794796718.424940554] [gz_ros_control]: 			 found initial value: 1.500000
+[INFO] [1794796718.424985679] [gz_ros_control]: 		 velocity
+[INFO] [1794796718.425028929] [gz_ros_control]: 	Command:
+[INFO] [1794796718.425071221] [gz_ros_control]: 		 position
+[INFO] [1794796718.425142471] [gz_ros_control]: Loading joint: panda_joint7
+[INFO] [1794796718.425197846] [gz_ros_control]: 	State:
+[INFO] [1794796718.425248346] [gz_ros_control]: 		 position
+[INFO] [1794796718.425442263] [gz_ros_control]: 			 found initial value: 0.785398
+[INFO] [1794796718.425501179] [gz_ros_control]: 		 velocity
+[INFO] [1794796718.425557888] [gz_ros_control]: 	Command:
+[INFO] [1794796718.425617929] [gz_ros_control]: 		 position
+[INFO] [1794796718.425691554] [gz_ros_control]: Loading joint: panda_finger_joint1
+[INFO] [1794796718.425742888] [gz_ros_control]: 	State:
+[INFO] [1794796718.425819679] [gz_ros_control]: 		 position
+[INFO] [1794796718.425875429] [gz_ros_control]: 			 found initial value: 0.040000
+[INFO] [1794796718.425929429] [gz_ros_control]: 		 velocity
+[INFO] [1794796718.425968679] [gz_ros_control]: 	Command:
+[INFO] [1794796718.426008054] [gz_ros_control]: 		 position
+[INFO] [1794796718.426092013] [gz_ros_control]: Loading joint: panda_finger_joint2
+[INFO] [1794796718.426150888] [gz_ros_control]: Joint 'panda_finger_joint2'is mimicking joint 'panda_finger_joint1' with multiplier: 1 and offset: 0
+[INFO] [1794796718.426269304] [gz_ros_control]: 	State:
+[INFO] [1794796718.426320179] [gz_ros_control]: 		 position
+[INFO] [1794796718.426374388] [gz_ros_control]: 		 velocity
+[INFO] [1794796718.426421179] [gz_ros_control]: 	Command:
+[INFO] [1794796718.428264846] [controller_manager]: Initialize hardware 'GazeboSystem' 
+[WARN] [1794796718.428608679] [controller_manager.hardware_component.system.GazeboSystem]: Executor is not available during hardware component initialization for 'GazeboSystem'. Skipping node creation!
+[INFO] [1794796718.428812138] [controller_manager]: Successful initialization of hardware 'GazeboSystem'
+[INFO] [1794796718.430521929] [controller_manager]: Activating component 'GazeboSystem'.
+[INFO] [1794796718.430720179] [resource_manager]: 'configure' hardware 'GazeboSystem' 
+[INFO] [1794796718.430793096] [gz_ros_control]: System Successfully configured!
+[INFO] [1794796718.430910804] [resource_manager]: Successful 'configure' of hardware 'GazeboSystem'
+[INFO] [1794796718.430985971] [resource_manager]: 'activate' hardware 'GazeboSystem' 
+[INFO] [1794796718.431071804] [resource_manager]: Successful 'activate' of hardware 'GazeboSystem'
+[WARN] [1794796718.431271554] [controller_manager]: Component 'GazeboSystem' does not have read or write statistics initialized, skipping registration.
+[INFO] [1794796718.431335179] [controller_manager]: Resource Manager has been successfully initialized. Starting Controller Manager services...
+[1;31m[Err] [Physics.cc:1906] [0m[1;31mAttempting to create a mimic constraint for joint [[0m[1;31mpanda_finger_joint2[0m[1;31m] but the chosen physics engine does not support [0m[1;31mmimic constraints, so no constraint will be [0m[1;31mcreated.[0m[1;31m[0m
+[WARN] [1794796718.891655221] [gz_ros_control]:  Desired controller update period (0.004 s) is slower than the gazebo simulation period (0.002 s).
+[INFO] [1794796719.307854763] [controller_manager]: Loading controller : 'joint_state_broadcaster' of type 'joint_state_broadcaster/JointStateBroadcaster'
+[INFO] [1794796719.308594263] [controller_manager]: Loading controller 'joint_state_broadcaster'
+[INFO] [1794796719.326973138] [controller_manager]: Controller 'joint_state_broadcaster' node arguments: --ros-args --params-file /project/config/controllers.yaml -p use_sim_time:=true --param use_sim_time:=true 
+[1;33m[Wrn] [Ogre2Camera.cc:423] [0m[1;33mOgre2Camera::SetVisibilityMask: Mask bits [0m[1;33mc0000000[0m[1;33m are set but will be ignored as they conflict with the [0m[1;33mreserved bits used internally by the ogre2 backend.[0m[1;33m[0m
+[1;33m[Wrn] [Ogre2RenderTarget.cc:668] [0m[1;33mAnti-aliasing level of '[0m[1;33m[0m[1;33m' [0m[1;33mis not supported; valid FSAA levels are: [0m[1;33m[ 0 ][0m[1;33m. Setting to 1[0m[1;33m[0m
+[INFO] [1794796720.386891139] [controller_manager]: Configuring controller: 'joint_state_broadcaster'
+[INFO] [1794796720.393081389] [joint_state_broadcaster]: 'joints' or 'interfaces' parameter is empty. All available state interfaces will be published
+[INFO] [1794796720.420476430] [controller_manager]: Activating controllers: [ joint_state_broadcaster ]
+[INFO] [1794796720.422243514] [controller_manager]: Successfully switched controllers!
+[INFO] [1794796720.431677389] [controller_manager]: Loading controller : 'arm_controller' of type 'joint_trajectory_controller/JointTrajectoryController'
+[INFO] [1794796720.432132514] [controller_manager]: Loading controller 'arm_controller'
+[INFO] [1794796720.440008097] [controller_manager]: Controller 'arm_controller' node arguments: --ros-args --params-file /project/config/controllers.yaml -p use_sim_time:=true --param use_sim_time:=true 
+[INFO] [1794796720.531577305] [controller_manager]: Configuring controller: 'arm_controller'
+[INFO] [1794796720.533033305] [arm_controller]: No specific joint names are used for command interfaces. Using 'joints' parameter.
+[INFO] [1794796720.534857555] [arm_controller]: Command interfaces are [position] and state interfaces are [position velocity].
+[INFO] [1794796720.535279347] [arm_controller]: Using 'splines' interpolation method.
+[INFO] [1794796720.541163889] [arm_controller]: Action status changes will be monitored at 20.00 Hz.
+[INFO] [1794796720.555789000] [arm_controller]: Setting initial scaling factor to 1.000000
+[INFO] [1794796720.555989250] [arm_controller]: No scaling interface set. This controller will not read speed scaling from the hardware.
+[INFO] [1794796720.559277958] [controller_manager]: Activating controllers: [ arm_controller ]
+[INFO] [1794796720.562831500] [controller_manager]: Successfully switched controllers!
+[0m[1;32mServing world SDF generation service on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mgenerate_world_sdf[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing world names on [[0m[1;32m/gazebo/worlds[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mResource path add service on [[0m[1;32m/gazebo/resource_paths/add[0m[1;32m].[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mResource path get service on [[0m[1;32m/gazebo/resource_paths/get[0m[1;32m].[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mResource path resolve service on [[0m[1;32m/gazebo/resource_paths/resolve[0m[1;32m].[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mResource paths published on [[0m[1;32m/gazebo/resource_paths[0m[1;32m].[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServer control service on [[0m[1;32m/server_control[0m[1;32m].[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mFound no publishers on /stats, adding root stats topic[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mFound no publishers on /clock, adding root clock topic[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mContact system publishing on [0m[1;32mworld/rgb_sorting/model/panda/link/suction_cup/sensor/suction_contact/contact[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mEnabled contact surface customization for world entity [[0m[1;32m1[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mEnabling contact surface customization for collision [[0m[1;32mcollision[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mLoading plugin [[0m[1;32mgz-rendering-ogre2[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing scene information on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mscene/info[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing graph information on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mscene/graph[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing full state on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mstate[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing full state (async) on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mstate_async[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPublishing scene information on [[0m[1;32m/world/rgb_sorting/scene/info[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPublishing entity deletions on [[0m[1;32m/world/rgb_sorting/scene/deletion[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPublishing state changes on [[0m[1;32m/world/rgb_sorting/state[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPublishing pose messages on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mpose/info[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPublishing dynamic pose messages on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mdynamic_pose/info[0m[1;32m][0m[1;32m[0m
+[INFO] [1794796803.677754594] [arm_controller]: Received new action goal
+[INFO] [1794796803.682032094] [arm_controller]: Accepted new action goal
+[INFO] [1794796808.260769346] [arm_controller]: Goal reached, success!
+[INFO] [1794796808.400269096] [arm_controller]: Received new action goal
+[INFO] [1794796808.400507596] [arm_controller]: Accepted new action goal
+[INFO] [1794796809.266784263] [arm_controller]: Goal reached, success!
+[INFO] [1794796809.309053638] [arm_controller]: Received new action goal
+[INFO] [1794796809.310074722] [arm_controller]: Accepted new action goal
+[INFO] [1794796809.635182430] [arm_controller]: Goal reached, success!
+[INFO] [1794796809.665255805] [arm_controller]: Received new action goal
+[INFO] [1794796809.665709972] [arm_controller]: Accepted new action goal
+[INFO] [1794796809.948852347] [arm_controller]: Goal reached, success!
+[INFO] [1794796811.010709583] [arm_controller]: Received new action goal
+[INFO] [1794796811.011028166] [arm_controller]: Accepted new action goal
+[INFO] [1794796814.289197668] [arm_controller]: Goal reached, success!
+[INFO] [1794796814.351204960] [arm_controller]: Received new action goal
+[INFO] [1794796814.351513460] [arm_controller]: Accepted new action goal
+[INFO] [1794796816.669917586] [arm_controller]: Goal reached, success!
+[INFO] [1794796816.711807502] [arm_controller]: Received new action goal
+[INFO] [1794796816.712139461] [arm_controller]: Accepted new action goal
+[INFO] [1794796816.969307044] [arm_controller]: Goal reached, success!
+[INFO] [1794796817.016137336] [arm_controller]: Received new action goal
+[INFO] [1794796817.016578336] [arm_controller]: Accepted new action goal
+[INFO] [1794796817.238743669] [arm_controller]: Goal reached, success!
+[INFO] [1794796817.278375711] [arm_controller]: Received new action goal
+[INFO] [1794796817.278620253] [arm_controller]: Accepted new action goal
+[INFO] [1794796817.497836544] [arm_controller]: Goal reached, success!
+[INFO] [1794796817.532514461] [arm_controller]: Received new action goal
+[INFO] [1794796817.532860836] [arm_controller]: Accepted new action goal
+[INFO] [1794796817.767032878] [arm_controller]: Goal reached, success!
+[INFO] [1794796819.315823004] [arm_controller]: Received new action goal
+[INFO] [1794796819.316156295] [arm_controller]: Accepted new action goal
+[INFO] [1794796822.520297672] [arm_controller]: Goal reached, success!
+[INFO] [1794796822.615864172] [arm_controller]: Received new action goal
+[INFO] [1794796822.616389339] [arm_controller]: Accepted new action goal
+[INFO] [1794796826.395774590] [arm_controller]: Goal reached, success!
+[INFO] [1794796826.481201757] [arm_controller]: Received new action goal
+[INFO] [1794796826.483477757] [arm_controller]: Accepted new action goal
+[INFO] [1794796826.807899382] [arm_controller]: Goal reached, success!
+[INFO] [1794796826.858456716] [arm_controller]: Received new action goal
+[INFO] [1794796826.859562049] [arm_controller]: Accepted new action goal
+[INFO] [1794796827.228737382] [arm_controller]: Goal reached, success!
+[INFO] [1794796827.264651216] [arm_controller]: Received new action goal
+[INFO] [1794796827.265174924] [arm_controller]: Accepted new action goal
+[INFO] [1794796827.528535466] [arm_controller]: Goal reached, success!
+[INFO] [1794796827.568295758] [arm_controller]: Received new action goal
+[INFO] [1794796827.568545799] [arm_controller]: Accepted new action goal
+[INFO] [1794796827.792270008] [arm_controller]: Goal reached, success!
+[INFO] [1794796827.845501841] [arm_controller]: Received new action goal
+[INFO] [1794796827.845783841] [arm_controller]: Accepted new action goal
+[INFO] [1794796831.787827801] [arm_controller]: Goal reached, success!
+[INFO] [1794796831.843629260] [arm_controller]: Received new action goal
+[INFO] [1794796831.845199468] [arm_controller]: Accepted new action goal
+[INFO] [1794796835.224793636] [arm_controller]: Goal reached, success!
+[INFO] [1794796836.647932637] [arm_controller]: Received new action goal
+[INFO] [1794796836.648244304] [arm_controller]: Accepted new action goal
+[INFO] [1794796840.946902625] [arm_controller]: Goal reached, success!
+[INFO] [1794796840.963028166] [arm_controller]: Received new action goal
+[INFO] [1794796840.964602708] [arm_controller]: Accepted new action goal
+[INFO] [1794796841.443090708] [arm_controller]: Goal reached, success!
+[INFO] [1794796841.470329250] [arm_controller]: Received new action goal
+[INFO] [1794796841.470806250] [arm_controller]: Accepted new action goal
+[INFO] [1794796841.802958333] [arm_controller]: Goal reached, success!
+[INFO] [1794796841.824719708] [arm_controller]: Received new action goal
+[INFO] [1794796841.824970708] [arm_controller]: Accepted new action goal
+[INFO] [1794796842.125187459] [arm_controller]: Goal reached, success!
+[INFO] [1794796843.163412042] [arm_controller]: Received new action goal
+[INFO] [1794796843.163736626] [arm_controller]: Accepted new action goal
+[INFO] [1794796847.019864086] [arm_controller]: Goal reached, success!
+[INFO] [1794796847.109578711] [arm_controller]: Received new action goal
+[INFO] [1794796847.109797044] [arm_controller]: Accepted new action goal
+[INFO] [1794796850.415583129] [arm_controller]: Goal reached, success!
+[INFO] [1794796850.498423504] [arm_controller]: Received new action goal
+[INFO] [1794796850.499724671] [arm_controller]: Accepted new action goal
+[INFO] [1794796850.850188629] [arm_controller]: Goal reached, success!
+[INFO] [1794796850.855257004] [arm_controller]: Received new action goal
+[INFO] [1794796850.855558296] [arm_controller]: Accepted new action goal
+[INFO] [1794796851.128630005] [arm_controller]: Goal reached, success!
+[INFO] [1794796851.159336546] [arm_controller]: Received new action goal
+[INFO] [1794796851.159573171] [arm_controller]: Accepted new action goal
+[INFO] [1794796851.439268588] [arm_controller]: Goal reached, success!
+[INFO] [1794796852.491715005] [arm_controller]: Received new action goal
+[INFO] [1794796852.491979130] [arm_controller]: Accepted new action goal
+[INFO] [1794796856.023096549] [arm_controller]: Goal reached, success!
+[INFO] [1794796856.084714090] [arm_controller]: Received new action goal
+[INFO] [1794796856.085132590] [arm_controller]: Accepted new action goal
+[INFO] [1794796859.478768967] [arm_controller]: Goal reached, success!
+[INFO] [1794796859.503080175] [arm_controller]: Received new action goal
+[INFO] [1794796859.503390884] [arm_controller]: Accepted new action goal
+[INFO] [1794796859.864063425] [arm_controller]: Goal reached, success!
+[INFO] [1794796859.909891675] [arm_controller]: Received new action goal
+[INFO] [1794796859.910949050] [arm_controller]: Accepted new action goal
+[INFO] [1794796860.594642717] [arm_controller]: Goal reached, success!
+[INFO] [1794796860.613672342] [arm_controller]: Received new action goal
+[INFO] [1794796860.613955259] [arm_controller]: Accepted new action goal
+[INFO] [1794796861.083682343] [arm_controller]: Goal reached, success!
+[INFO] [1794796862.154735093] [arm_controller]: Received new action goal
+[INFO] [1794796862.155009135] [arm_controller]: Accepted new action goal
+[INFO] [1794796866.446197387] [arm_controller]: Goal reached, success!
+[INFO] [1794796866.496958720] [arm_controller]: Received new action goal
+[INFO] [1794796866.497238595] [arm_controller]: Accepted new action goal
+[INFO] [1794796870.194818305] [arm_controller]: Goal reached, success!
+[INFO] [1794796870.243515639] [arm_controller]: Received new action goal
+[INFO] [1794796870.245885472] [arm_controller]: Accepted new action goal
+[INFO] [1794796870.741179000] [arm_controller]: Goal reached, success!
+[INFO] [1794796871.076909916] [arm_controller]: Received new action goal
+[INFO] [1794796871.078383166] [arm_controller]: Accepted new action goal
+[INFO] [1794796871.704775958] [arm_controller]: Goal reached, success!
+[INFO] [1794796871.749589208] [arm_controller]: Received new action goal
+[INFO] [1794796871.750855042] [arm_controller]: Accepted new action goal
+[INFO] [1794796872.080916333] [arm_controller]: Goal reached, success!
+[INFO] [1794796872.106153958] [arm_controller]: Received new action goal
+[INFO] [1794796872.106900208] [arm_controller]: Accepted new action goal
+[INFO] [1794796872.450507750] [arm_controller]: Goal reached, success!
+[INFO] [1794796872.528772875] [arm_controller]: Received new action goal
+[INFO] [1794796872.529044000] [arm_controller]: Accepted new action goal
+[INFO] [1794796875.328444085] [arm_controller]: Goal reached, success!
+[INFO] [1794796875.375268793] [arm_controller]: Received new action goal
+[INFO] [1794796875.376381127] [arm_controller]: Accepted new action goal
+[INFO] [1794796882.451010880] [arm_controller]: Goal reached, success!
+[INFO] [1794796884.594942464] [arm_controller]: Received new action goal
+[INFO] [1794796884.596175381] [arm_controller]: Accepted new action goal
+[INFO] [1794796891.144827009] [arm_controller]: Goal reached, success!
+[INFO] [1794796891.164679676] [arm_controller]: Received new action goal
+[INFO] [1794796891.165597051] [arm_controller]: Accepted new action goal
+[INFO] [1794796891.622235468] [arm_controller]: Goal reached, success!
+[INFO] [1794796891.687613718] [arm_controller]: Received new action goal
+[INFO] [1794796891.688072676] [arm_controller]: Accepted new action goal
+[INFO] [1794796892.068630135] [arm_controller]: Goal reached, success!
+[INFO] [1794796892.102806385] [arm_controller]: Received new action goal
+[INFO] [1794796892.103259801] [arm_controller]: Accepted new action goal
+[INFO] [1794796892.639173552] [arm_controller]: Goal reached, success!
+[INFO] [1794796892.658350010] [arm_controller]: Received new action goal
+[INFO] [1794796892.658653385] [arm_controller]: Accepted new action goal
+[INFO] [1794796893.058458427] [arm_controller]: Goal reached, success!
+[INFO] [1794796896.323318137] [controller_manager.pal_statistics]: Async messages lost 0
+[INFO] [1794796896.324182262] [controller_manager.pal_statistics]: publish_async_failures_ 0
+[INFO] [1794796896.329275012] [controller_manager.pal_statistics]: Async messages lost 0
+[INFO] [1794796896.329411887] [controller_manager.pal_statistics]: publish_async_failures_ 0

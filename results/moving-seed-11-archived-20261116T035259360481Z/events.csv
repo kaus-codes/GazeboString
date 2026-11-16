@@ -1,0 +1,6 @@
+object_id,event,wall_monotonic_ns,sim_time,details
+attempt_001_track_4,target_selected,6941178616506,20.976,"{""track"": {""color"": ""RED"", ""shape"": ""BOX"", ""confidence"": 0.8838535019530495, ""u"": 426.16577919772806, ""v"": 287.5097621583244, ""bbox"": [413, 273, 27, 30], ""xyz"": [0.19502902846099224, -0.10233505963277739, 0.7349999999999999], ""area"": 469.5, ""position_uncertainty_m"": 0.004, ""color_confirmed_sim"": 19.34, ""color_confirmed_wall_ns"": 6938488710046, ""id"": 4, ""first_seen"": 19.142, ""last_seen"": 20.924, ""velocity"": [0.03757916735289935, -0.0003869415352517293, -7.397617871809554e-16], ""hits"": 23, ""first_seen_wall_ns"": 6938159274796, ""eligible"": true}}"
+attempt_001_track_4,planning_start,6941187111589,20.984,{}
+attempt_001_track_4,planning_complete,6941383337714,21.06,{}
+attempt_001_track_4,movement_start,6941453352714,21.164,"{""source"": ""joint_state_change""}"
+attempt_001_track_4,attempt_failed,6951710392802,26.45,"{""state"": ""APPROACH"", ""error"": ""Predicted target left reachable grasp zone""}"

@@ -1,0 +1,2886 @@
+[
+  {
+    "object_id": "part_011",
+    "attempt_id": "attempt_001_track_2",
+    "event": "eligible_entry",
+    "wall_monotonic_ns": null,
+    "sim_time": null,
+    "source": "Gazebo physics observer",
+    "censored": true,
+    "details": {
+      "sim_time": 0.8500000000000001,
+      "wall_monotonic_ns": 18055810751533,
+      "left_censored": true,
+      "definition": "first physical footprint intersection with calibrated detection region"
+    }
+  },
+  {
+    "object_id": "part_011",
+    "attempt_id": "attempt_001_track_2",
+    "event": "first_detection",
+    "wall_monotonic_ns": 18057833645451,
+    "sim_time": 2.378,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 2
+    }
+  },
+  {
+    "object_id": "part_011",
+    "attempt_id": "attempt_001_track_2",
+    "event": "color_confirmed",
+    "wall_monotonic_ns": 18057987180326,
+    "sim_time": 2.642,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 2
+    }
+  },
+  {
+    "object_id": "part_011",
+    "event": "target_selected",
+    "wall_monotonic_ns": 18061218987327,
+    "sim_time": 4.104,
+    "details": {
+      "track": {
+        "color": "RED",
+        "shape": "BOX",
+        "confidence": 0.8862287327382314,
+        "u": 126.44689028651293,
+        "v": 287.47589098532495,
+        "bbox": [
+          112,
+          273,
+          29,
+          30
+        ],
+        "xyz": [
+          -0.35557405414911436,
+          -0.10226604199308009,
+          0.735
+        ],
+        "area": 477.0,
+        "position_uncertainty_m": 0.004,
+        "color_confirmed_sim": 2.642,
+        "color_confirmed_wall_ns": 18057987180326,
+        "id": 2,
+        "first_seen": 2.378,
+        "last_seen": 4.028,
+        "velocity": [
+          0.036781507719572906,
+          0.00047341656652196367,
+          8.197230772954095e-17
+        ],
+        "hits": 21,
+        "first_seen_wall_ns": 18057833645451,
+        "eligible": true
+      }
+    },
+    "attempt_id": "attempt_001_track_2",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_011",
+    "event": "planning_start",
+    "wall_monotonic_ns": 18061247503577,
+    "sim_time": 4.114,
+    "details": {},
+    "attempt_id": "attempt_001_track_2",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_011",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 18061712818536,
+    "sim_time": 4.242,
+    "details": {},
+    "attempt_id": "attempt_001_track_2",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_011",
+    "event": "movement_start",
+    "wall_monotonic_ns": 18061916233328,
+    "sim_time": 4.272,
+    "details": {
+      "source": "joint_state_change"
+    },
+    "attempt_id": "attempt_001_track_2",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_011",
+    "event": "grasp_start",
+    "wall_monotonic_ns": 18066453245121,
+    "sim_time": 6.978,
+    "details": {},
+    "attempt_id": "attempt_001_track_2",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_011",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 18067560875497,
+    "sim_time": 7.768,
+    "details": {
+      "entity": "part_011"
+    },
+    "attempt_id": "attempt_001_track_2",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_011",
+    "event": "lift_confirmed",
+    "wall_monotonic_ns": 18069073948248,
+    "sim_time": 9.006,
+    "details": {
+      "entity": "part_011"
+    },
+    "attempt_id": "attempt_001_track_2",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_011",
+    "event": "release",
+    "wall_monotonic_ns": 18074278826083,
+    "sim_time": 12.146,
+    "details": {
+      "entity": "part_011"
+    },
+    "attempt_id": "attempt_001_track_2",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_011",
+    "event": "placement_confirmed",
+    "wall_monotonic_ns": 18075290110501,
+    "sim_time": 13.004,
+    "details": {
+      "entity": "part_011",
+      "evaluated_color": "RED",
+      "bin_color": "RED",
+      "eligible_entry": {
+        "sim_time": 0.8500000000000001,
+        "wall_monotonic_ns": 18055810751533,
+        "left_censored": true,
+        "definition": "first physical footprint intersection with calibrated detection region"
+      },
+      "camera_first_detection_sim": 2.378,
+      "camera_first_detection_wall_ns": 18057833645451,
+      "camera_color_confirmed_sim": 2.642,
+      "camera_color_confirmed_wall_ns": 18057987180326
+    },
+    "attempt_id": "attempt_001_track_2",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_000",
+    "attempt_id": "attempt_002_track_12",
+    "event": "eligible_entry",
+    "wall_monotonic_ns": 18078415763252,
+    "sim_time": 15.7,
+    "source": "Gazebo physics observer",
+    "censored": false,
+    "details": {
+      "sim_time": 15.7,
+      "wall_monotonic_ns": 18078415763252,
+      "left_censored": false,
+      "definition": "first physical footprint intersection with calibrated detection region"
+    }
+  },
+  {
+    "object_id": "part_000",
+    "attempt_id": "attempt_002_track_12",
+    "event": "first_detection",
+    "wall_monotonic_ns": 18079022667086,
+    "sim_time": 16.106,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 12
+    }
+  },
+  {
+    "object_id": "part_000",
+    "attempt_id": "attempt_002_track_12",
+    "event": "color_confirmed",
+    "wall_monotonic_ns": 18079237179502,
+    "sim_time": 16.238,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 12
+    }
+  },
+  {
+    "object_id": "part_000",
+    "event": "target_selected",
+    "wall_monotonic_ns": 18086016595172,
+    "sim_time": 19.46,
+    "details": {
+      "track": {
+        "color": "BLUE",
+        "shape": "BOX",
+        "confidence": 0.888235294117647,
+        "u": 102.53840947546531,
+        "v": 287.49373942470385,
+        "bbox": [
+          88,
+          273,
+          30,
+          30
+        ],
+        "xyz": [
+          -0.39948866226492113,
+          -0.10230241149109737,
+          0.7350000000000001
+        ],
+        "area": 492.5,
+        "position_uncertainty_m": 0.004,
+        "color_confirmed_sim": 16.238,
+        "color_confirmed_wall_ns": 18079237179502,
+        "id": 12,
+        "first_seen": 16.106,
+        "last_seen": 19.406,
+        "velocity": [
+          0.03968394366164749,
+          -0.00029794679284662255,
+          5.949281070772679e-16
+        ],
+        "hits": 40,
+        "first_seen_wall_ns": 18079022667086,
+        "eligible": true
+      }
+    },
+    "attempt_id": "attempt_002_track_12",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_000",
+    "event": "planning_start",
+    "wall_monotonic_ns": 18086019513214,
+    "sim_time": 19.464,
+    "details": {},
+    "attempt_id": "attempt_002_track_12",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_000",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 18086117605047,
+    "sim_time": 19.53,
+    "details": {},
+    "attempt_id": "attempt_002_track_12",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_000",
+    "event": "movement_start",
+    "wall_monotonic_ns": 18086153117339,
+    "sim_time": 19.564,
+    "details": {
+      "source": "joint_state_change"
+    },
+    "attempt_id": "attempt_002_track_12",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_000",
+    "event": "grasp_start",
+    "wall_monotonic_ns": 18089141483007,
+    "sim_time": 22.266,
+    "details": {},
+    "attempt_id": "attempt_002_track_12",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_000",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 18089918887132,
+    "sim_time": 23.002,
+    "details": {
+      "entity": "part_000"
+    },
+    "attempt_id": "attempt_002_track_12",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_000",
+    "event": "lift_confirmed",
+    "wall_monotonic_ns": 18091481422341,
+    "sim_time": 24.188,
+    "details": {
+      "entity": "part_000"
+    },
+    "attempt_id": "attempt_002_track_12",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_000",
+    "event": "release",
+    "wall_monotonic_ns": 18094694299259,
+    "sim_time": 26.804,
+    "details": {
+      "entity": "part_000"
+    },
+    "attempt_id": "attempt_002_track_12",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_000",
+    "event": "placement_confirmed",
+    "wall_monotonic_ns": 18095593662010,
+    "sim_time": 27.652,
+    "details": {
+      "entity": "part_000",
+      "evaluated_color": "BLUE",
+      "bin_color": "BLUE",
+      "eligible_entry": {
+        "sim_time": 15.7,
+        "wall_monotonic_ns": 18078415763252,
+        "left_censored": false,
+        "definition": "first physical footprint intersection with calibrated detection region"
+      },
+      "camera_first_detection_sim": 16.106,
+      "camera_first_detection_wall_ns": 18079022667086,
+      "camera_color_confirmed_sim": 16.238,
+      "camera_color_confirmed_wall_ns": 18079237179502
+    },
+    "attempt_id": "attempt_002_track_12",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_001",
+    "attempt_id": "attempt_004_track_19",
+    "event": "eligible_entry",
+    "wall_monotonic_ns": 18120011586062,
+    "sim_time": 47.15,
+    "source": "Gazebo physics observer",
+    "censored": false,
+    "details": {
+      "sim_time": 47.15,
+      "wall_monotonic_ns": 18120011586062,
+      "left_censored": false,
+      "definition": "first physical footprint intersection with calibrated detection region"
+    }
+  },
+  {
+    "object_id": "part_001",
+    "attempt_id": "attempt_004_track_19",
+    "event": "first_detection",
+    "wall_monotonic_ns": 18121900965355,
+    "sim_time": 48.182,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 19
+    }
+  },
+  {
+    "object_id": "part_001",
+    "attempt_id": "attempt_004_track_19",
+    "event": "color_confirmed",
+    "wall_monotonic_ns": 18122029774438,
+    "sim_time": 48.314,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 19
+    }
+  },
+  {
+    "object_id": "part_022",
+    "attempt_id": "attempt_003_track_25",
+    "event": "eligible_entry",
+    "wall_monotonic_ns": 18169308882502,
+    "sim_time": 86.85,
+    "source": "Gazebo physics observer",
+    "censored": false,
+    "details": {
+      "sim_time": 86.85,
+      "wall_monotonic_ns": 18169308882502,
+      "left_censored": false,
+      "definition": "first physical footprint intersection with calibrated detection region"
+    }
+  },
+  {
+    "object_id": "part_022",
+    "attempt_id": "attempt_003_track_25",
+    "event": "first_detection",
+    "wall_monotonic_ns": 18169630316627,
+    "sim_time": 87.122,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 25
+    }
+  },
+  {
+    "object_id": "part_022",
+    "attempt_id": "attempt_003_track_25",
+    "event": "color_confirmed",
+    "wall_monotonic_ns": 18169795390586,
+    "sim_time": 87.254,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 25
+    }
+  },
+  {
+    "object_id": "part_022",
+    "event": "target_selected",
+    "wall_monotonic_ns": 18174483074796,
+    "sim_time": 90.472,
+    "details": {
+      "track": {
+        "color": "RED",
+        "shape": "ROUND",
+        "confidence": 0.8889559242500419,
+        "u": 113.10623556581986,
+        "v": 243.83448806774442,
+        "bbox": [
+          101,
+          232,
+          25,
+          25
+        ],
+        "xyz": [
+          -0.39803700666668085,
+          -0.009135975448664624,
+          0.735
+        ],
+        "area": 433.0,
+        "position_uncertainty_m": 0.012,
+        "color_confirmed_sim": 87.254,
+        "color_confirmed_wall_ns": 18169795390586,
+        "id": 25,
+        "first_seen": 87.122,
+        "last_seen": 90.422,
+        "velocity": [
+          0.03929553206504989,
+          -0.0006217674952124793,
+          4.0919914536429595e-16
+        ],
+        "hits": 43,
+        "first_seen_wall_ns": 18169630316627,
+        "eligible": true
+      }
+    },
+    "attempt_id": "attempt_003_track_25",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_022",
+    "event": "planning_start",
+    "wall_monotonic_ns": 18174487286796,
+    "sim_time": 90.476,
+    "details": {},
+    "attempt_id": "attempt_003_track_25",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_022",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 18174572919630,
+    "sim_time": 90.546,
+    "details": {},
+    "attempt_id": "attempt_003_track_25",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_022",
+    "event": "movement_start",
+    "wall_monotonic_ns": 18174615177088,
+    "sim_time": 90.576,
+    "details": {
+      "source": "joint_state_change"
+    },
+    "attempt_id": "attempt_003_track_25",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_022",
+    "event": "grasp_start",
+    "wall_monotonic_ns": 18177601532589,
+    "sim_time": 93.116,
+    "details": {},
+    "attempt_id": "attempt_003_track_25",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_022",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 18178473164548,
+    "sim_time": 93.848,
+    "details": {
+      "entity": "part_022"
+    },
+    "attempt_id": "attempt_003_track_25",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_022",
+    "event": "lift_confirmed",
+    "wall_monotonic_ns": 18180676592507,
+    "sim_time": 95.142,
+    "details": {
+      "entity": "part_022"
+    },
+    "attempt_id": "attempt_003_track_25",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_022",
+    "event": "release",
+    "wall_monotonic_ns": 18183927594176,
+    "sim_time": 97.23,
+    "details": {
+      "entity": "part_022"
+    },
+    "attempt_id": "attempt_003_track_25",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_024",
+    "attempt_id": "attempt_005_track_27",
+    "event": "eligible_entry",
+    "wall_monotonic_ns": 18185353962093,
+    "sim_time": 98.2,
+    "source": "Gazebo physics observer",
+    "censored": false,
+    "details": {
+      "sim_time": 98.2,
+      "wall_monotonic_ns": 18185353962093,
+      "left_censored": false,
+      "definition": "first physical footprint intersection with calibrated detection region"
+    }
+  },
+  {
+    "object_id": "part_022",
+    "event": "placement_confirmed",
+    "wall_monotonic_ns": 18185452467468,
+    "sim_time": 98.256,
+    "details": {
+      "entity": "part_022",
+      "evaluated_color": "RED",
+      "bin_color": "RED",
+      "eligible_entry": {
+        "sim_time": 86.85,
+        "wall_monotonic_ns": 18169308882502,
+        "left_censored": false,
+        "definition": "first physical footprint intersection with calibrated detection region"
+      },
+      "camera_first_detection_sim": 87.122,
+      "camera_first_detection_wall_ns": 18169630316627,
+      "camera_color_confirmed_sim": 87.254,
+      "camera_color_confirmed_wall_ns": 18169795390586
+    },
+    "attempt_id": "attempt_003_track_25",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_024",
+    "attempt_id": "attempt_005_track_27",
+    "event": "first_detection",
+    "wall_monotonic_ns": 18186952777760,
+    "sim_time": 98.606,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 27
+    }
+  },
+  {
+    "object_id": "part_024",
+    "attempt_id": "attempt_005_track_27",
+    "event": "color_confirmed",
+    "wall_monotonic_ns": 18188340655719,
+    "sim_time": 98.738,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 27
+    }
+  },
+  {
+    "object_id": "part_001",
+    "event": "target_selected",
+    "wall_monotonic_ns": 18192323957263,
+    "sim_time": 101.396,
+    "details": {
+      "track": {
+        "color": "BLUE",
+        "shape": "ROUND",
+        "confidence": 0.8818516880436386,
+        "u": 353.7256944444444,
+        "v": 203.5,
+        "bbox": [
+          345,
+          195,
+          18,
+          18
+        ],
+        "xyz": [
+          0.06784607519656768,
+          0.08511843417246401,
+          0.735
+        ],
+        "area": 240.0,
+        "position_uncertainty_m": 0.012,
+        "color_confirmed_sim": 48.314,
+        "color_confirmed_wall_ns": 18122029774438,
+        "id": 19,
+        "first_seen": 48.182,
+        "last_seen": 101.312,
+        "velocity": [
+          0.01103756995981145,
+          -9.237837109229673e-05,
+          -6.570570492801003e-17
+        ],
+        "hits": 740,
+        "first_seen_wall_ns": 18121900965355,
+        "eligible": true
+      }
+    },
+    "attempt_id": "attempt_004_track_19",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_001",
+    "event": "planning_start",
+    "wall_monotonic_ns": 18192327182721,
+    "sim_time": 101.398,
+    "details": {},
+    "attempt_id": "attempt_004_track_19",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_001",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 18192378707263,
+    "sim_time": 101.432,
+    "details": {},
+    "attempt_id": "attempt_004_track_19",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_001",
+    "event": "movement_start",
+    "wall_monotonic_ns": 18192407014596,
+    "sim_time": 101.46,
+    "details": {
+      "source": "joint_state_change"
+    },
+    "attempt_id": "attempt_004_track_19",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_001",
+    "event": "grasp_start",
+    "wall_monotonic_ns": 18194847070681,
+    "sim_time": 103.604,
+    "details": {},
+    "attempt_id": "attempt_004_track_19",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_001",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 18196230149515,
+    "sim_time": 104.63,
+    "details": {
+      "entity": "part_001"
+    },
+    "attempt_id": "attempt_004_track_19",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_001",
+    "event": "lift_confirmed",
+    "wall_monotonic_ns": 18197943115932,
+    "sim_time": 106.152,
+    "details": {
+      "entity": "part_001"
+    },
+    "attempt_id": "attempt_004_track_19",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_001",
+    "event": "release",
+    "wall_monotonic_ns": 18201031076975,
+    "sim_time": 108.356,
+    "details": {
+      "entity": "part_001"
+    },
+    "attempt_id": "attempt_004_track_19",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_001",
+    "event": "placement_confirmed",
+    "wall_monotonic_ns": 18203927573143,
+    "sim_time": 110.602,
+    "details": {
+      "entity": "part_001",
+      "evaluated_color": "BLUE",
+      "bin_color": "BLUE",
+      "eligible_entry": {
+        "sim_time": 47.15,
+        "wall_monotonic_ns": 18120011586062,
+        "left_censored": false,
+        "definition": "first physical footprint intersection with calibrated detection region"
+      },
+      "camera_first_detection_sim": 48.182,
+      "camera_first_detection_wall_ns": 18121900965355,
+      "camera_color_confirmed_sim": 48.314,
+      "camera_color_confirmed_wall_ns": 18122029774438
+    },
+    "attempt_id": "attempt_004_track_19",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_024",
+    "event": "target_selected",
+    "wall_monotonic_ns": 18206813325769,
+    "sim_time": 112.792,
+    "details": {
+      "track": {
+        "color": "RED",
+        "shape": "BOX",
+        "confidence": 0.8854493148610796,
+        "u": 333.2128178335075,
+        "v": 287.5262974573319,
+        "bbox": [
+          321,
+          273,
+          25,
+          30
+        ],
+        "xyz": [
+          0.024271841687306075,
+          -0.10236875105092658,
+          0.7349999999999999
+        ],
+        "area": 478.5,
+        "position_uncertainty_m": 0.004,
+        "color_confirmed_sim": 98.738,
+        "color_confirmed_wall_ns": 18188340655719,
+        "id": 27,
+        "first_seen": 98.606,
+        "last_seen": 112.664,
+        "velocity": [
+          0.03801858336739987,
+          -0.00015918378470738265,
+          -4.841033713308002e-16
+        ],
+        "hits": 201,
+        "first_seen_wall_ns": 18186952777760,
+        "eligible": true
+      }
+    },
+    "attempt_id": "attempt_005_track_27",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_024",
+    "event": "planning_start",
+    "wall_monotonic_ns": 18206816125519,
+    "sim_time": 112.794,
+    "details": {},
+    "attempt_id": "attempt_005_track_27",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_024",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 18206855175644,
+    "sim_time": 112.818,
+    "details": {},
+    "attempt_id": "attempt_005_track_27",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_024",
+    "event": "movement_start",
+    "wall_monotonic_ns": 18206886594269,
+    "sim_time": 112.844,
+    "details": {
+      "source": "joint_state_change"
+    },
+    "attempt_id": "attempt_005_track_27",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_024",
+    "event": "grasp_start",
+    "wall_monotonic_ns": 18209374322937,
+    "sim_time": 115.022,
+    "details": {},
+    "attempt_id": "attempt_005_track_27",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "attempt_006_track_30",
+    "attempt_id": "attempt_006_track_30",
+    "event": "first_detection",
+    "wall_monotonic_ns": 18210450667979,
+    "sim_time": 115.7,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 30
+    }
+  },
+  {
+    "object_id": "attempt_006_track_30",
+    "attempt_id": "attempt_006_track_30",
+    "event": "color_confirmed",
+    "wall_monotonic_ns": 18210628308063,
+    "sim_time": 115.832,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 30
+    }
+  },
+  {
+    "object_id": "part_024",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 18210702432063,
+    "sim_time": 115.932,
+    "details": {
+      "entity": "part_024"
+    },
+    "attempt_id": "attempt_005_track_27",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_024",
+    "event": "lift_confirmed",
+    "wall_monotonic_ns": 18212655463647,
+    "sim_time": 117.174,
+    "details": {
+      "entity": "part_024"
+    },
+    "attempt_id": "attempt_005_track_27",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_019",
+    "attempt_id": "attempt_007_track_31",
+    "event": "eligible_entry",
+    "wall_monotonic_ns": 18213454428231,
+    "sim_time": 117.7,
+    "source": "Gazebo physics observer",
+    "censored": false,
+    "details": {
+      "sim_time": 117.7,
+      "wall_monotonic_ns": 18213454428231,
+      "left_censored": false,
+      "definition": "first physical footprint intersection with calibrated detection region"
+    }
+  },
+  {
+    "object_id": "part_019",
+    "attempt_id": "attempt_007_track_31",
+    "event": "first_detection",
+    "wall_monotonic_ns": 18214869524315,
+    "sim_time": 118.736,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 31
+    }
+  },
+  {
+    "object_id": "part_019",
+    "attempt_id": "attempt_007_track_31",
+    "event": "color_confirmed",
+    "wall_monotonic_ns": 18215019845190,
+    "sim_time": 118.868,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 31
+    }
+  },
+  {
+    "object_id": "part_024",
+    "event": "release",
+    "wall_monotonic_ns": 18219264381108,
+    "sim_time": 122.2,
+    "details": {
+      "entity": "part_024"
+    },
+    "attempt_id": "attempt_005_track_27",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_024",
+    "event": "placement_confirmed",
+    "wall_monotonic_ns": 18221091825734,
+    "sim_time": 123.708,
+    "details": {
+      "entity": "part_024",
+      "evaluated_color": "RED",
+      "bin_color": "RED",
+      "eligible_entry": {
+        "sim_time": 98.2,
+        "wall_monotonic_ns": 18185353962093,
+        "left_censored": false,
+        "definition": "first physical footprint intersection with calibrated detection region"
+      },
+      "camera_first_detection_sim": 98.606,
+      "camera_first_detection_wall_ns": 18186952777760,
+      "camera_color_confirmed_sim": 98.738,
+      "camera_color_confirmed_wall_ns": 18188340655719
+    },
+    "attempt_id": "attempt_005_track_27",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "attempt_006_track_30",
+    "event": "target_selected",
+    "wall_monotonic_ns": 18226453339445,
+    "sim_time": 128.082,
+    "details": {
+      "track": {
+        "color": "BLUE",
+        "shape": "ROUND",
+        "confidence": 0.885718194254446,
+        "u": 295.42899283607244,
+        "v": 243.8499789296249,
+        "bbox": [
+          286,
+          232,
+          20,
+          25
+        ],
+        "xyz": [
+          -0.047270666549714374,
+          -0.009170593741658517,
+          0.7349999999999999
+        ],
+        "area": 395.5,
+        "position_uncertainty_m": 0.012,
+        "color_confirmed_sim": 115.832,
+        "color_confirmed_wall_ns": 18210628308063,
+        "id": 30,
+        "first_seen": 115.7,
+        "last_seen": 127.976,
+        "velocity": [
+          0.03967279151709163,
+          -0.0009900888528412365,
+          -4.927368550627561e-16
+        ],
+        "hits": 173,
+        "first_seen_wall_ns": 18210450667979,
+        "eligible": true
+      }
+    },
+    "attempt_id": "attempt_006_track_30",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "attempt_006_track_30",
+    "event": "planning_start",
+    "wall_monotonic_ns": 18226457582820,
+    "sim_time": 128.086,
+    "details": {},
+    "attempt_id": "attempt_006_track_30",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "attempt_006_track_30",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 18226513301362,
+    "sim_time": 128.124,
+    "details": {},
+    "attempt_id": "attempt_006_track_30",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "attempt_006_track_30",
+    "event": "movement_start",
+    "wall_monotonic_ns": 18226551367654,
+    "sim_time": 128.148,
+    "details": {
+      "source": "joint_state_change"
+    },
+    "attempt_id": "attempt_006_track_30",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "attempt_006_track_30",
+    "event": "grasp_start",
+    "wall_monotonic_ns": 18229181876738,
+    "sim_time": 130.306,
+    "details": {},
+    "attempt_id": "attempt_006_track_30",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "attempt_006_track_30",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 18230360379363,
+    "sim_time": 131.268,
+    "details": {
+      "entity": "part_027"
+    },
+    "attempt_id": "attempt_006_track_30",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "attempt_006_track_30",
+    "event": "lift_confirmed",
+    "wall_monotonic_ns": 18233614175281,
+    "sim_time": 132.614,
+    "details": {
+      "entity": "part_027"
+    },
+    "attempt_id": "attempt_006_track_30",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "attempt_006_track_30",
+    "event": "attempt_failed",
+    "wall_monotonic_ns": 18236332996157,
+    "sim_time": 134.804,
+    "details": {
+      "state": "TRANSPORT",
+      "error": "MoveIt execution failed -4"
+    },
+    "attempt_id": "attempt_006_track_30",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_019",
+    "event": "target_selected",
+    "wall_monotonic_ns": 18240119169242,
+    "sim_time": 136.786,
+    "details": {
+      "track": {
+        "color": "BLUE",
+        "shape": "ROUND",
+        "confidence": 0.884278836089596,
+        "u": 160.27034120734908,
+        "v": 203.5,
+        "bbox": [
+          151,
+          195,
+          19,
+          18
+        ],
+        "xyz": [
+          -0.32132860775987543,
+          0.08511843417246401,
+          0.735
+        ],
+        "area": 254.0,
+        "position_uncertainty_m": 0.012,
+        "color_confirmed_sim": 118.868,
+        "color_confirmed_wall_ns": 18215019845190,
+        "id": 31,
+        "first_seen": 118.736,
+        "last_seen": 136.688,
+        "velocity": [
+          0.010925846382282679,
+          -0.00020491519261772647,
+          6.793267051739675e-17
+        ],
+        "hits": 251,
+        "first_seen_wall_ns": 18214869524315,
+        "eligible": true
+      }
+    },
+    "attempt_id": "attempt_007_track_31",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_019",
+    "event": "planning_start",
+    "wall_monotonic_ns": 18240129766742,
+    "sim_time": 136.79,
+    "details": {},
+    "attempt_id": "attempt_007_track_31",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_019",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 18240211198242,
+    "sim_time": 136.826,
+    "details": {},
+    "attempt_id": "attempt_007_track_31",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_019",
+    "event": "movement_start",
+    "wall_monotonic_ns": 18240267043701,
+    "sim_time": 136.852,
+    "details": {
+      "source": "joint_state_change"
+    },
+    "attempt_id": "attempt_007_track_31",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_019",
+    "event": "grasp_start",
+    "wall_monotonic_ns": 18246380614912,
+    "sim_time": 139.448,
+    "details": {},
+    "attempt_id": "attempt_007_track_31",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_019",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 18247507390288,
+    "sim_time": 140.274,
+    "details": {
+      "entity": "part_019"
+    },
+    "attempt_id": "attempt_007_track_31",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_019",
+    "event": "lift_confirmed",
+    "wall_monotonic_ns": 18249758646622,
+    "sim_time": 141.646,
+    "details": {
+      "entity": "part_019"
+    },
+    "attempt_id": "attempt_007_track_31",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_032",
+    "attempt_id": "attempt_008_track_34",
+    "event": "eligible_entry",
+    "wall_monotonic_ns": 18252927568832,
+    "sim_time": 143.85,
+    "source": "Gazebo physics observer",
+    "censored": false,
+    "details": {
+      "sim_time": 143.85,
+      "wall_monotonic_ns": 18252927568832,
+      "left_censored": false,
+      "definition": "first physical footprint intersection with calibrated detection region"
+    }
+  },
+  {
+    "object_id": "part_019",
+    "event": "release",
+    "wall_monotonic_ns": 18253373985832,
+    "sim_time": 144.18,
+    "details": {
+      "entity": "part_019"
+    },
+    "attempt_id": "attempt_007_track_31",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_032",
+    "attempt_id": "attempt_008_track_34",
+    "event": "first_detection",
+    "wall_monotonic_ns": 18253494138332,
+    "sim_time": 144.212,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 34
+    }
+  },
+  {
+    "object_id": "part_032",
+    "attempt_id": "attempt_008_track_34",
+    "event": "color_confirmed",
+    "wall_monotonic_ns": 18253642005916,
+    "sim_time": 144.344,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 34
+    }
+  },
+  {
+    "object_id": "part_019",
+    "event": "placement_confirmed",
+    "wall_monotonic_ns": 18256539685875,
+    "sim_time": 146.704,
+    "details": {
+      "entity": "part_019",
+      "evaluated_color": "BLUE",
+      "bin_color": "BLUE",
+      "eligible_entry": {
+        "sim_time": 117.7,
+        "wall_monotonic_ns": 18213454428231,
+        "left_censored": false,
+        "definition": "first physical footprint intersection with calibrated detection region"
+      },
+      "camera_first_detection_sim": 118.736,
+      "camera_first_detection_wall_ns": 18214869524315,
+      "camera_color_confirmed_sim": 118.868,
+      "camera_color_confirmed_wall_ns": 18215019845190
+    },
+    "attempt_id": "attempt_007_track_31",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_032",
+    "event": "target_selected",
+    "wall_monotonic_ns": 18260045648085,
+    "sim_time": 148.964,
+    "details": {
+      "track": {
+        "color": "RED",
+        "shape": "ROUND",
+        "confidence": 0.8883168146908653,
+        "u": 142.4952606635071,
+        "v": 243.8388625592417,
+        "bbox": [
+          131,
+          232,
+          24,
+          25
+        ],
+        "xyz": [
+          -0.34149468328484756,
+          -0.009145751486418607,
+          0.7350000000000001
+        ],
+        "area": 422.0,
+        "position_uncertainty_m": 0.012,
+        "color_confirmed_sim": 144.344,
+        "color_confirmed_wall_ns": 18253642005916,
+        "id": 34,
+        "first_seen": 144.212,
+        "last_seen": 148.898,
+        "velocity": [
+          0.03912954804563379,
+          -0.00011025765274505419,
+          4.248747592706026e-16
+        ],
+        "hits": 70,
+        "first_seen_wall_ns": 18253494138332,
+        "eligible": true
+      }
+    },
+    "attempt_id": "attempt_008_track_34",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_032",
+    "event": "planning_start",
+    "wall_monotonic_ns": 18260050158418,
+    "sim_time": 148.966,
+    "details": {},
+    "attempt_id": "attempt_008_track_34",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_032",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 18260111010751,
+    "sim_time": 149.004,
+    "details": {},
+    "attempt_id": "attempt_008_track_34",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_032",
+    "event": "movement_start",
+    "wall_monotonic_ns": 18260141953418,
+    "sim_time": 149.03,
+    "details": {
+      "source": "joint_state_change"
+    },
+    "attempt_id": "attempt_008_track_34",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_032",
+    "event": "grasp_start",
+    "wall_monotonic_ns": 18263681282753,
+    "sim_time": 151.51,
+    "details": {},
+    "attempt_id": "attempt_008_track_34",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_032",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 18264853817004,
+    "sim_time": 152.26,
+    "details": {
+      "entity": "part_032"
+    },
+    "attempt_id": "attempt_008_track_34",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_032",
+    "event": "lift_confirmed",
+    "wall_monotonic_ns": 18266994325421,
+    "sim_time": 153.592,
+    "details": {
+      "entity": "part_032"
+    },
+    "attempt_id": "attempt_008_track_34",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_032",
+    "event": "release",
+    "wall_monotonic_ns": 18270109144464,
+    "sim_time": 155.9,
+    "details": {
+      "entity": "part_032"
+    },
+    "attempt_id": "attempt_008_track_34",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_032",
+    "event": "placement_confirmed",
+    "wall_monotonic_ns": 18276596099634,
+    "sim_time": 159.904,
+    "details": {
+      "entity": "part_032",
+      "evaluated_color": "RED",
+      "bin_color": "RED",
+      "eligible_entry": {
+        "sim_time": 143.85,
+        "wall_monotonic_ns": 18252927568832,
+        "left_censored": false,
+        "definition": "first physical footprint intersection with calibrated detection region"
+      },
+      "camera_first_detection_sim": 144.212,
+      "camera_first_detection_wall_ns": 18253494138332,
+      "camera_color_confirmed_sim": 144.344,
+      "camera_color_confirmed_wall_ns": 18253642005916
+    },
+    "attempt_id": "attempt_008_track_34",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_028",
+    "attempt_id": "attempt_010_track_38",
+    "event": "eligible_entry",
+    "wall_monotonic_ns": 18290837412266,
+    "sim_time": 169.25,
+    "source": "Gazebo physics observer",
+    "censored": false,
+    "details": {
+      "sim_time": 169.25,
+      "wall_monotonic_ns": 18290837412266,
+      "left_censored": false,
+      "definition": "first physical footprint intersection with calibrated detection region"
+    }
+  },
+  {
+    "object_id": "part_028",
+    "attempt_id": "attempt_010_track_38",
+    "event": "first_detection",
+    "wall_monotonic_ns": 18292836612142,
+    "sim_time": 170.216,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 38
+    }
+  },
+  {
+    "object_id": "part_028",
+    "attempt_id": "attempt_010_track_38",
+    "event": "color_confirmed",
+    "wall_monotonic_ns": 18293009333350,
+    "sim_time": 170.348,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 38
+    }
+  },
+  {
+    "object_id": "part_037",
+    "attempt_id": "attempt_009_track_39",
+    "event": "eligible_entry",
+    "wall_monotonic_ns": 18295494465976,
+    "sim_time": 172.3,
+    "source": "Gazebo physics observer",
+    "censored": false,
+    "details": {
+      "sim_time": 172.3,
+      "wall_monotonic_ns": 18295494465976,
+      "left_censored": false,
+      "definition": "first physical footprint intersection with calibrated detection region"
+    }
+  },
+  {
+    "object_id": "part_037",
+    "attempt_id": "attempt_009_track_39",
+    "event": "first_detection",
+    "wall_monotonic_ns": 18295969662101,
+    "sim_time": 172.592,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 39
+    }
+  },
+  {
+    "object_id": "part_037",
+    "attempt_id": "attempt_009_track_39",
+    "event": "color_confirmed",
+    "wall_monotonic_ns": 18296257269727,
+    "sim_time": 172.79,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 39
+    }
+  },
+  {
+    "object_id": "part_037",
+    "event": "target_selected",
+    "wall_monotonic_ns": 18301961606896,
+    "sim_time": 175.944,
+    "details": {
+      "track": {
+        "color": "BLUE",
+        "shape": "ROUND",
+        "confidence": 0.8888722367928062,
+        "u": 112.93922018348624,
+        "v": 243.74426605504587,
+        "bbox": [
+          101,
+          231,
+          25,
+          26
+        ],
+        "xyz": [
+          -0.3983972307277397,
+          -0.008934328211098963,
+          0.735
+        ],
+        "area": 436.0,
+        "position_uncertainty_m": 0.012,
+        "color_confirmed_sim": 172.79,
+        "color_confirmed_wall_ns": 18296257269727,
+        "id": 39,
+        "first_seen": 172.592,
+        "last_seen": 175.892,
+        "velocity": [
+          0.03903898125106174,
+          0.00011605499212307476,
+          -1.2041021063742654e-16
+        ],
+        "hits": 47,
+        "first_seen_wall_ns": 18295969662101,
+        "eligible": true
+      }
+    },
+    "attempt_id": "attempt_009_track_39",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_037",
+    "event": "planning_start",
+    "wall_monotonic_ns": 18301963904229,
+    "sim_time": 175.944,
+    "details": {},
+    "attempt_id": "attempt_009_track_39",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_037",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 18302033888729,
+    "sim_time": 175.98,
+    "details": {},
+    "attempt_id": "attempt_009_track_39",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_037",
+    "event": "movement_start",
+    "wall_monotonic_ns": 18302080279104,
+    "sim_time": 176.004,
+    "details": {
+      "source": "joint_state_change"
+    },
+    "attempt_id": "attempt_009_track_39",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_037",
+    "event": "grasp_start",
+    "wall_monotonic_ns": 18306251097690,
+    "sim_time": 178.546,
+    "details": {},
+    "attempt_id": "attempt_009_track_39",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_037",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 18307329250399,
+    "sim_time": 179.284,
+    "details": {
+      "entity": "part_037"
+    },
+    "attempt_id": "attempt_009_track_39",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_037",
+    "event": "lift_confirmed",
+    "wall_monotonic_ns": 18309357825316,
+    "sim_time": 180.574,
+    "details": {
+      "entity": "part_037"
+    },
+    "attempt_id": "attempt_009_track_39",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_037",
+    "event": "release",
+    "wall_monotonic_ns": 18313111354235,
+    "sim_time": 182.844,
+    "details": {
+      "entity": "part_037"
+    },
+    "attempt_id": "attempt_009_track_39",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_039",
+    "attempt_id": "attempt_011_track_41",
+    "event": "eligible_entry",
+    "wall_monotonic_ns": 18314559094694,
+    "sim_time": 183.7,
+    "source": "Gazebo physics observer",
+    "censored": false,
+    "details": {
+      "sim_time": 183.7,
+      "wall_monotonic_ns": 18314559094694,
+      "left_censored": false,
+      "definition": "first physical footprint intersection with calibrated detection region"
+    }
+  },
+  {
+    "object_id": "part_039",
+    "attempt_id": "attempt_011_track_41",
+    "event": "first_detection",
+    "wall_monotonic_ns": 18315017115361,
+    "sim_time": 184.01,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 41
+    }
+  },
+  {
+    "object_id": "part_039",
+    "attempt_id": "attempt_011_track_41",
+    "event": "color_confirmed",
+    "wall_monotonic_ns": 18315200694194,
+    "sim_time": 184.142,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 41
+    }
+  },
+  {
+    "object_id": "part_037",
+    "event": "placement_confirmed",
+    "wall_monotonic_ns": 18315437398694,
+    "sim_time": 184.356,
+    "details": {
+      "entity": "part_037",
+      "evaluated_color": "BLUE",
+      "bin_color": "BLUE",
+      "eligible_entry": {
+        "sim_time": 172.3,
+        "wall_monotonic_ns": 18295494465976,
+        "left_censored": false,
+        "definition": "first physical footprint intersection with calibrated detection region"
+      },
+      "camera_first_detection_sim": 172.592,
+      "camera_first_detection_wall_ns": 18295969662101,
+      "camera_color_confirmed_sim": 172.79,
+      "camera_color_confirmed_wall_ns": 18296257269727
+    },
+    "attempt_id": "attempt_009_track_39",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_028",
+    "event": "target_selected",
+    "wall_monotonic_ns": 18318106314487,
+    "sim_time": 186.142,
+    "details": {
+      "track": {
+        "color": "RED",
+        "shape": "ROUND",
+        "confidence": 0.8844742167329566,
+        "u": 147.72572178477688,
+        "v": 203.4724409448819,
+        "bbox": [
+          139,
+          195,
+          19,
+          18
+        ],
+        "xyz": [
+          -0.34657546507840115,
+          0.08518577691165419,
+          0.7349999999999999
+        ],
+        "area": 254.0,
+        "position_uncertainty_m": 0.012,
+        "color_confirmed_sim": 170.348,
+        "color_confirmed_wall_ns": 18293009333350,
+        "id": 38,
+        "first_seen": 170.216,
+        "last_seen": 186.056,
+        "velocity": [
+          0.012698640192065154,
+          0.00021187491519186958,
+          -4.019626735317104e-16
+        ],
+        "hits": 223,
+        "first_seen_wall_ns": 18292836612142,
+        "eligible": true
+      }
+    },
+    "attempt_id": "attempt_010_track_38",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_028",
+    "event": "planning_start",
+    "wall_monotonic_ns": 18318115121029,
+    "sim_time": 186.144,
+    "details": {},
+    "attempt_id": "attempt_010_track_38",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_028",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 18318202695945,
+    "sim_time": 186.166,
+    "details": {},
+    "attempt_id": "attempt_010_track_38",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_028",
+    "event": "movement_start",
+    "wall_monotonic_ns": 18318251394779,
+    "sim_time": 186.192,
+    "details": {
+      "source": "joint_state_change"
+    },
+    "attempt_id": "attempt_010_track_38",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_031",
+    "attempt_id": "attempt_013_track_42",
+    "event": "eligible_entry",
+    "wall_monotonic_ns": 18318625693154,
+    "sim_time": 186.35,
+    "source": "Gazebo physics observer",
+    "censored": false,
+    "details": {
+      "sim_time": 186.35,
+      "wall_monotonic_ns": 18318625693154,
+      "left_censored": false,
+      "definition": "first physical footprint intersection with calibrated detection region"
+    }
+  },
+  {
+    "object_id": "part_031",
+    "attempt_id": "attempt_013_track_42",
+    "event": "first_detection",
+    "wall_monotonic_ns": 18320308461362,
+    "sim_time": 187.31,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 42
+    }
+  },
+  {
+    "object_id": "part_031",
+    "attempt_id": "attempt_013_track_42",
+    "event": "color_confirmed",
+    "wall_monotonic_ns": 18320488591237,
+    "sim_time": 187.442,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 42
+    }
+  },
+  {
+    "object_id": "part_028",
+    "event": "grasp_start",
+    "wall_monotonic_ns": 18322670315655,
+    "sim_time": 188.808,
+    "details": {},
+    "attempt_id": "attempt_010_track_38",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_028",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 18324064378781,
+    "sim_time": 189.628,
+    "details": {
+      "entity": "part_028"
+    },
+    "attempt_id": "attempt_010_track_38",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_028",
+    "event": "lift_confirmed",
+    "wall_monotonic_ns": 18326084567199,
+    "sim_time": 190.99,
+    "details": {
+      "entity": "part_028"
+    },
+    "attempt_id": "attempt_010_track_38",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_028",
+    "event": "release",
+    "wall_monotonic_ns": 18329296666325,
+    "sim_time": 193.106,
+    "details": {
+      "entity": "part_028"
+    },
+    "attempt_id": "attempt_010_track_38",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_028",
+    "event": "placement_confirmed",
+    "wall_monotonic_ns": 18335169785828,
+    "sim_time": 196.604,
+    "details": {
+      "entity": "part_028",
+      "evaluated_color": "RED",
+      "bin_color": "RED",
+      "eligible_entry": {
+        "sim_time": 169.25,
+        "wall_monotonic_ns": 18290837412266,
+        "left_censored": false,
+        "definition": "first physical footprint intersection with calibrated detection region"
+      },
+      "camera_first_detection_sim": 170.216,
+      "camera_first_detection_wall_ns": 18292836612142,
+      "camera_color_confirmed_sim": 170.348,
+      "camera_color_confirmed_wall_ns": 18293009333350
+    },
+    "attempt_id": "attempt_010_track_38",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_039",
+    "event": "target_selected",
+    "wall_monotonic_ns": 18340375792747,
+    "sim_time": 199.678,
+    "details": {
+      "track": {
+        "color": "BLUE",
+        "shape": "ROUND",
+        "confidence": 0.8850163016026082,
+        "u": 363.672186836518,
+        "v": 243.88577494692143,
+        "bbox": [
+          354,
+          232,
+          20,
+          25
+        ],
+        "xyz": [
+          0.08401500928251578,
+          -0.009250584657161331,
+          0.735
+        ],
+        "area": 392.5,
+        "position_uncertainty_m": 0.012,
+        "color_confirmed_sim": 184.142,
+        "color_confirmed_wall_ns": 18315200694194,
+        "id": 41,
+        "first_seen": 184.01,
+        "last_seen": 199.586,
+        "velocity": [
+          0.03893639403502132,
+          -0.0015230634663013132,
+          1.2952426109671538e-16
+        ],
+        "hits": 230,
+        "first_seen_wall_ns": 18315017115361,
+        "eligible": true
+      }
+    },
+    "attempt_id": "attempt_011_track_41",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_039",
+    "event": "planning_start",
+    "wall_monotonic_ns": 18340379443039,
+    "sim_time": 199.68,
+    "details": {},
+    "attempt_id": "attempt_011_track_41",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_039",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 18340427124330,
+    "sim_time": 199.702,
+    "details": {},
+    "attempt_id": "attempt_011_track_41",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_039",
+    "event": "movement_start",
+    "wall_monotonic_ns": 18340439859914,
+    "sim_time": 199.708,
+    "details": {
+      "source": "joint_state_change"
+    },
+    "attempt_id": "attempt_011_track_41",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "attempt_012_track_44",
+    "attempt_id": "attempt_012_track_44",
+    "event": "first_detection",
+    "wall_monotonic_ns": 18343019648498,
+    "sim_time": 200.906,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 44
+    }
+  },
+  {
+    "object_id": "attempt_012_track_44",
+    "attempt_id": "attempt_012_track_44",
+    "event": "color_confirmed",
+    "wall_monotonic_ns": 18343372093165,
+    "sim_time": 201.038,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 44
+    }
+  },
+  {
+    "object_id": "part_039",
+    "event": "grasp_start",
+    "wall_monotonic_ns": 18344345898457,
+    "sim_time": 201.696,
+    "details": {},
+    "attempt_id": "attempt_011_track_41",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_039",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 18345770890833,
+    "sim_time": 202.676,
+    "details": {
+      "entity": "part_039"
+    },
+    "attempt_id": "attempt_011_track_41",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_039",
+    "event": "lift_confirmed",
+    "wall_monotonic_ns": 18348530880168,
+    "sim_time": 203.99,
+    "details": {
+      "entity": "part_039"
+    },
+    "attempt_id": "attempt_011_track_41",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_039",
+    "event": "release",
+    "wall_monotonic_ns": 18353044703335,
+    "sim_time": 206.496,
+    "details": {
+      "entity": "part_039"
+    },
+    "attempt_id": "attempt_011_track_41",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_039",
+    "event": "placement_confirmed",
+    "wall_monotonic_ns": 18357121888712,
+    "sim_time": 209.104,
+    "details": {
+      "entity": "part_039",
+      "evaluated_color": "BLUE",
+      "bin_color": "BLUE",
+      "eligible_entry": {
+        "sim_time": 183.7,
+        "wall_monotonic_ns": 18314559094694,
+        "left_censored": false,
+        "definition": "first physical footprint intersection with calibrated detection region"
+      },
+      "camera_first_detection_sim": 184.01,
+      "camera_first_detection_wall_ns": 18315017115361,
+      "camera_color_confirmed_sim": 184.142,
+      "camera_color_confirmed_wall_ns": 18315200694194
+    },
+    "attempt_id": "attempt_011_track_41",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "attempt_012_track_44",
+    "event": "target_selected",
+    "wall_monotonic_ns": 18361162034464,
+    "sim_time": 211.176,
+    "details": {
+      "track": {
+        "color": "RED",
+        "shape": "BOX",
+        "confidence": 0.8866849065207478,
+        "u": 250.6346555323591,
+        "v": 287.44467640918583,
+        "bbox": [
+          238,
+          273,
+          26,
+          30
+        ],
+        "xyz": [
+          -0.1274343387841378,
+          -0.10220243329234857,
+          0.735
+        ],
+        "area": 479.0,
+        "position_uncertainty_m": 0.004,
+        "color_confirmed_sim": 201.038,
+        "color_confirmed_wall_ns": 18343372093165,
+        "id": 44,
+        "first_seen": 200.906,
+        "last_seen": 211.136,
+        "velocity": [
+          0.03923142096316734,
+          0.000317753829871531,
+          1.062686663292917e-16
+        ],
+        "hits": 146,
+        "first_seen_wall_ns": 18343019648498,
+        "eligible": true
+      }
+    },
+    "attempt_id": "attempt_012_track_44",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "attempt_012_track_44",
+    "event": "planning_start",
+    "wall_monotonic_ns": 18361170011089,
+    "sim_time": 211.178,
+    "details": {},
+    "attempt_id": "attempt_012_track_44",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "attempt_012_track_44",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 18361233884964,
+    "sim_time": 211.208,
+    "details": {},
+    "attempt_id": "attempt_012_track_44",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "attempt_012_track_44",
+    "event": "movement_start",
+    "wall_monotonic_ns": 18361285545923,
+    "sim_time": 211.232,
+    "details": {
+      "source": "joint_state_change"
+    },
+    "attempt_id": "attempt_012_track_44",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "attempt_012_track_44",
+    "event": "grasp_start",
+    "wall_monotonic_ns": 18365649612841,
+    "sim_time": 213.608,
+    "details": {},
+    "attempt_id": "attempt_012_track_44",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "attempt_012_track_44",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 18369277228051,
+    "sim_time": 214.436,
+    "details": {
+      "entity": "part_042"
+    },
+    "attempt_id": "attempt_012_track_44",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_036",
+    "attempt_id": "attempt_015_track_47",
+    "event": "eligible_entry",
+    "wall_monotonic_ns": 18370621582635,
+    "sim_time": 214.8,
+    "source": "Gazebo physics observer",
+    "censored": false,
+    "details": {
+      "sim_time": 214.8,
+      "wall_monotonic_ns": 18370621582635,
+      "left_censored": false,
+      "definition": "first physical footprint intersection with calibrated detection region"
+    }
+  },
+  {
+    "object_id": "attempt_012_track_44",
+    "event": "lift_confirmed",
+    "wall_monotonic_ns": 18373158617512,
+    "sim_time": 215.726,
+    "details": {
+      "entity": "part_042"
+    },
+    "attempt_id": "attempt_012_track_44",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_036",
+    "attempt_id": "attempt_015_track_47",
+    "event": "first_detection",
+    "wall_monotonic_ns": 18373297573303,
+    "sim_time": 215.756,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 47
+    }
+  },
+  {
+    "object_id": "part_036",
+    "attempt_id": "attempt_015_track_47",
+    "event": "color_confirmed",
+    "wall_monotonic_ns": 18373524076553,
+    "sim_time": 215.888,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 47
+    }
+  },
+  {
+    "object_id": "attempt_012_track_44",
+    "event": "attempt_failed",
+    "wall_monotonic_ns": 18375978703388,
+    "sim_time": 217.386,
+    "details": {
+      "state": "TRANSPORT",
+      "error": "MoveIt execution failed -4"
+    },
+    "attempt_id": "attempt_012_track_44",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_031",
+    "event": "target_selected",
+    "wall_monotonic_ns": 18379269242473,
+    "sim_time": 219.34,
+    "details": {
+      "track": {
+        "color": "RED",
+        "shape": "ROUND",
+        "confidence": 0.8827333918642084,
+        "u": 240.30509641873277,
+        "v": 203.5,
+        "bbox": [
+          232,
+          195,
+          18,
+          18
+        ],
+        "xyz": [
+          -0.160322463635691,
+          0.08511843417246401,
+          0.735
+        ],
+        "area": 242.0,
+        "position_uncertainty_m": 0.012,
+        "color_confirmed_sim": 187.442,
+        "color_confirmed_wall_ns": 18320488591237,
+        "id": 42,
+        "first_seen": 187.31,
+        "last_seen": 219.254,
+        "velocity": [
+          0.011884018404694113,
+          -0.00020768158162954366,
+          -3.034103470043887e-17
+        ],
+        "hits": 461,
+        "first_seen_wall_ns": 18320308461362,
+        "eligible": true
+      }
+    },
+    "attempt_id": "attempt_013_track_42",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_031",
+    "event": "planning_start",
+    "wall_monotonic_ns": 18379272950056,
+    "sim_time": 219.342,
+    "details": {},
+    "attempt_id": "attempt_013_track_42",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_031",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 18379312564390,
+    "sim_time": 219.368,
+    "details": {},
+    "attempt_id": "attempt_013_track_42",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_031",
+    "event": "movement_start",
+    "wall_monotonic_ns": 18379349597473,
+    "sim_time": 219.392,
+    "details": {
+      "source": "joint_state_change"
+    },
+    "attempt_id": "attempt_013_track_42",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_031",
+    "event": "grasp_start",
+    "wall_monotonic_ns": 18384430096683,
+    "sim_time": 221.772,
+    "details": {},
+    "attempt_id": "attempt_013_track_42",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_031",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 18386503332726,
+    "sim_time": 222.696,
+    "details": {
+      "entity": "part_031"
+    },
+    "attempt_id": "attempt_013_track_42",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_031",
+    "event": "lift_confirmed",
+    "wall_monotonic_ns": 18389514715019,
+    "sim_time": 224.164,
+    "details": {
+      "entity": "part_031"
+    },
+    "attempt_id": "attempt_013_track_42",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_038",
+    "attempt_id": "attempt_014_track_52",
+    "event": "eligible_entry",
+    "wall_monotonic_ns": 18395490576522,
+    "sim_time": 226.2,
+    "source": "Gazebo physics observer",
+    "censored": false,
+    "details": {
+      "sim_time": 226.2,
+      "wall_monotonic_ns": 18395490576522,
+      "left_censored": false,
+      "definition": "first physical footprint intersection with calibrated detection region"
+    }
+  },
+  {
+    "object_id": "part_031",
+    "event": "release",
+    "wall_monotonic_ns": 18395593420439,
+    "sim_time": 226.264,
+    "details": {
+      "entity": "part_031"
+    },
+    "attempt_id": "attempt_013_track_42",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_038",
+    "attempt_id": "attempt_014_track_52",
+    "event": "first_detection",
+    "wall_monotonic_ns": 18397438657523,
+    "sim_time": 227.24,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 52
+    }
+  },
+  {
+    "object_id": "part_038",
+    "attempt_id": "attempt_014_track_52",
+    "event": "color_confirmed",
+    "wall_monotonic_ns": 18397648391856,
+    "sim_time": 227.372,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 52
+    }
+  },
+  {
+    "object_id": "part_031",
+    "event": "placement_confirmed",
+    "wall_monotonic_ns": 18400452064691,
+    "sim_time": 228.808,
+    "details": {
+      "entity": "part_031",
+      "evaluated_color": "RED",
+      "bin_color": "RED",
+      "eligible_entry": {
+        "sim_time": 186.35,
+        "wall_monotonic_ns": 18318625693154,
+        "left_censored": false,
+        "definition": "first physical footprint intersection with calibrated detection region"
+      },
+      "camera_first_detection_sim": 187.31,
+      "camera_first_detection_wall_ns": 18320308461362,
+      "camera_color_confirmed_sim": 187.442,
+      "camera_color_confirmed_wall_ns": 18320488591237
+    },
+    "attempt_id": "attempt_013_track_42",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_038",
+    "event": "target_selected",
+    "wall_monotonic_ns": 18420743537617,
+    "sim_time": 238.488,
+    "details": {
+      "track": {
+        "color": "BLUE",
+        "shape": "ROUND",
+        "confidence": 0.8848816768086545,
+        "u": 121.5,
+        "v": 203.5,
+        "bbox": [
+          112,
+          195,
+          20,
+          18
+        ],
+        "xyz": [
+          -0.3993230131614726,
+          0.08511843417246401,
+          0.735
+        ],
+        "area": 263.0,
+        "position_uncertainty_m": 0.012,
+        "color_confirmed_sim": 227.372,
+        "color_confirmed_wall_ns": 18397648391856,
+        "id": 52,
+        "first_seen": 227.24,
+        "last_seen": 238.46,
+        "velocity": [
+          0.01182109076339176,
+          -5.200838040280255e-06,
+          5.827801801498523e-17
+        ],
+        "hits": 159,
+        "first_seen_wall_ns": 18397438657523,
+        "eligible": true
+      }
+    },
+    "attempt_id": "attempt_014_track_52",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_038",
+    "event": "planning_start",
+    "wall_monotonic_ns": 18420750578575,
+    "sim_time": 238.49,
+    "details": {},
+    "attempt_id": "attempt_014_track_52",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_038",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 18420842447367,
+    "sim_time": 238.516,
+    "details": {},
+    "attempt_id": "attempt_014_track_52",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_038",
+    "event": "movement_start",
+    "wall_monotonic_ns": 18420901743534,
+    "sim_time": 238.54,
+    "details": {
+      "source": "joint_state_change"
+    },
+    "attempt_id": "attempt_014_track_52",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_038",
+    "event": "grasp_start",
+    "wall_monotonic_ns": 18426754477412,
+    "sim_time": 241.256,
+    "details": {},
+    "attempt_id": "attempt_014_track_52",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_038",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 18428561800329,
+    "sim_time": 242.032,
+    "details": {
+      "entity": "part_038"
+    },
+    "attempt_id": "attempt_014_track_52",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_038",
+    "event": "lift_confirmed",
+    "wall_monotonic_ns": 18431761078372,
+    "sim_time": 243.37,
+    "details": {
+      "entity": "part_038"
+    },
+    "attempt_id": "attempt_014_track_52",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_038",
+    "event": "release",
+    "wall_monotonic_ns": 18436917228458,
+    "sim_time": 246.128,
+    "details": {
+      "entity": "part_038"
+    },
+    "attempt_id": "attempt_014_track_52",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_038",
+    "event": "placement_confirmed",
+    "wall_monotonic_ns": 18443394860377,
+    "sim_time": 249.702,
+    "details": {
+      "entity": "part_038",
+      "evaluated_color": "BLUE",
+      "bin_color": "BLUE",
+      "eligible_entry": {
+        "sim_time": 226.2,
+        "wall_monotonic_ns": 18395490576522,
+        "left_censored": false,
+        "definition": "first physical footprint intersection with calibrated detection region"
+      },
+      "camera_first_detection_sim": 227.24,
+      "camera_first_detection_wall_ns": 18397438657523,
+      "camera_color_confirmed_sim": 227.372,
+      "camera_color_confirmed_wall_ns": 18397648391856
+    },
+    "attempt_id": "attempt_014_track_52",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_036",
+    "event": "target_selected",
+    "wall_monotonic_ns": 18447996527296,
+    "sim_time": 252.092,
+    "details": {
+      "track": {
+        "color": "RED",
+        "shape": "ROUND",
+        "confidence": 0.8827133794694348,
+        "u": 265.0691056910569,
+        "v": 203.5,
+        "bbox": [
+          256,
+          195,
+          19,
+          18
+        ],
+        "xyz": [
+          -0.1105046359249448,
+          0.08511843417246401,
+          0.735
+        ],
+        "area": 246.0,
+        "position_uncertainty_m": 0.012,
+        "color_confirmed_sim": 215.888,
+        "color_confirmed_wall_ns": 18373524076553,
+        "id": 47,
+        "first_seen": 215.756,
+        "last_seen": 252.056,
+        "velocity": [
+          0.011499371044229647,
+          -0.0001931389692815408,
+          -2.151175948839636e-18
+        ],
+        "hits": 506,
+        "first_seen_wall_ns": 18373297573303,
+        "eligible": true
+      }
+    },
+    "attempt_id": "attempt_015_track_47",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_036",
+    "event": "planning_start",
+    "wall_monotonic_ns": 18447999591296,
+    "sim_time": 252.094,
+    "details": {},
+    "attempt_id": "attempt_015_track_47",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_036",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 18448039217546,
+    "sim_time": 252.118,
+    "details": {},
+    "attempt_id": "attempt_015_track_47",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_036",
+    "event": "movement_start",
+    "wall_monotonic_ns": 18448100252421,
+    "sim_time": 252.144,
+    "details": {
+      "source": "joint_state_change"
+    },
+    "attempt_id": "attempt_015_track_47",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_036",
+    "event": "grasp_start",
+    "wall_monotonic_ns": 18454007572799,
+    "sim_time": 254.45,
+    "details": {},
+    "attempt_id": "attempt_015_track_47",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_043",
+    "attempt_id": "attempt_016_track_58",
+    "event": "eligible_entry",
+    "wall_monotonic_ns": 18454176081299,
+    "sim_time": 254.5,
+    "source": "Gazebo physics observer",
+    "censored": false,
+    "details": {
+      "sim_time": 254.5,
+      "wall_monotonic_ns": 18454176081299,
+      "left_censored": false,
+      "definition": "first physical footprint intersection with calibrated detection region"
+    }
+  },
+  {
+    "object_id": "part_036",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 18456086013716,
+    "sim_time": 255.392,
+    "details": {
+      "entity": "part_036"
+    },
+    "attempt_id": "attempt_015_track_47",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_043",
+    "attempt_id": "attempt_016_track_58",
+    "event": "first_detection",
+    "wall_monotonic_ns": 18456344657383,
+    "sim_time": 255.488,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 58
+    }
+  },
+  {
+    "object_id": "part_043",
+    "attempt_id": "attempt_016_track_58",
+    "event": "color_confirmed",
+    "wall_monotonic_ns": 18456559685466,
+    "sim_time": 255.62,
+    "source": "actual camera tracker callback",
+    "censored": false,
+    "details": {
+      "track_id": 58
+    }
+  },
+  {
+    "object_id": "part_036",
+    "event": "lift_confirmed",
+    "wall_monotonic_ns": 18458554825217,
+    "sim_time": 256.85,
+    "details": {
+      "entity": "part_036"
+    },
+    "attempt_id": "attempt_015_track_47",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_036",
+    "event": "release",
+    "wall_monotonic_ns": 18462469527386,
+    "sim_time": 258.94,
+    "details": {
+      "entity": "part_036"
+    },
+    "attempt_id": "attempt_015_track_47",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_036",
+    "event": "placement_confirmed",
+    "wall_monotonic_ns": 18464568200720,
+    "sim_time": 259.808,
+    "details": {
+      "entity": "part_036",
+      "evaluated_color": "RED",
+      "bin_color": "RED",
+      "eligible_entry": {
+        "sim_time": 214.8,
+        "wall_monotonic_ns": 18370621582635,
+        "left_censored": false,
+        "definition": "first physical footprint intersection with calibrated detection region"
+      },
+      "camera_first_detection_sim": 215.756,
+      "camera_first_detection_wall_ns": 18373297573303,
+      "camera_color_confirmed_sim": 215.888,
+      "camera_color_confirmed_wall_ns": 18373524076553
+    },
+    "attempt_id": "attempt_015_track_47",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_043",
+    "event": "target_selected",
+    "wall_monotonic_ns": 18480516679560,
+    "sim_time": 266.8,
+    "details": {
+      "track": {
+        "color": "BLUE",
+        "shape": "ROUND",
+        "confidence": 0.8848311546840959,
+        "u": 121.62068965517241,
+        "v": 203.455938697318,
+        "bbox": [
+          112,
+          195,
+          20,
+          18
+        ],
+        "xyz": [
+          -0.3991001252552572,
+          0.08522610347490311,
+          0.7349999999999999
+        ],
+        "area": 261.0,
+        "position_uncertainty_m": 0.012,
+        "color_confirmed_sim": 255.62,
+        "color_confirmed_wall_ns": 18456559685466,
+        "id": 58,
+        "first_seen": 255.488,
+        "last_seen": 266.774,
+        "velocity": [
+          0.011643964958902814,
+          9.354817350464409e-05,
+          -2.670234815176412e-17
+        ],
+        "hits": 158,
+        "first_seen_wall_ns": 18456344657383,
+        "eligible": true
+      }
+    },
+    "attempt_id": "attempt_016_track_58",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_043",
+    "event": "planning_start",
+    "wall_monotonic_ns": 18480547302810,
+    "sim_time": 266.804,
+    "details": {},
+    "attempt_id": "attempt_016_track_58",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_043",
+    "event": "planning_complete",
+    "wall_monotonic_ns": 18480728551894,
+    "sim_time": 266.83,
+    "details": {},
+    "attempt_id": "attempt_016_track_58",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_043",
+    "event": "movement_start",
+    "wall_monotonic_ns": 18481278527102,
+    "sim_time": 266.864,
+    "details": {
+      "source": "joint_state_change"
+    },
+    "attempt_id": "attempt_016_track_58",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_043",
+    "event": "grasp_start",
+    "wall_monotonic_ns": 18488343436356,
+    "sim_time": 269.56,
+    "details": {},
+    "attempt_id": "attempt_016_track_58",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_043",
+    "event": "grasp_confirmed",
+    "wall_monotonic_ns": 18489617686481,
+    "sim_time": 270.298,
+    "details": {
+      "entity": "part_043"
+    },
+    "attempt_id": "attempt_016_track_58",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_043",
+    "event": "lift_confirmed",
+    "wall_monotonic_ns": 18492776855441,
+    "sim_time": 271.622,
+    "details": {
+      "entity": "part_043"
+    },
+    "attempt_id": "attempt_016_track_58",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_043",
+    "event": "release",
+    "wall_monotonic_ns": 18498159588694,
+    "sim_time": 274.372,
+    "details": {
+      "entity": "part_043"
+    },
+    "attempt_id": "attempt_016_track_58",
+    "source": "controller callback",
+    "censored": false
+  },
+  {
+    "object_id": "part_043",
+    "event": "placement_confirmed",
+    "wall_monotonic_ns": 18502658417320,
+    "sim_time": 276.452,
+    "details": {
+      "entity": "part_043",
+      "evaluated_color": "BLUE",
+      "bin_color": "BLUE",
+      "eligible_entry": {
+        "sim_time": 254.5,
+        "wall_monotonic_ns": 18454176081299,
+        "left_censored": false,
+        "definition": "first physical footprint intersection with calibrated detection region"
+      },
+      "camera_first_detection_sim": 255.488,
+      "camera_first_detection_wall_ns": 18456344657383,
+      "camera_color_confirmed_sim": 255.62,
+      "camera_color_confirmed_wall_ns": 18456559685466
+    },
+    "attempt_id": "attempt_016_track_58",
+    "source": "controller callback",
+    "censored": false
+  }
+]

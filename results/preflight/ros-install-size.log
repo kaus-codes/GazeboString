@@ -1,0 +1,460 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following additional packages will be installed:
+  binutils binutils-aarch64-linux-gnu catch2 cpp-13 cpp-13-aarch64-linux-gnu
+  cppcheck cppzmq-dev fonts-open-sans freeglut3-dev gcc-13
+  gcc-13-aarch64-linux-gnu gfortran-13 gfortran-13-aarch64-linux-gnu
+  gir1.2-glib-2.0 gir1.2-ibus-1.0 glslang-dev glslc google-mock googletest
+  graphviz libann0 libasound2-dev libbenchmark-dev libbenchmark1.8.3
+  libboost-all-dev libboost-atomic-dev libboost-chrono-dev
+  libboost-container-dev libboost-container1.83-dev libboost-container1.83.0
+  libboost-context-dev libboost-context1.83-dev libboost-context1.83.0
+  libboost-coroutine-dev libboost-coroutine1.83-dev libboost-coroutine1.83.0
+  libboost-date-time-dev libboost-exception-dev libboost-exception1.83-dev
+  libboost-fiber-dev libboost-fiber1.83-dev libboost-fiber1.83.0
+  libboost-filesystem-dev libboost-filesystem1.83-dev
+  libboost-filesystem1.83.0 libboost-graph-dev libboost-graph-parallel-dev
+  libboost-graph-parallel1.83-dev libboost-graph-parallel1.83.0
+  libboost-graph1.83-dev libboost-graph1.83.0 libboost-iostreams-dev
+  libboost-iostreams1.83-dev libboost-iostreams1.83.0 libboost-json-dev
+  libboost-json1.83-dev libboost-json1.83.0 libboost-locale-dev
+  libboost-locale1.83-dev libboost-locale1.83.0 libboost-log-dev
+  libboost-log1.83-dev libboost-log1.83.0 libboost-math-dev
+  libboost-math1.83-dev libboost-math1.83.0 libboost-mpi-dev
+  libboost-mpi-python-dev libboost-mpi-python1.83-dev
+  libboost-mpi-python1.83.0 libboost-mpi1.83-dev libboost-mpi1.83.0
+  libboost-nowide-dev libboost-nowide1.83-dev libboost-nowide1.83.0
+  libboost-numpy-dev libboost-numpy1.83-dev libboost-numpy1.83.0
+  libboost-program-options-dev libboost-program-options1.83-dev
+  libboost-program-options1.83.0 libboost-python-dev libboost-python1.83-dev
+  libboost-python1.83.0 libboost-random-dev libboost-random1.83-dev
+  libboost-random1.83.0 libboost-regex-dev libboost-regex1.83-dev
+  libboost-regex1.83.0 libboost-serialization-dev libboost-stacktrace-dev
+  libboost-stacktrace1.83-dev libboost-stacktrace1.83.0 libboost-system-dev
+  libboost-test-dev libboost-test1.83-dev libboost-test1.83.0
+  libboost-timer-dev libboost-timer1.83-dev libboost-timer1.83.0
+  libboost-tools-dev libboost-type-erasure-dev libboost-type-erasure1.83-dev
+  libboost-type-erasure1.83.0 libboost-url-dev libboost-url1.83-dev
+  libboost-url1.83.0 libboost-wave-dev libboost-wave1.83-dev
+  libboost-wave1.83.0 libboost1.83-tools-dev libbrotli-dev libbz2-dev
+  libcbor0.10 libcc1-0 libccd-dev libcdt5 libcgraph6 libclang1-18
+  libconsole-bridge-dev libconsole-bridge1.0 libctf-nobfd0 libctf0
+  libdbus-1-dev libdc1394-dev libdecor-0-dev libdrm-dev libdrm-etnaviv1
+  libdrm-freedreno1 libdrm-nouveau2 libdrm-radeon1 libdrm-tegra0 libdw-dev
+  libelf-dev libevent-2.1-7t64 libevent-dev libevent-extra-2.1-7t64
+  libevent-openssl-2.1-7t64 libexif-dev libexpected-dev libfcl-dev libfido2-1
+  libflann-dev libflann1.9 libfmt-dev libfmt9 libfreetype-dev libgbm-dev
+  libgdcm-dev libgflags-dev libgflags2.2 libgfortran-13-dev libgl1-mesa-dev
+  libglew-dev libglut-dev libglut3.12 libgphoto2-dev libgprofng0 libgtest-dev
+  libgvc6 libgvpr2 libhdf5-mpi-dev libhdf5-openmpi-103-1t64
+  libhdf5-openmpi-cpp-103-1t64 libhdf5-openmpi-dev
+  libhdf5-openmpi-fortran-102t64 libhdf5-openmpi-hl-100t64
+  libhdf5-openmpi-hl-cpp-100t64 libhdf5-openmpi-hl-fortran-100t64 libhwloc-dev
+  libibus-1.0-5 libibus-1.0-dev libibverbs-dev libice-dev libimath-dev
+  libisl23 libjansson4 libjs-sphinxdoc libjs-underscore libkmod2 liblab-gamut1
+  libllvm18 liblttng-ctl0t64 liblttng-ust-common1t64 liblttng-ust-ctl5t64
+  liblttng-ust-dev liblttng-ust-python-agent1t64 liblttng-ust1t64 libmpc3
+  libmpfr6 libnl-3-dev libnl-route-3-dev libnuma-dev liboctomap-dev libode-dev
+  libomp-18-dev libomp-dev libomp5-18 libopencv-calib3d-dev
+  libopencv-contrib-dev libopencv-core-dev libopencv-dev libopencv-dnn-dev
+  libopencv-features2d-dev libopencv-flann-dev libopencv-highgui-dev
+  libopencv-imgcodecs-dev libopencv-imgproc-dev libopencv-ml-dev
+  libopencv-objdetect-dev libopencv-photo-dev libopencv-shape-dev
+  libopencv-stitching-dev libopencv-superres-dev libopencv-superres406t64
+  libopencv-video-dev libopencv-videoio-dev libopencv-videostab-dev
+  libopencv-videostab406t64 libopencv-viz-dev libopenexr-dev libopenmpi-dev
+  liborocos-kdl-dev liborocos-kdl1.5 libpathplan4 libpciaccess-dev libpcre16-3
+  libpcre3 libpcre3-dev libpcre32-3 libpcrecpp0v5 libpmix-dev libpoco-dev
+  libpocoactiverecord80t64 libpococrypto80t64 libpocodata80t64
+  libpocodatamysql80t64 libpocodataodbc80t64 libpocodatapostgresql80t64
+  libpocodatasqlite80t64 libpocoencodings80t64 libpocofoundation80t64
+  libpocojson80t64 libpocojwt80t64 libpocomongodb80t64 libpoconet80t64
+  libpoconetssl80t64 libpocoredis80t64 libpocoutil80t64 libpocoxml80t64
+  libpocozip80t64 libpopt0 libpulse-dev libpulse-mainloop-glib0 libpyside2-dev
+  libpyside2-py3-5.15t64 libqt5designer5 libqt5help5 libqt5location5
+  libqt5location5-plugins libqt5positioning5 libqt5positioning5-plugins
+  libqt5positioningquick5 libqt5serialport5 libqt5svg5 libraw1394-dev
+  libsamplerate0-dev libsdl2-dev libshaderc-dev libshaderc1 libshiboken2-dev
+  libshiboken2-py3-5.15t64 libsm-dev libsndio-dev libspdlog-dev libspdlog1.12
+  libtbb-dev libudev-dev liburcu-dev liburcu8t64 liburdfdom-dev
+  liburdfdom-headers-dev liburdfdom-model-state4.0 liburdfdom-model4.0
+  liburdfdom-sensor4.0 liburdfdom-world4.0 libwayland-bin libwayland-dev
+  libwayland-server0 libx11-xcb-dev libxaw7-dev libxcb-randr0-dev
+  libxcb-render0-dev libxcursor-dev libxfixes-dev libxi-dev libxinerama-dev
+  libxkbcommon-dev libxml2-utils libxmu-dev libxmu-headers libxpm-dev
+  libxrandr-dev libxrender-dev libxss-dev libxt-dev libxv-dev libxxf86vm-dev
+  libyaml-cpp-dev libyaml-cpp0.8 libzzip-dev lttng-tools mpi-default-bin
+  mpi-default-dev openmpi-bin openmpi-common openssh-client pydocstyle
+  pyqt5-dev python3-argcomplete python3-catkin-pkg-modules python3-dev
+  python3-distro python3-empy python3-filelock python3-flake8
+  python3-flake8-builtins python3-flake8-comprehensions
+  python3-flake8-docstrings python3-flake8-import-order python3-flake8-quotes
+  python3-iniconfig python3-jinja2 python3-lark python3-markupsafe
+  python3-mccabe python3-pluggy python3-psutil python3-pycodestyle
+  python3-pydocstyle python3-pyflakes python3-pygments python3-pykdl
+  python3-pyqt5 python3-pyqt5.qtsvg python3-pyqt5.sip python3-pyside2.qtcore
+  python3-pyside2.qtgui python3-pyside2.qtsvg python3-pyside2.qtwidgets
+  python3-pytest python3-rosdistro-modules python3-rospkg-modules python3-sip
+  python3-sip-dev python3-snowballstemmer python3-typeguard python3.12-dev
+  qml-module-qtlocation qml-module-qtpositioning qml-module-qtquick-extras
+  rapidjson-dev ros-jazzy-action-msgs ros-jazzy-actionlib-msgs
+  ros-jazzy-actuator-msgs ros-jazzy-ament-cmake ros-jazzy-ament-cmake-auto
+  ros-jazzy-ament-cmake-copyright ros-jazzy-ament-cmake-core
+  ros-jazzy-ament-cmake-cppcheck ros-jazzy-ament-cmake-cpplint
+  ros-jazzy-ament-cmake-export-definitions
+  ros-jazzy-ament-cmake-export-dependencies
+  ros-jazzy-ament-cmake-export-include-directories
+  ros-jazzy-ament-cmake-export-interfaces
+  ros-jazzy-ament-cmake-export-libraries
+  ros-jazzy-ament-cmake-export-link-flags ros-jazzy-ament-cmake-export-targets
+  ros-jazzy-ament-cmake-flake8 ros-jazzy-ament-cmake-gen-version-h
+  ros-jazzy-ament-cmake-gmock ros-jazzy-ament-cmake-gtest
+  ros-jazzy-ament-cmake-include-directories ros-jazzy-ament-cmake-libraries
+  ros-jazzy-ament-cmake-lint-cmake ros-jazzy-ament-cmake-pep257
+  ros-jazzy-ament-cmake-pytest ros-jazzy-ament-cmake-python
+  ros-jazzy-ament-cmake-ros ros-jazzy-ament-cmake-target-dependencies
+  ros-jazzy-ament-cmake-test ros-jazzy-ament-cmake-uncrustify
+  ros-jazzy-ament-cmake-version ros-jazzy-ament-cmake-xmllint
+  ros-jazzy-ament-copyright ros-jazzy-ament-cppcheck ros-jazzy-ament-cpplint
+  ros-jazzy-ament-flake8 ros-jazzy-ament-index-cpp
+  ros-jazzy-ament-index-python ros-jazzy-ament-lint ros-jazzy-ament-lint-auto
+  ros-jazzy-ament-lint-cmake ros-jazzy-ament-lint-common
+  ros-jazzy-ament-package ros-jazzy-ament-pep257 ros-jazzy-ament-uncrustify
+  ros-jazzy-ament-xmllint ros-jazzy-angles ros-jazzy-backward-ros
+  ros-jazzy-builtin-interfaces ros-jazzy-class-loader
+  ros-jazzy-common-interfaces ros-jazzy-composition-interfaces
+  ros-jazzy-console-bridge-vendor ros-jazzy-control-msgs
+  ros-jazzy-control-toolbox ros-jazzy-controller-interface
+  ros-jazzy-controller-manager ros-jazzy-controller-manager-msgs
+  ros-jazzy-diagnostic-msgs ros-jazzy-diagnostic-updater
+  ros-jazzy-domain-coordinator ros-jazzy-eigen-stl-containers
+  ros-jazzy-eigen3-cmake-module ros-jazzy-fastcdr ros-jazzy-fastrtps
+  ros-jazzy-fastrtps-cmake-module ros-jazzy-filters
+  ros-jazzy-foonathan-memory-vendor ros-jazzy-forward-command-controller
+  ros-jazzy-generate-parameter-library ros-jazzy-generate-parameter-library-py
+  ros-jazzy-geometric-shapes ros-jazzy-geometry-msgs ros-jazzy-geometry2
+  ros-jazzy-gmock-vendor ros-jazzy-google-benchmark-vendor ros-jazzy-gps-msgs
+  ros-jazzy-gripper-controllers ros-jazzy-gtest-vendor
+  ros-jazzy-gz-cmake-vendor ros-jazzy-gz-common-vendor
+  ros-jazzy-gz-dartsim-vendor ros-jazzy-gz-fuel-tools-vendor
+  ros-jazzy-gz-gui-vendor ros-jazzy-gz-math-vendor ros-jazzy-gz-msgs-vendor
+  ros-jazzy-gz-ogre-next-vendor ros-jazzy-gz-physics-vendor
+  ros-jazzy-gz-plugin-vendor ros-jazzy-gz-rendering-vendor
+  ros-jazzy-gz-sensors-vendor ros-jazzy-gz-sim-vendor
+  ros-jazzy-gz-tools-vendor ros-jazzy-gz-transport-vendor
+  ros-jazzy-gz-utils-vendor ros-jazzy-hardware-interface
+  ros-jazzy-joint-limits ros-jazzy-joint-state-publisher
+  ros-jazzy-joint-state-publisher-gui ros-jazzy-kdl-parser
+  ros-jazzy-keyboard-handler ros-jazzy-launch ros-jazzy-launch-ros
+  ros-jazzy-launch-testing ros-jazzy-launch-testing-ament-cmake
+  ros-jazzy-launch-testing-ros ros-jazzy-launch-xml ros-jazzy-launch-yaml
+  ros-jazzy-libcurl-vendor ros-jazzy-liblz4-vendor
+  ros-jazzy-libstatistics-collector ros-jazzy-libyaml-vendor
+  ros-jazzy-lifecycle-msgs ros-jazzy-marine-acoustic-msgs
+  ros-jazzy-mcap-vendor ros-jazzy-message-filters ros-jazzy-moveit-common
+  ros-jazzy-moveit-core ros-jazzy-moveit-msgs
+  ros-jazzy-moveit-resources-panda-description
+  ros-jazzy-moveit-ros-occupancy-map-monitor ros-jazzy-moveit-ros-planning
+  ros-jazzy-nav-msgs ros-jazzy-object-recognition-msgs ros-jazzy-octomap-msgs
+  ros-jazzy-ompl ros-jazzy-orocos-kdl-vendor ros-jazzy-osqp-vendor
+  ros-jazzy-osrf-pycommon ros-jazzy-pal-statistics
+  ros-jazzy-pal-statistics-msgs ros-jazzy-parameter-traits ros-jazzy-pluginlib
+  ros-jazzy-position-controllers ros-jazzy-pybind11-vendor
+  ros-jazzy-python-cmake-module ros-jazzy-python-orocos-kdl-vendor
+  ros-jazzy-python-qt-binding ros-jazzy-random-numbers ros-jazzy-rcl
+  ros-jazzy-rcl-action ros-jazzy-rcl-interfaces ros-jazzy-rcl-lifecycle
+  ros-jazzy-rcl-logging-interface ros-jazzy-rcl-logging-spdlog
+  ros-jazzy-rcl-yaml-param-parser ros-jazzy-rclcpp ros-jazzy-rclcpp-action
+  ros-jazzy-rclcpp-components ros-jazzy-rclcpp-lifecycle ros-jazzy-rclpy
+  ros-jazzy-rcpputils ros-jazzy-rcutils ros-jazzy-realtime-tools
+  ros-jazzy-resource-retriever ros-jazzy-rmw ros-jazzy-rmw-dds-common
+  ros-jazzy-rmw-fastrtps-cpp ros-jazzy-rmw-fastrtps-shared-cpp
+  ros-jazzy-rmw-implementation ros-jazzy-rmw-implementation-cmake
+  ros-jazzy-robot-state-publisher ros-jazzy-ros-core ros-jazzy-ros-environment
+  ros-jazzy-ros-gz-interfaces ros-jazzy-ros-workspace
+  ros-jazzy-ros2-control-cmake ros-jazzy-ros2action ros-jazzy-ros2bag
+  ros-jazzy-ros2cli ros-jazzy-ros2cli-common-extensions
+  ros-jazzy-ros2component ros-jazzy-ros2doctor ros-jazzy-ros2interface
+  ros-jazzy-ros2launch ros-jazzy-ros2lifecycle ros-jazzy-ros2multicast
+  ros-jazzy-ros2node ros-jazzy-ros2param ros-jazzy-ros2pkg
+  ros-jazzy-ros2plugin ros-jazzy-ros2run ros-jazzy-ros2service
+  ros-jazzy-ros2topic ros-jazzy-rosbag2 ros-jazzy-rosbag2-compression
+  ros-jazzy-rosbag2-compression-zstd ros-jazzy-rosbag2-cpp
+  ros-jazzy-rosbag2-interfaces ros-jazzy-rosbag2-py ros-jazzy-rosbag2-storage
+  ros-jazzy-rosbag2-storage-default-plugins ros-jazzy-rosbag2-storage-mcap
+  ros-jazzy-rosbag2-storage-sqlite3 ros-jazzy-rosbag2-transport
+  ros-jazzy-rosgraph-msgs ros-jazzy-rosidl-adapter ros-jazzy-rosidl-cli
+  ros-jazzy-rosidl-cmake ros-jazzy-rosidl-core-generators
+  ros-jazzy-rosidl-core-runtime ros-jazzy-rosidl-default-generators
+  ros-jazzy-rosidl-default-runtime ros-jazzy-rosidl-dynamic-typesupport
+  ros-jazzy-rosidl-dynamic-typesupport-fastrtps ros-jazzy-rosidl-generator-c
+  ros-jazzy-rosidl-generator-cpp ros-jazzy-rosidl-generator-py
+  ros-jazzy-rosidl-generator-rs ros-jazzy-rosidl-generator-type-description
+  ros-jazzy-rosidl-parser ros-jazzy-rosidl-pycommon ros-jazzy-rosidl-runtime-c
+  ros-jazzy-rosidl-runtime-cpp ros-jazzy-rosidl-runtime-py
+  ros-jazzy-rosidl-typesupport-c ros-jazzy-rosidl-typesupport-cpp
+  ros-jazzy-rosidl-typesupport-fastrtps-c
+  ros-jazzy-rosidl-typesupport-fastrtps-cpp
+  ros-jazzy-rosidl-typesupport-interface
+  ros-jazzy-rosidl-typesupport-introspection-c
+  ros-jazzy-rosidl-typesupport-introspection-cpp ros-jazzy-rpyutils
+  ros-jazzy-rsl ros-jazzy-ruckig ros-jazzy-sdformat-urdf
+  ros-jazzy-sdformat-vendor ros-jazzy-sensor-msgs ros-jazzy-sensor-msgs-py
+  ros-jazzy-service-msgs ros-jazzy-shape-msgs ros-jazzy-spdlog-vendor
+  ros-jazzy-sqlite3-vendor ros-jazzy-srdfdom ros-jazzy-sros2
+  ros-jazzy-sros2-cmake ros-jazzy-statistics-msgs ros-jazzy-std-msgs
+  ros-jazzy-std-srvs ros-jazzy-stereo-msgs ros-jazzy-tcb-span ros-jazzy-tf2
+  ros-jazzy-tf2-bullet ros-jazzy-tf2-eigen ros-jazzy-tf2-eigen-kdl
+  ros-jazzy-tf2-geometry-msgs ros-jazzy-tf2-kdl ros-jazzy-tf2-msgs
+  ros-jazzy-tf2-py ros-jazzy-tf2-ros ros-jazzy-tf2-ros-py
+  ros-jazzy-tf2-sensor-msgs ros-jazzy-tf2-tools ros-jazzy-tinyxml2-vendor
+  ros-jazzy-tl-expected ros-jazzy-topic-tools ros-jazzy-topic-tools-interfaces
+  ros-jazzy-tracetools ros-jazzy-trajectory-msgs
+  ros-jazzy-type-description-interfaces ros-jazzy-uncrustify-vendor
+  ros-jazzy-unique-identifier-msgs ros-jazzy-urdf ros-jazzy-urdf-parser-plugin
+  ros-jazzy-urdfdom ros-jazzy-urdfdom-headers ros-jazzy-urdfdom-py
+  ros-jazzy-vision-msgs ros-jazzy-visualization-msgs ros-jazzy-yaml-cpp-vendor
+  ros-jazzy-zstd-vendor shiboken2 sip-dev spirv-headers spirv-tools uncrustify
+Suggested packages:
+  binutils-doc gprofng-gui gcc-13-locales cpp-13-doc cppcheck-gui clang
+  clang-tidy gcc-13-doc gfortran-13-doc libcoarrays-dev glslang-tools gsfonts
+  graphviz-doc libasound2-doc libbenchmark-tools libboost1.83-doc gccxml
+  xsltproc doxygen docbook-xml docbook-xsl default-jdk fop libfmt-doc
+  freetype2-doc libhdf5-doc libice-doc libomp-18-doc opencv-doc openmpi-doc
+  libraw1394-doc libsm-doc libsystemd-dev libtbb-doc libwayland-doc libxaw-doc
+  libxt-doc lttng-modules-dkms gfortran | fortran-compiler keychain libpam-ssh
+  monkeysphere ssh-askpass python-jinja2-doc python-lark-doc
+  python3-atomicwrites python3-regex python3-toml python-pygments-doc
+  ttf-bitstream-vera python-pyside2-doc python-sip-doc python3-stemmer
+  rapidjson-doc
+Recommended packages:
+  fonts-liberation2 bzip2-doc libexif-doc javascript-common opencv-data
+  libopencv-java libcoarrays-openmpi-dev geoclue-2.0 libraw1394-tools
+  babeltrace pyflakes3
+The following NEW packages will be installed:
+  binutils binutils-aarch64-linux-gnu catch2 cpp-13 cpp-13-aarch64-linux-gnu
+  cppcheck cppzmq-dev fonts-open-sans freeglut3-dev gcc-13
+  gcc-13-aarch64-linux-gnu gfortran-13 gfortran-13-aarch64-linux-gnu
+  gir1.2-glib-2.0 gir1.2-ibus-1.0 glslang-dev glslc google-mock googletest
+  graphviz libann0 libasound2-dev libbenchmark-dev libbenchmark1.8.3
+  libboost-all-dev libboost-atomic-dev libboost-chrono-dev
+  libboost-container-dev libboost-container1.83-dev libboost-container1.83.0
+  libboost-context-dev libboost-context1.83-dev libboost-context1.83.0
+  libboost-coroutine-dev libboost-coroutine1.83-dev libboost-coroutine1.83.0
+  libboost-date-time-dev libboost-exception-dev libboost-exception1.83-dev
+  libboost-fiber-dev libboost-fiber1.83-dev libboost-fiber1.83.0
+  libboost-filesystem-dev libboost-filesystem1.83-dev
+  libboost-filesystem1.83.0 libboost-graph-dev libboost-graph-parallel-dev
+  libboost-graph-parallel1.83-dev libboost-graph-parallel1.83.0
+  libboost-graph1.83-dev libboost-graph1.83.0 libboost-iostreams-dev
+  libboost-iostreams1.83-dev libboost-iostreams1.83.0 libboost-json-dev
+  libboost-json1.83-dev libboost-json1.83.0 libboost-locale-dev
+  libboost-locale1.83-dev libboost-locale1.83.0 libboost-log-dev
+  libboost-log1.83-dev libboost-log1.83.0 libboost-math-dev
+  libboost-math1.83-dev libboost-math1.83.0 libboost-mpi-dev
+  libboost-mpi-python-dev libboost-mpi-python1.83-dev
+  libboost-mpi-python1.83.0 libboost-mpi1.83-dev libboost-mpi1.83.0
+  libboost-nowide-dev libboost-nowide1.83-dev libboost-nowide1.83.0
+  libboost-numpy-dev libboost-numpy1.83-dev libboost-numpy1.83.0
+  libboost-program-options-dev libboost-program-options1.83-dev
+  libboost-program-options1.83.0 libboost-python-dev libboost-python1.83-dev
+  libboost-python1.83.0 libboost-random-dev libboost-random1.83-dev
+  libboost-random1.83.0 libboost-regex-dev libboost-regex1.83-dev
+  libboost-regex1.83.0 libboost-serialization-dev libboost-stacktrace-dev
+  libboost-stacktrace1.83-dev libboost-stacktrace1.83.0 libboost-system-dev
+  libboost-test-dev libboost-test1.83-dev libboost-test1.83.0
+  libboost-timer-dev libboost-timer1.83-dev libboost-timer1.83.0
+  libboost-tools-dev libboost-type-erasure-dev libboost-type-erasure1.83-dev
+  libboost-type-erasure1.83.0 libboost-url-dev libboost-url1.83-dev
+  libboost-url1.83.0 libboost-wave-dev libboost-wave1.83-dev
+  libboost-wave1.83.0 libboost1.83-tools-dev libbrotli-dev libbz2-dev
+  libcbor0.10 libcc1-0 libccd-dev libcdt5 libcgraph6 libclang1-18
+  libconsole-bridge-dev libconsole-bridge1.0 libctf-nobfd0 libctf0
+  libdbus-1-dev libdc1394-dev libdecor-0-dev libdrm-dev libdrm-etnaviv1
+  libdrm-freedreno1 libdrm-nouveau2 libdrm-radeon1 libdrm-tegra0 libdw-dev
+  libelf-dev libevent-2.1-7t64 libevent-dev libevent-extra-2.1-7t64
+  libevent-openssl-2.1-7t64 libexif-dev libexpected-dev libfcl-dev libfido2-1
+  libflann-dev libflann1.9 libfmt-dev libfmt9 libfreetype-dev libgbm-dev
+  libgdcm-dev libgflags-dev libgflags2.2 libgfortran-13-dev libgl1-mesa-dev
+  libglew-dev libglut-dev libglut3.12 libgphoto2-dev libgprofng0 libgtest-dev
+  libgvc6 libgvpr2 libhdf5-mpi-dev libhdf5-openmpi-103-1t64
+  libhdf5-openmpi-cpp-103-1t64 libhdf5-openmpi-dev
+  libhdf5-openmpi-fortran-102t64 libhdf5-openmpi-hl-100t64
+  libhdf5-openmpi-hl-cpp-100t64 libhdf5-openmpi-hl-fortran-100t64 libhwloc-dev
+  libibus-1.0-5 libibus-1.0-dev libibverbs-dev libice-dev libimath-dev
+  libisl23 libjansson4 libjs-sphinxdoc libjs-underscore libkmod2 liblab-gamut1
+  libllvm18 liblttng-ctl0t64 liblttng-ust-common1t64 liblttng-ust-ctl5t64
+  liblttng-ust-dev liblttng-ust-python-agent1t64 liblttng-ust1t64 libmpc3
+  libmpfr6 libnl-3-dev libnl-route-3-dev libnuma-dev liboctomap-dev libode-dev
+  libomp-18-dev libomp-dev libomp5-18 libopencv-calib3d-dev
+  libopencv-contrib-dev libopencv-core-dev libopencv-dev libopencv-dnn-dev
+  libopencv-features2d-dev libopencv-flann-dev libopencv-highgui-dev
+  libopencv-imgcodecs-dev libopencv-imgproc-dev libopencv-ml-dev
+  libopencv-objdetect-dev libopencv-photo-dev libopencv-shape-dev
+  libopencv-stitching-dev libopencv-superres-dev libopencv-superres406t64
+  libopencv-video-dev libopencv-videoio-dev libopencv-videostab-dev
+  libopencv-videostab406t64 libopencv-viz-dev libopenexr-dev libopenmpi-dev
+  liborocos-kdl-dev liborocos-kdl1.5 libpathplan4 libpciaccess-dev libpcre16-3
+  libpcre3 libpcre3-dev libpcre32-3 libpcrecpp0v5 libpmix-dev libpoco-dev
+  libpocoactiverecord80t64 libpococrypto80t64 libpocodata80t64
+  libpocodatamysql80t64 libpocodataodbc80t64 libpocodatapostgresql80t64
+  libpocodatasqlite80t64 libpocoencodings80t64 libpocofoundation80t64
+  libpocojson80t64 libpocojwt80t64 libpocomongodb80t64 libpoconet80t64
+  libpoconetssl80t64 libpocoredis80t64 libpocoutil80t64 libpocoxml80t64
+  libpocozip80t64 libpopt0 libpulse-dev libpulse-mainloop-glib0 libpyside2-dev
+  libpyside2-py3-5.15t64 libqt5designer5 libqt5help5 libqt5location5
+  libqt5location5-plugins libqt5positioning5 libqt5positioning5-plugins
+  libqt5positioningquick5 libqt5serialport5 libqt5svg5 libraw1394-dev
+  libsamplerate0-dev libsdl2-dev libshaderc-dev libshaderc1 libshiboken2-dev
+  libshiboken2-py3-5.15t64 libsm-dev libsndio-dev libspdlog-dev libspdlog1.12
+  libtbb-dev libudev-dev liburcu-dev liburcu8t64 liburdfdom-dev
+  liburdfdom-headers-dev liburdfdom-model-state4.0 liburdfdom-model4.0
+  liburdfdom-sensor4.0 liburdfdom-world4.0 libwayland-bin libwayland-dev
+  libwayland-server0 libx11-xcb-dev libxaw7-dev libxcb-randr0-dev
+  libxcb-render0-dev libxcursor-dev libxfixes-dev libxi-dev libxinerama-dev
+  libxkbcommon-dev libxml2-utils libxmu-dev libxmu-headers libxpm-dev
+  libxrandr-dev libxrender-dev libxss-dev libxt-dev libxv-dev libxxf86vm-dev
+  libyaml-cpp-dev libyaml-cpp0.8 libzzip-dev lttng-tools mpi-default-bin
+  mpi-default-dev openmpi-bin openmpi-common openssh-client pydocstyle
+  pyqt5-dev python3-argcomplete python3-catkin-pkg-modules python3-dev
+  python3-distro python3-empy python3-filelock python3-flake8
+  python3-flake8-builtins python3-flake8-comprehensions
+  python3-flake8-docstrings python3-flake8-import-order python3-flake8-quotes
+  python3-iniconfig python3-jinja2 python3-lark python3-markupsafe
+  python3-mccabe python3-pluggy python3-psutil python3-pycodestyle
+  python3-pydocstyle python3-pyflakes python3-pygments python3-pykdl
+  python3-pyqt5 python3-pyqt5.qtsvg python3-pyqt5.sip python3-pyside2.qtcore
+  python3-pyside2.qtgui python3-pyside2.qtsvg python3-pyside2.qtwidgets
+  python3-pytest python3-rosdistro-modules python3-rospkg-modules python3-sip
+  python3-sip-dev python3-snowballstemmer python3-typeguard python3.12-dev
+  qml-module-qtlocation qml-module-qtpositioning qml-module-qtquick-extras
+  rapidjson-dev ros-jazzy-action-msgs ros-jazzy-actionlib-msgs
+  ros-jazzy-actuator-msgs ros-jazzy-ament-cmake ros-jazzy-ament-cmake-auto
+  ros-jazzy-ament-cmake-copyright ros-jazzy-ament-cmake-core
+  ros-jazzy-ament-cmake-cppcheck ros-jazzy-ament-cmake-cpplint
+  ros-jazzy-ament-cmake-export-definitions
+  ros-jazzy-ament-cmake-export-dependencies
+  ros-jazzy-ament-cmake-export-include-directories
+  ros-jazzy-ament-cmake-export-interfaces
+  ros-jazzy-ament-cmake-export-libraries
+  ros-jazzy-ament-cmake-export-link-flags ros-jazzy-ament-cmake-export-targets
+  ros-jazzy-ament-cmake-flake8 ros-jazzy-ament-cmake-gen-version-h
+  ros-jazzy-ament-cmake-gmock ros-jazzy-ament-cmake-gtest
+  ros-jazzy-ament-cmake-include-directories ros-jazzy-ament-cmake-libraries
+  ros-jazzy-ament-cmake-lint-cmake ros-jazzy-ament-cmake-pep257
+  ros-jazzy-ament-cmake-pytest ros-jazzy-ament-cmake-python
+  ros-jazzy-ament-cmake-ros ros-jazzy-ament-cmake-target-dependencies
+  ros-jazzy-ament-cmake-test ros-jazzy-ament-cmake-uncrustify
+  ros-jazzy-ament-cmake-version ros-jazzy-ament-cmake-xmllint
+  ros-jazzy-ament-copyright ros-jazzy-ament-cppcheck ros-jazzy-ament-cpplint
+  ros-jazzy-ament-flake8 ros-jazzy-ament-index-cpp
+  ros-jazzy-ament-index-python ros-jazzy-ament-lint ros-jazzy-ament-lint-auto
+  ros-jazzy-ament-lint-cmake ros-jazzy-ament-lint-common
+  ros-jazzy-ament-package ros-jazzy-ament-pep257 ros-jazzy-ament-uncrustify
+  ros-jazzy-ament-xmllint ros-jazzy-angles ros-jazzy-backward-ros
+  ros-jazzy-builtin-interfaces ros-jazzy-class-loader
+  ros-jazzy-common-interfaces ros-jazzy-composition-interfaces
+  ros-jazzy-console-bridge-vendor ros-jazzy-control-msgs
+  ros-jazzy-control-toolbox ros-jazzy-controller-interface
+  ros-jazzy-controller-manager ros-jazzy-controller-manager-msgs
+  ros-jazzy-cv-bridge ros-jazzy-diagnostic-msgs ros-jazzy-diagnostic-updater
+  ros-jazzy-domain-coordinator ros-jazzy-eigen-stl-containers
+  ros-jazzy-eigen3-cmake-module ros-jazzy-fastcdr ros-jazzy-fastrtps
+  ros-jazzy-fastrtps-cmake-module ros-jazzy-filters
+  ros-jazzy-foonathan-memory-vendor ros-jazzy-forward-command-controller
+  ros-jazzy-generate-parameter-library ros-jazzy-generate-parameter-library-py
+  ros-jazzy-geometric-shapes ros-jazzy-geometry-msgs ros-jazzy-geometry2
+  ros-jazzy-gmock-vendor ros-jazzy-google-benchmark-vendor ros-jazzy-gps-msgs
+  ros-jazzy-gripper-controllers ros-jazzy-gtest-vendor
+  ros-jazzy-gz-cmake-vendor ros-jazzy-gz-common-vendor
+  ros-jazzy-gz-dartsim-vendor ros-jazzy-gz-fuel-tools-vendor
+  ros-jazzy-gz-gui-vendor ros-jazzy-gz-math-vendor ros-jazzy-gz-msgs-vendor
+  ros-jazzy-gz-ogre-next-vendor ros-jazzy-gz-physics-vendor
+  ros-jazzy-gz-plugin-vendor ros-jazzy-gz-rendering-vendor
+  ros-jazzy-gz-ros2-control ros-jazzy-gz-sensors-vendor
+  ros-jazzy-gz-sim-vendor ros-jazzy-gz-tools-vendor
+  ros-jazzy-gz-transport-vendor ros-jazzy-gz-utils-vendor
+  ros-jazzy-hardware-interface ros-jazzy-joint-limits
+  ros-jazzy-joint-state-broadcaster ros-jazzy-joint-state-publisher
+  ros-jazzy-joint-state-publisher-gui ros-jazzy-joint-trajectory-controller
+  ros-jazzy-kdl-parser ros-jazzy-keyboard-handler ros-jazzy-launch
+  ros-jazzy-launch-ros ros-jazzy-launch-testing
+  ros-jazzy-launch-testing-ament-cmake ros-jazzy-launch-testing-ros
+  ros-jazzy-launch-xml ros-jazzy-launch-yaml ros-jazzy-libcurl-vendor
+  ros-jazzy-liblz4-vendor ros-jazzy-libstatistics-collector
+  ros-jazzy-libyaml-vendor ros-jazzy-lifecycle-msgs
+  ros-jazzy-marine-acoustic-msgs ros-jazzy-mcap-vendor
+  ros-jazzy-message-filters ros-jazzy-moveit-common ros-jazzy-moveit-core
+  ros-jazzy-moveit-kinematics ros-jazzy-moveit-msgs
+  ros-jazzy-moveit-planners-ompl ros-jazzy-moveit-resources-panda-description
+  ros-jazzy-moveit-resources-panda-moveit-config
+  ros-jazzy-moveit-ros-move-group ros-jazzy-moveit-ros-occupancy-map-monitor
+  ros-jazzy-moveit-ros-planning ros-jazzy-nav-msgs
+  ros-jazzy-object-recognition-msgs ros-jazzy-octomap-msgs ros-jazzy-ompl
+  ros-jazzy-orocos-kdl-vendor ros-jazzy-osqp-vendor ros-jazzy-osrf-pycommon
+  ros-jazzy-pal-statistics ros-jazzy-pal-statistics-msgs
+  ros-jazzy-parameter-traits ros-jazzy-pluginlib
+  ros-jazzy-position-controllers ros-jazzy-pybind11-vendor
+  ros-jazzy-python-cmake-module ros-jazzy-python-orocos-kdl-vendor
+  ros-jazzy-python-qt-binding ros-jazzy-random-numbers ros-jazzy-rcl
+  ros-jazzy-rcl-action ros-jazzy-rcl-interfaces ros-jazzy-rcl-lifecycle
+  ros-jazzy-rcl-logging-interface ros-jazzy-rcl-logging-spdlog
+  ros-jazzy-rcl-yaml-param-parser ros-jazzy-rclcpp ros-jazzy-rclcpp-action
+  ros-jazzy-rclcpp-components ros-jazzy-rclcpp-lifecycle ros-jazzy-rclpy
+  ros-jazzy-rcpputils ros-jazzy-rcutils ros-jazzy-realtime-tools
+  ros-jazzy-resource-retriever ros-jazzy-rmw ros-jazzy-rmw-dds-common
+  ros-jazzy-rmw-fastrtps-cpp ros-jazzy-rmw-fastrtps-shared-cpp
+  ros-jazzy-rmw-implementation ros-jazzy-rmw-implementation-cmake
+  ros-jazzy-robot-state-publisher ros-jazzy-ros-base ros-jazzy-ros-core
+  ros-jazzy-ros-environment ros-jazzy-ros-gz-bridge
+  ros-jazzy-ros-gz-interfaces ros-jazzy-ros-workspace
+  ros-jazzy-ros2-control-cmake ros-jazzy-ros2action ros-jazzy-ros2bag
+  ros-jazzy-ros2cli ros-jazzy-ros2cli-common-extensions
+  ros-jazzy-ros2component ros-jazzy-ros2doctor ros-jazzy-ros2interface
+  ros-jazzy-ros2launch ros-jazzy-ros2lifecycle ros-jazzy-ros2multicast
+  ros-jazzy-ros2node ros-jazzy-ros2param ros-jazzy-ros2pkg
+  ros-jazzy-ros2plugin ros-jazzy-ros2run ros-jazzy-ros2service
+  ros-jazzy-ros2topic ros-jazzy-rosbag2 ros-jazzy-rosbag2-compression
+  ros-jazzy-rosbag2-compression-zstd ros-jazzy-rosbag2-cpp
+  ros-jazzy-rosbag2-interfaces ros-jazzy-rosbag2-py ros-jazzy-rosbag2-storage
+  ros-jazzy-rosbag2-storage-default-plugins ros-jazzy-rosbag2-storage-mcap
+  ros-jazzy-rosbag2-storage-sqlite3 ros-jazzy-rosbag2-transport
+  ros-jazzy-rosgraph-msgs ros-jazzy-rosidl-adapter ros-jazzy-rosidl-cli
+  ros-jazzy-rosidl-cmake ros-jazzy-rosidl-core-generators
+  ros-jazzy-rosidl-core-runtime ros-jazzy-rosidl-default-generators
+  ros-jazzy-rosidl-default-runtime ros-jazzy-rosidl-dynamic-typesupport
+  ros-jazzy-rosidl-dynamic-typesupport-fastrtps ros-jazzy-rosidl-generator-c
+  ros-jazzy-rosidl-generator-cpp ros-jazzy-rosidl-generator-py
+  ros-jazzy-rosidl-generator-rs ros-jazzy-rosidl-generator-type-description
+  ros-jazzy-rosidl-parser ros-jazzy-rosidl-pycommon ros-jazzy-rosidl-runtime-c
+  ros-jazzy-rosidl-runtime-cpp ros-jazzy-rosidl-runtime-py
+  ros-jazzy-rosidl-typesupport-c ros-jazzy-rosidl-typesupport-cpp
+  ros-jazzy-rosidl-typesupport-fastrtps-c
+  ros-jazzy-rosidl-typesupport-fastrtps-cpp
+  ros-jazzy-rosidl-typesupport-interface
+  ros-jazzy-rosidl-typesupport-introspection-c
+  ros-jazzy-rosidl-typesupport-introspection-cpp ros-jazzy-rpyutils
+  ros-jazzy-rsl ros-jazzy-ruckig ros-jazzy-sdformat-urdf
+  ros-jazzy-sdformat-vendor ros-jazzy-sensor-msgs ros-jazzy-sensor-msgs-py
+  ros-jazzy-service-msgs ros-jazzy-shape-msgs ros-jazzy-spdlog-vendor
+  ros-jazzy-sqlite3-vendor ros-jazzy-srdfdom ros-jazzy-sros2
+  ros-jazzy-sros2-cmake ros-jazzy-statistics-msgs ros-jazzy-std-msgs
+  ros-jazzy-std-srvs ros-jazzy-stereo-msgs ros-jazzy-tcb-span ros-jazzy-tf2
+  ros-jazzy-tf2-bullet ros-jazzy-tf2-eigen ros-jazzy-tf2-eigen-kdl
+  ros-jazzy-tf2-geometry-msgs ros-jazzy-tf2-kdl ros-jazzy-tf2-msgs
+  ros-jazzy-tf2-py ros-jazzy-tf2-ros ros-jazzy-tf2-ros-py
+  ros-jazzy-tf2-sensor-msgs ros-jazzy-tf2-tools ros-jazzy-tinyxml2-vendor
+  ros-jazzy-tl-expected ros-jazzy-topic-tools ros-jazzy-topic-tools-interfaces
+  ros-jazzy-tracetools ros-jazzy-trajectory-msgs
+  ros-jazzy-type-description-interfaces ros-jazzy-uncrustify-vendor
+  ros-jazzy-unique-identifier-msgs ros-jazzy-urdf ros-jazzy-urdf-parser-plugin
+  ros-jazzy-urdfdom ros-jazzy-urdfdom-headers ros-jazzy-urdfdom-py
+  ros-jazzy-vision-msgs ros-jazzy-visualization-msgs ros-jazzy-xacro
+  ros-jazzy-yaml-cpp-vendor ros-jazzy-zstd-vendor shiboken2 sip-dev
+  spirv-headers spirv-tools uncrustify
+0 upgraded, 650 newly installed, 0 to remove and 21 not upgraded.
+Need to get 252 MB of archives.
+After this operation, 1407 MB of additional disk space will be used.
+Do you want to continue? [Y/n] N
+Abort.

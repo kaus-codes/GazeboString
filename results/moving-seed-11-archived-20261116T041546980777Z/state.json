@@ -1,0 +1,57 @@
+{
+  "state": "FAILED",
+  "current_target": "RED",
+  "selected": {
+    "color": "RED",
+    "shape": "BOX",
+    "confidence": 0.8896426863428298,
+    "u": 102.23881064162754,
+    "v": 287.67167449139276,
+    "bbox": [
+      89,
+      274,
+      28,
+      29
+    ],
+    "xyz": [
+      -0.39996548188557,
+      -0.10266491375721909,
+      0.7349999999999999
+    ],
+    "area": 532.5,
+    "position_uncertainty_m": 0.004,
+    "color_confirmed_sim": 113.192,
+    "color_confirmed_wall_ns": 8709812359192,
+    "id": 26,
+    "first_seen": 112.928,
+    "last_seen": 116.228,
+    "velocity": [
+      0.03955311417949648,
+      -0.00048066132435568024,
+      -5.120660240625124e-16
+    ],
+    "hits": 39,
+    "first_seen_wall_ns": 8709169089026,
+    "eligible": true
+  },
+  "attempted_picks": 8,
+  "failed_attempts": 8,
+  "incorrect_picks": 0,
+  "wall_elapsed": 204.798717593,
+  "sim_time": 121.926,
+  "sequence": {
+    "complete": false,
+    "target": "RED",
+    "red": 0,
+    "blue": 0,
+    "pairs": 0,
+    "successful_picks": 0,
+    "remaining_pairs": 7,
+    "errors": [],
+    "placements": []
+  },
+  "latest_perception_ms": 9.322083,
+  "latest_operation_wall_s": null,
+  "sim_elapsed": 117.45400000000001,
+  "real_time_factor": 0.5735094293143785
+}

@@ -1,0 +1,27 @@
+{
+  "passed": false,
+  "error": "Retry limit exceeded",
+  "experiment_start_wall_ns": 8519796542314,
+  "experiment_end_wall_ns": 8724603420949,
+  "experiment_start_sim": 4.472,
+  "experiment_end_sim": 121.932,
+  "seed": 11,
+  "verified_placements": 0,
+  "attempts": 8,
+  "failed_attempts": 8,
+  "incorrect_picks": 0,
+  "sequence": {
+    "complete": false,
+    "target": "RED",
+    "red": 0,
+    "blue": 0,
+    "pairs": 0,
+    "successful_picks": 0,
+    "remaining_pairs": 7,
+    "errors": [],
+    "placements": []
+  },
+  "wall_seconds": 204.806878635,
+  "sim_seconds": 117.46000000000001,
+  "seven_pair_elapsed_time_wall_s": null
+}

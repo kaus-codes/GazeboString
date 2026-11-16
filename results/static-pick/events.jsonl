@@ -1,0 +1,8 @@
+{"object_id": "3", "event": "target_selected", "wall_monotonic_ns": 5733125161453, "sim_time": 1.57, "details": {"track": {"color": "RED", "shape": "BOX", "confidence": 0.8848027998384709, "u": 406.30600414078674, "v": 243.83643892339543, "bbox": [396, 232, 22, 25], "xyz": [0.16604130673579148, -0.00914033519848756, 0.7349999999999999], "area": 402.5, "position_uncertainty_m": 0.004, "color_confirmed_sim": 1.322, "color_confirmed_wall_ns": 5732833637327, "id": 3, "first_seen": 1.124, "last_seen": 1.52, "velocity": [0.0, 0.0, 0.0], "hits": 6, "first_seen_wall_ns": 5732616765827, "eligible": true}}}
+{"object_id": "3", "event": "planning_start", "wall_monotonic_ns": 5733132505244, "sim_time": 1.578, "details": {}}
+{"object_id": "3", "event": "planning_complete", "wall_monotonic_ns": 5733241381369, "sim_time": 1.6099999999999999, "details": {}}
+{"object_id": "3", "event": "movement_start", "wall_monotonic_ns": 5733310770703, "sim_time": 1.6520000000000001, "details": {}}
+{"object_id": "3", "event": "grasp_confirmed", "wall_monotonic_ns": 5737236657205, "sim_time": 4.61, "details": {"attached_entity": "part_007"}}
+{"object_id": "3", "event": "lift_confirmed", "wall_monotonic_ns": 5738847846039, "sim_time": 5.918, "details": {}}
+{"object_id": "3", "event": "release", "wall_monotonic_ns": 5742105049499, "sim_time": 8.62, "details": {}}
+{"object_id": "3", "event": "placement_confirmed", "wall_monotonic_ns": 5743066603166, "sim_time": 9.456, "details": {"entity": "part_007"}}

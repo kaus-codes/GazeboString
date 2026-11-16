@@ -1,0 +1,20 @@
+{
+  "part_009": {
+    "sim_time": 0.8500000000000001,
+    "wall_monotonic_ns": 9249807249730,
+    "left_censored": true,
+    "definition": "first physical footprint intersection with calibrated detection region"
+  },
+  "part_010": {
+    "sim_time": 0.8500000000000001,
+    "wall_monotonic_ns": 9249807272855,
+    "left_censored": true,
+    "definition": "first physical footprint intersection with calibrated detection region"
+  },
+  "part_011": {
+    "sim_time": 0.8500000000000001,
+    "wall_monotonic_ns": 9249807296272,
+    "left_censored": true,
+    "definition": "first physical footprint intersection with calibrated detection region"
+  }
+}

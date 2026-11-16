@@ -1,0 +1,174 @@
+{
+  "sim_stamp": 279.512,
+  "wall_monotonic_ns": 18508741426865,
+  "processing_start_wall_ns": 18508731215990,
+  "processing_ms": 10.104042,
+  "frames": 3831,
+  "tracks": [
+    {
+      "color": "BLUE",
+      "shape": "BOX",
+      "confidence": 0.88989815007275,
+      "u": 142.54935351624093,
+      "v": 287.4960580258593,
+      "bbox": [
+        128,
+        273,
+        30,
+        30
+      ],
+      "xyz": [
+        -0.32598562037104867,
+        -0.10230713597151697,
+        0.7349999999999999
+      ],
+      "area": 528.5,
+      "position_uncertainty_m": 0.004,
+      "color_confirmed_sim": 274.562,
+      "color_confirmed_wall_ns": 18498513750319,
+      "id": 65,
+      "first_seen": 274.43,
+      "last_seen": 279.512,
+      "velocity": [
+        0.03900209288650833,
+        7.499985377156665e-05,
+        -6.050074135433058e-16
+      ],
+      "hits": 74,
+      "first_seen_wall_ns": 18498311928277,
+      "eligible": true
+    },
+    {
+      "color": "RED",
+      "shape": "BOX",
+      "confidence": 0.8854643395819867,
+      "u": 496.18531746031744,
+      "v": 243.80436507936506,
+      "bbox": [
+        485,
+        232,
+        24,
+        25
+      ],
+      "xyz": [
+        0.3389689549201415,
+        -0.00906865460262396,
+        0.735
+      ],
+      "area": 420.0,
+      "position_uncertainty_m": 0.004,
+      "color_confirmed_sim": 257.534,
+      "color_confirmed_wall_ns": 18459759520593,
+      "id": 59,
+      "first_seen": 257.402,
+      "last_seen": 279.512,
+      "velocity": [
+        0.040037042208374174,
+        0.000321693929527945,
+        1.9375519468087593e-16
+      ],
+      "hits": 311,
+      "first_seen_wall_ns": 18459550346801,
+      "eligible": true
+    },
+    {
+      "color": "GREEN",
+      "shape": "BOX",
+      "confidence": 0.8833718160161261,
+      "u": 263.51108870967744,
+      "v": 287.5,
+      "bbox": [
+        251,
+        273,
+        26,
+        30
+      ],
+      "xyz": [
+        -0.10377250309977158,
+        -0.10231516825386322,
+        0.735
+      ],
+      "area": 496.0,
+      "position_uncertainty_m": 0.004,
+      "color_confirmed_sim": 268.82,
+      "color_confirmed_wall_ns": 18486980567022,
+      "id": 60,
+      "first_seen": 268.688,
+      "last_seen": 279.512,
+      "velocity": [
+        0.039780077531422056,
+        2.7600904556451735e-05,
+        -1.8527259066184816e-16
+      ],
+      "hits": 157,
+      "first_seen_wall_ns": 18486692713438,
+      "eligible": false
+    },
+    {
+      "color": "YELLOW",
+      "shape": "ROUND",
+      "confidence": 0.8825139010828212,
+      "u": 292.3050964187328,
+      "v": 203.5,
+      "bbox": [
+        284,
+        195,
+        18,
+        18
+      ],
+      "xyz": [
+        -0.05571391610724474,
+        0.08511843417246401,
+        0.735
+      ],
+      "area": 242.0,
+      "position_uncertainty_m": 0.012,
+      "color_confirmed_sim": 238.592,
+      "color_confirmed_wall_ns": 18421049304242,
+      "id": 55,
+      "first_seen": 238.46,
+      "last_seen": 279.512,
+      "velocity": [
+        0.011425535045835317,
+        -9.215161323532888e-05,
+        -5.900622918544213e-17
+      ],
+      "hits": 577,
+      "first_seen_wall_ns": 18420737955159,
+      "eligible": false
+    },
+    {
+      "color": "YELLOW",
+      "shape": "ROUND",
+      "confidence": 0.8822549019607843,
+      "u": 488.14924391847467,
+      "v": 203.40696909927678,
+      "bbox": [
+        479,
+        195,
+        19,
+        18
+      ],
+      "xyz": [
+        0.33830193390969715,
+        0.08534577941253563,
+        0.7349999999999999
+      ],
+      "area": 253.5,
+      "position_uncertainty_m": 0.012,
+      "color_confirmed_sim": 204.602,
+      "color_confirmed_wall_ns": 18349736455876,
+      "id": 45,
+      "first_seen": 204.404,
+      "last_seen": 279.512,
+      "velocity": [
+        0.011926469875830438,
+        0.0011035939888469444,
+        -4.785574629597456e-16
+      ],
+      "hits": 1047,
+      "first_seen_wall_ns": 18349245948251,
+      "eligible": false
+    }
+  ]
+}

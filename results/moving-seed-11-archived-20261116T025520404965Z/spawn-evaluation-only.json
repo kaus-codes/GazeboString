@@ -1,0 +1,16 @@
+[
+  {
+    "name": "part_012",
+    "color": "BLUE",
+    "shape": "box",
+    "spawn_sim": 9.42,
+    "confirmed_sim": 9.684,
+    "first_pose": [
+      -1.35,
+      -0.095,
+      0.7249608
+    ],
+    "service_reply": "data: true",
+    "service_error": ""
+  }
+]

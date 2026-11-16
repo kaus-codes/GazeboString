@@ -1,0 +1,14 @@
+object_id,event,wall_monotonic_ns,sim_time,details
+attempt_001_track_4,target_selected,3778841778810,4.01,"{""track"": {""color"": ""RED"", ""shape"": ""BOX"", ""confidence"": 0.8675645243064153, ""u"": 408.9501246882793, ""v"": 252.0211970074813, ""bbox"": [399, 240, 21, 25], ""xyz"": [0.16962542995227095, -0.02727087066164291, 0.735], ""area"": 401.0, ""position_uncertainty_m"": 0.004, ""color_confirmed_sim"": 3.236, ""color_confirmed_wall_ns"": 3777634482393, ""id"": 4, ""first_seen"": 3.038, ""last_seen"": 3.962, ""velocity"": [0.014687314202773699, -0.0003176064663379887, -3.5325278056255063e-16], ""hits"": 14, ""first_seen_wall_ns"": 3777380412643, ""eligible"": true}}"
+attempt_001_track_4,planning_start,3778845376685,4.014,{}
+attempt_001_track_4,planning_complete,3778948021102,4.066,{}
+attempt_001_track_4,movement_start,3778949852602,4.07,{}
+attempt_001_track_4,grasp_confirmed,3782839607187,7.038,"{""entity"": ""part_007""}"
+attempt_001_track_4,lift_confirmed,3784222355313,8.234,"{""entity"": ""part_007""}"
+attempt_001_track_4,release,3787605473231,10.974,"{""entity"": ""part_007""}"
+attempt_001_track_4,placement_confirmed,3788508484982,11.8,"{""entity"": ""part_007"", ""evaluated_color"": ""RED"", ""bin_color"": ""RED"", ""eligible_entry"": {""sim_time"": 0.0, ""wall_monotonic_ns"": 3774634915350, ""left_censored"": true}, ""camera_first_detection_sim"": 3.038, ""camera_first_detection_wall_ns"": 3777380412643, ""camera_color_confirmed_sim"": 3.236, ""camera_color_confirmed_wall_ns"": 3777634482393}"
+attempt_002_track_5,target_selected,3788513205440,11.804,"{""track"": {""color"": ""BLUE"", ""shape"": ""ROUND"", ""confidence"": 0.8658592408640684, ""u"": 256.21033210332104, ""v"": 254.33579335793357, ""bbox"": [247, 245, 19, 20], ""xyz"": [-0.12134378454715151, -0.03234045215889492, 0.7349999999999999], ""area"": 271.0, ""position_uncertainty_m"": 0.012, ""color_confirmed_sim"": 3.236, ""color_confirmed_wall_ns"": 3777634497310, ""id"": 5, ""first_seen"": 3.038, ""last_seen"": 11.75, ""velocity"": [0.032619838522463404, 0.009791534025141746, -4.465539243962969e-16], ""hits"": 119, ""first_seen_wall_ns"": 3777380414851, ""eligible"": true}}"
+attempt_002_track_5,planning_start,3788514669273,11.806000000000001,{}
+attempt_002_track_5,planning_complete,3788537924982,11.828,{}
+attempt_002_track_5,movement_start,3788540696607,11.828,{}
+attempt_002_track_5,grasp_confirmed,3791962477942,14.866,"{""entity"": ""part_004""}"

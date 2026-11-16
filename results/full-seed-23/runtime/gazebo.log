@@ -1,0 +1,374 @@
+[1;32m[Msg] [0m[1;32mGazebo Sim Server v[0m[1;32m8.15.0[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mLoading SDF world file[[0m[1;32m/project/worlds/robot_test.sdf[0m[1;32m].[0m
+[1;32m[Msg] [0m[1;32mServing entity system service on [[0m[1;32m/[0m[1;32mentity/system/add[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mCreate[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/create_multiple[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mCreate[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/create_multiple/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mRemove[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/remove[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mRemove[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/remove/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPose[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_pose[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPose[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_pose/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPose[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_pose_vector[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPose[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_pose_vector/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mLight configuration[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/light_config[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mLight configuration[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/light_config/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPhysics[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_physics[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPhysics[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_physics/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mSphericalCoordinates[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_spherical_coordinates[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mSphericalCoordinates[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_spherical_coordinates/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mEnable collision[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/enable_collision[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mEnable collision[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/enable_collision/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mDisable collision[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/disable_collision[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mDisable collision[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/disable_collision/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mMaterial[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/visual_config[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mMaterial[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/visual_config/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mMaterial[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/wheel_slip[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mMaterial[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/wheel_slip/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mLoaded level [[0m[1;32mdefault[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing world controls on [[0m[1;32m/world/rgb_sorting[0m[1;32m/control], [[0m[1;32m/world/rgb_sorting[0m[1;32m/control/state] and [[0m[1;32m/world/rgb_sorting[0m[1;32m/playback/control][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing GUI information on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mgui/info[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mWorld [[0m[1;32mrgb_sorting[0m[1;32m] initialized with [[0m[1;32mphysics[0m[1;32m] physics profile.[0m[1;32m[0m
+[1;32m[Msg] [INFO] [1794805938.942748052] [gz_ros_control]: [gz_ros2_control] Fixed joint ['world_anchor'] (Entity='172') is skipped.
+[INFO] [1794805938.943103385] [gz_ros_control]: [gz_ros2_control] Fixed joint ['suction_joint'] (Entity='180') is skipped.
+[INFO] [1794805938.946153510] [gz_ros_control]: Loading controller_manager
+[INFO] [1794805938.965449010] [controller_manager]: Using ROS clock for triggering controller manager cycles.
+[WARN] [1794805938.966008760] [controller_manager]: The resource manager is not yet initialized, will wait for the robot description to initialize it..
+[INFO] [1794805938.978660760] [controller_manager]: Subscribing to '/robot_description' topic for robot description.
+[WARN] [1794805938.978851385] [gz_ros_control]: Waiting RM to load and initialize hardware...
+[INFO] [1794805939.071090969] [controller_manager]: Received robot description from topic.
+[INFO] [1794805939.071451677] [controller_manager]: Enforcing command limits is disabled. Command limits from URDF will be ignored.
+[INFO] [1794805939.077435552] [gz_ros_control]: The position_proportional_gain has been set to: 0.1
+[INFO] [1794805939.077704844] [gz_ros_control]: Loading joint: panda_joint1
+[INFO] [1794805939.077807802] [gz_ros_control]: 	State:
+[INFO] [1794805939.077956844] [gz_ros_control]: 		 position
+[INFO] [1794805939.078740844] [gz_ros_control]: 			 found initial value: 0.000000
+[INFO] [1794805939.078915135] [gz_ros_control]: 		 velocity
+[INFO] [1794805939.079043135] [gz_ros_control]: 	Command:
+[INFO] [1794805939.079132469] [gz_ros_control]: 		 position
+[INFO] [1794805939.079265469] [gz_ros_control]: Loading joint: panda_joint2
+[INFO] [1794805939.079339219] [gz_ros_control]: 	State:
+[INFO] [1794805939.079415552] [gz_ros_control]: 		 position
+[INFO] [1794805939.079492302] [gz_ros_control]: 			 found initial value: -0.500000
+[INFO] [1794805939.079569885] [gz_ros_control]: 		 velocity
+[INFO] [1794805939.079650177] [gz_ros_control]: 	Command:
+[INFO] [1794805939.079727469] [gz_ros_control]: 		 position
+[INFO] [1794805939.079806385] [gz_ros_control]: Loading joint: panda_joint3
+[INFO] [1794805939.079905094] [gz_ros_control]: 	State:
+[INFO] [1794805939.079986052] [gz_ros_control]: 		 position
+[INFO] [1794805939.080064677] [gz_ros_control]: 			 found initial value: 0.000000
+[INFO] [1794805939.080143802] [gz_ros_control]: 		 velocity
+[INFO] [1794805939.080232427] [gz_ros_control]: 	Command:
+[INFO] [1794805939.080309719] [gz_ros_control]: 		 position
+[INFO] [1794805939.080413344] [gz_ros_control]: Loading joint: panda_joint4
+[INFO] [1794805939.080494427] [gz_ros_control]: 	State:
+[INFO] [1794805939.080573344] [gz_ros_control]: 		 position
+[INFO] [1794805939.080644760] [gz_ros_control]: 			 found initial value: -2.000000
+[INFO] [1794805939.080714594] [gz_ros_control]: 		 velocity
+[INFO] [1794805939.080793635] [gz_ros_control]: 	Command:
+[INFO] [1794805939.080871302] [gz_ros_control]: 		 position
+[INFO] [1794805939.080956052] [gz_ros_control]: Loading joint: panda_joint5
+[INFO] [1794805939.081033927] [gz_ros_control]: 	State:
+[INFO] [1794805939.081117052] [gz_ros_control]: 		 position
+[INFO] [1794805939.081192302] [gz_ros_control]: 			 found initial value: 0.000000
+[INFO] [1794805939.081264302] [gz_ros_control]: 		 velocity
+[INFO] [1794805939.081340302] [gz_ros_control]: 	Command:
+[INFO] [1794805939.081408385] [gz_ros_control]: 		 position
+[INFO] [1794805939.081483719] [gz_ros_control]: Loading joint: panda_joint6
+[INFO] [1794805939.081557927] [gz_ros_control]: 	State:
+[INFO] [1794805939.081637635] [gz_ros_control]: 		 position
+[INFO] [1794805939.081711427] [gz_ros_control]: 			 found initial value: 1.500000
+[INFO] [1794805939.081779052] [gz_ros_control]: 		 velocity
+[INFO] [1794805939.081846219] [gz_ros_control]: 	Command:
+[INFO] [1794805939.081924010] [gz_ros_control]: 		 position
+[INFO] [1794805939.081997344] [gz_ros_control]: Loading joint: panda_joint7
+[INFO] [1794805939.082069927] [gz_ros_control]: 	State:
+[INFO] [1794805939.082145052] [gz_ros_control]: 		 position
+[INFO] [1794805939.082222760] [gz_ros_control]: 			 found initial value: 0.785398
+[INFO] [1794805939.082519427] [gz_ros_control]: 		 velocity
+[INFO] [1794805939.082887844] [gz_ros_control]: 	Command:
+[INFO] [1794805939.083012385] [gz_ros_control]: 		 position
+[INFO] [1794805939.083770177] [controller_manager]: Initialize hardware 'GazeboSystem' 
+[WARN] [1794805939.083893344] [controller_manager.hardware_component.system.GazeboSystem]: Executor is not available during hardware component initialization for 'GazeboSystem'. Skipping node creation!
+[INFO] [1794805939.084237885] [controller_manager]: Successful initialization of hardware 'GazeboSystem'
+[INFO] [1794805939.084854719] [controller_manager]: Activating component 'GazeboSystem'.
+[INFO] [1794805939.084962385] [resource_manager]: 'configure' hardware 'GazeboSystem' 
+[INFO] [1794805939.085089010] [gz_ros_control]: System Successfully configured!
+[INFO] [1794805939.086016219] [resource_manager]: Successful 'configure' of hardware 'GazeboSystem'
+[INFO] [1794805939.086120802] [resource_manager]: 'activate' hardware 'GazeboSystem' 
+[INFO] [1794805939.086220719] [resource_manager]: Successful 'activate' of hardware 'GazeboSystem'
+[WARN] [1794805939.086437719] [controller_manager]: Component 'GazeboSystem' does not have read or write statistics initialized, skipping registration.
+[INFO] [1794805939.086553635] [controller_manager]: Resource Manager has been successfully initialized. Starting Controller Manager services...
+[WARN] [1794805941.415300761] [gz_ros_control]:  Desired controller update period (0.004 s) is slower than the gazebo simulation period (0.002 s).
+[1;33m[Wrn] [Component.hh:127] [0m[1;33mTrying to serialize component with data type [[0m[1;33mSt10shared_ptrIN3sdf3v147ElementEE[0m[1;33m], which doesn't have [0m[1;33m`operator<<`. Component will not be serialized.[0m[1;33m[0m
+[INFO] [1794805942.606153554] [controller_manager]: Loading controller : 'joint_state_broadcaster' of type 'joint_state_broadcaster/JointStateBroadcaster'
+[INFO] [1794805942.606725845] [controller_manager]: Loading controller 'joint_state_broadcaster'
+[INFO] [1794805942.630305595] [controller_manager]: Controller 'joint_state_broadcaster' node arguments: --ros-args --params-file /project/config/controllers.yaml -p use_sim_time:=true --param use_sim_time:=true 
+[0m[1;32mServing world SDF generation service on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mgenerate_world_sdf[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing world names on [[0m[1;32m/gazebo/worlds[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mResource path add service on [[0m[1;32m/gazebo/resource_paths/add[0m[1;32m].[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mResource path get service on [[0m[1;32m/gazebo/resource_paths/get[0m[1;32m].[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mResource path resolve service on [[0m[1;32m/gazebo/resource_paths/resolve[0m[1;32m].[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mResource paths published on [[0m[1;32m/gazebo/resource_paths[0m[1;32m].[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServer control service on [[0m[1;32m/server_control[0m[1;32m].[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mFound no publishers on /stats, adding root stats topic[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mFound no publishers on /clock, adding root clock topic[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mContact system publishing on [0m[1;32mworld/rgb_sorting/model/panda/link/suction_cup/sensor/suction_contact/contact[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mEnabled contact surface customization for world entity [[0m[1;32m1[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mEnabling contact surface customization for collision [[0m[1;32mcollision[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mLoading plugin [[0m[1;32mgz-rendering-ogre2[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing scene information on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mscene/info[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing graph information on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mscene/graph[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing full state on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mstate[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing full state (async) on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mstate_async[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPublishing scene information on [[0m[1;32m/world/rgb_sorting/scene/info[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPublishing entity deletions on [[0m[1;32m/world/rgb_sorting/scene/deletion[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPublishing state changes on [[0m[1;32m/world/rgb_sorting/state[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPublishing pose messages on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mpose/info[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPublishing dynamic pose messages on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mdynamic_pose/info[0m[1;32m][0m[1;32m[0m
+[1;33m[Wrn] [Ogre2Camera.cc:423] [0m[1;33mOgre2Camera::SetVisibilityMask: Mask bits [0m[1;33mc0000000[0m[1;33m are set but will be ignored as they conflict with the [0m[1;33mreserved bits used internally by the ogre2 backend.[0m[1;33m[0m
+[1;33m[Wrn] [Ogre2RenderTarget.cc:668] [0m[1;33mAnti-aliasing level of '[0m[1;33m[0m[1;33m' [0m[1;33mis not supported; valid FSAA levels are: [0m[1;33m[ 0 ][0m[1;33m. Setting to 1[0m[1;33m[0m
+[INFO] [1794805947.326673542] [controller_manager]: Configuring controller: 'joint_state_broadcaster'
+[INFO] [1794805947.337090250] [joint_state_broadcaster]: 'joints' or 'interfaces' parameter is empty. All available state interfaces will be published
+[INFO] [1794805947.513455083] [controller_manager]: Activating controllers: [ joint_state_broadcaster ]
+[INFO] [1794805947.519437500] [controller_manager]: Activated controllers: [ joint_state_broadcaster ]
+[INFO] [1794805947.521526375] [controller_manager]: Successfully switched controllers!
+[INFO] [1794805947.532996917] [controller_manager]: Loading controller : 'arm_controller' of type 'joint_trajectory_controller/JointTrajectoryController'
+[INFO] [1794805947.533530250] [controller_manager]: Loading controller 'arm_controller'
+[INFO] [1794805947.567935542] [controller_manager]: Controller 'arm_controller' node arguments: --ros-args --params-file /project/config/controllers.yaml -p use_sim_time:=true --param use_sim_time:=true 
+[INFO] [1794805947.615742167] [controller_manager]: Configuring controller: 'arm_controller'
+[INFO] [1794805947.617018708] [arm_controller]: No specific joint names are used for command interfaces. Using 'joints' parameter.
+[INFO] [1794805947.621657000] [arm_controller]: Command interfaces are [position] and state interfaces are [position velocity].
+[INFO] [1794805947.623385000] [arm_controller]: Using 'splines' interpolation method.
+[INFO] [1794805947.662680750] [arm_controller]: Action status changes will be monitored at 20.00 Hz.
+[INFO] [1794805947.700195458] [arm_controller]: Setting initial scaling factor to 1.000000
+[INFO] [1794805947.701161375] [arm_controller]: No scaling interface set. This controller will not read speed scaling from the hardware.
+[INFO] [1794805947.709588708] [controller_manager]: Activating controllers: [ arm_controller ]
+[INFO] [1794805947.712587042] [controller_manager]: Activated controllers: [ arm_controller ]
+[INFO] [1794805947.712858500] [controller_manager]: Successfully switched controllers!
+[INFO] [1794805962.568118507] [arm_controller]: Received new action goal
+[INFO] [1794805962.570199757] [arm_controller]: Accepted new action goal
+[INFO] [1794805966.628013176] [arm_controller]: Goal reached, success!
+[INFO] [1794805966.866998968] [arm_controller]: Received new action goal
+[INFO] [1794805966.868940634] [arm_controller]: Accepted new action goal
+[INFO] [1794805968.059943468] [arm_controller]: Got request to cancel goal
+[INFO] [1794805968.070791801] [arm_controller]: Canceling active action goal because cancel callback received.
+[INFO] [1794805968.248025677] [arm_controller]: Received new action goal
+[INFO] [1794805968.258364135] [arm_controller]: Accepted new action goal
+[INFO] [1794805970.381821386] [arm_controller]: Goal reached, success!
+[INFO] [1794805970.583692344] [arm_controller]: Received new action goal
+[INFO] [1794805970.584447053] [arm_controller]: Accepted new action goal
+[INFO] [1794805974.637355221] [arm_controller]: Goal reached, success!
+[INFO] [1794805976.920076458] [arm_controller]: Received new action goal
+[INFO] [1794805976.920801708] [arm_controller]: Accepted new action goal
+[INFO] [1794805982.377383336] [arm_controller]: Goal reached, success!
+[INFO] [1794805988.065543297] [arm_controller]: Received new action goal
+[INFO] [1794805988.080550088] [arm_controller]: Accepted new action goal
+[INFO] [1794805993.464196466] [arm_controller]: Goal reached, success!
+[INFO] [1794805993.807390758] [arm_controller]: Received new action goal
+[INFO] [1794805993.813745716] [arm_controller]: Accepted new action goal
+[INFO] [1794805995.718037050] [arm_controller]: Got request to cancel goal
+[INFO] [1794805995.718649634] [arm_controller]: Canceling active action goal because cancel callback received.
+[INFO] [1794805995.857722759] [arm_controller]: Received new action goal
+[INFO] [1794805995.858144384] [arm_controller]: Accepted new action goal
+[INFO] [1794805997.792823468] [arm_controller]: Goal reached, success!
+[INFO] [1794805997.969005968] [arm_controller]: Received new action goal
+[INFO] [1794805997.969543510] [arm_controller]: Accepted new action goal
+[INFO] [1794806003.253924887] [arm_controller]: Goal reached, success!
+[INFO] [1794806006.184331472] [arm_controller]: Received new action goal
+[INFO] [1794806006.185462514] [arm_controller]: Accepted new action goal
+[INFO] [1794806009.975848584] [arm_controller]: Goal reached, success!
+[INFO] [1794806031.475366845] [arm_controller]: Received new action goal
+[INFO] [1794806031.476374678] [arm_controller]: Accepted new action goal
+[INFO] [1794806035.964080680] [arm_controller]: Goal reached, success!
+[INFO] [1794806036.025766805] [arm_controller]: Received new action goal
+[INFO] [1794806036.028397555] [arm_controller]: Accepted new action goal
+[INFO] [1794806037.174624208] [arm_controller]: Got request to cancel goal
+[INFO] [1794806037.181499083] [arm_controller]: Canceling active action goal because cancel callback received.
+[INFO] [1794806037.294156333] [arm_controller]: Received new action goal
+[INFO] [1794806037.298079667] [arm_controller]: Accepted new action goal
+[INFO] [1794806039.595566709] [arm_controller]: Goal reached, success!
+[INFO] [1794806039.782291751] [arm_controller]: Received new action goal
+[INFO] [1794806039.784697293] [arm_controller]: Accepted new action goal
+[INFO] [1794806045.495551629] [arm_controller]: Goal reached, success!
+[INFO] [1794806050.748096423] [arm_controller]: Received new action goal
+[INFO] [1794806050.748491631] [arm_controller]: Accepted new action goal
+[INFO] [1794806057.470163051] [arm_controller]: Goal reached, success!
+[INFO] [1794806057.591012593] [arm_controller]: Received new action goal
+[INFO] [1794806057.591727093] [arm_controller]: Accepted new action goal
+[INFO] [1794806062.241628262] [arm_controller]: Goal reached, success!
+[INFO] [1794806062.308429845] [arm_controller]: Received new action goal
+[INFO] [1794806062.310287595] [arm_controller]: Accepted new action goal
+[INFO] [1794806064.508946680] [arm_controller]: Got request to cancel goal
+[INFO] [1794806064.510259221] [arm_controller]: Canceling active action goal because cancel callback received.
+[INFO] [1794806064.608144930] [arm_controller]: Received new action goal
+[INFO] [1794806064.608483096] [arm_controller]: Accepted new action goal
+[INFO] [1794806067.480293833] [arm_controller]: Goal reached, success!
+[INFO] [1794806067.700160833] [arm_controller]: Received new action goal
+[INFO] [1794806067.702106542] [arm_controller]: Accepted new action goal
+[INFO] [1794806071.167565168] [arm_controller]: Goal reached, success!
+[INFO] [1794806074.586413087] [arm_controller]: Received new action goal
+[INFO] [1794806074.590592212] [arm_controller]: Accepted new action goal
+[INFO] [1794806077.740572047] [arm_controller]: Goal reached, success!
+[INFO] [1794806158.864496501] [arm_controller]: Received new action goal
+[INFO] [1794806158.865875667] [arm_controller]: Accepted new action goal
+[INFO] [1794806164.579831920] [arm_controller]: Goal reached, success!
+[INFO] [1794806164.705778962] [arm_controller]: Received new action goal
+[INFO] [1794806164.706211128] [arm_controller]: Accepted new action goal
+[INFO] [1794806165.894323754] [arm_controller]: Got request to cancel goal
+[INFO] [1794806165.894797546] [arm_controller]: Canceling active action goal because cancel callback received.
+[INFO] [1794806165.974591504] [arm_controller]: Received new action goal
+[INFO] [1794806165.976950921] [arm_controller]: Accepted new action goal
+[INFO] [1794806168.379884422] [arm_controller]: Goal reached, success!
+[INFO] [1794806168.571912880] [arm_controller]: Received new action goal
+[INFO] [1794806168.573637505] [arm_controller]: Accepted new action goal
+[INFO] [1794806173.615624549] [arm_controller]: Goal reached, success!
+[INFO] [1794806178.174218635] [arm_controller]: Received new action goal
+[INFO] [1794806178.177425760] [arm_controller]: Accepted new action goal
+[INFO] [1794806185.252570472] [arm_controller]: Goal reached, success!
+[INFO] [1794806216.318572680] [arm_controller]: Received new action goal
+[INFO] [1794806216.320573764] [arm_controller]: Accepted new action goal
+[INFO] [1794806224.245931503] [arm_controller]: Goal reached, success!
+[INFO] [1794806224.301496003] [arm_controller]: Received new action goal
+[INFO] [1794806224.302236170] [arm_controller]: Accepted new action goal
+[INFO] [1794806225.649221712] [arm_controller]: Got request to cancel goal
+[INFO] [1794806225.649546754] [arm_controller]: Canceling active action goal because cancel callback received.
+[INFO] [1794806225.746646046] [arm_controller]: Received new action goal
+[INFO] [1794806225.746808046] [arm_controller]: Accepted new action goal
+[INFO] [1794806228.651229547] [arm_controller]: Goal reached, success!
+[INFO] [1794806228.883313922] [arm_controller]: Received new action goal
+[INFO] [1794806228.884800297] [arm_controller]: Accepted new action goal
+[INFO] [1794806235.040451467] [arm_controller]: Goal reached, success!
+[INFO] [1794806245.115075971] [arm_controller]: Received new action goal
+[INFO] [1794806245.144178680] [arm_controller]: Accepted new action goal
+[INFO] [1794806249.333422584] [arm_controller]: Goal reached, success!
+[INFO] [1794806255.093666254] [arm_controller]: Received new action goal
+[INFO] [1794806255.095449712] [arm_controller]: Accepted new action goal
+[INFO] [1794806260.106344256] [arm_controller]: Goal reached, success!
+[INFO] [1794806260.208301548] [arm_controller]: Received new action goal
+[INFO] [1794806260.209622881] [arm_controller]: Accepted new action goal
+[INFO] [1794806261.706545548] [arm_controller]: Got request to cancel goal
+[INFO] [1794806261.707097340] [arm_controller]: Canceling active action goal because cancel callback received.
+[INFO] [1794806261.791608173] [arm_controller]: Received new action goal
+[INFO] [1794806261.792507840] [arm_controller]: Accepted new action goal
+[INFO] [1794806265.051781883] [arm_controller]: Goal reached, success!
+[INFO] [1794806265.215430258] [arm_controller]: Received new action goal
+[INFO] [1794806265.216364508] [arm_controller]: Accepted new action goal
+[INFO] [1794806269.628683469] [arm_controller]: Goal reached, success!
+[INFO] [1794806275.988242680] [arm_controller]: Received new action goal
+[INFO] [1794806275.992889138] [arm_controller]: Accepted new action goal
+[INFO] [1794806281.964244835] [arm_controller]: Goal reached, success!
+[INFO] [1794806282.107580085] [arm_controller]: Received new action goal
+[INFO] [1794806282.108723002] [arm_controller]: Accepted new action goal
+[INFO] [1794806286.463818004] [arm_controller]: Goal reached, success!
+[INFO] [1794806286.515118463] [arm_controller]: Received new action goal
+[INFO] [1794806286.515526963] [arm_controller]: Accepted new action goal
+[INFO] [1794806288.452767380] [arm_controller]: Got request to cancel goal
+[INFO] [1794806288.453188172] [arm_controller]: Canceling active action goal because cancel callback received.
+[INFO] [1794806288.565293047] [arm_controller]: Received new action goal
+[INFO] [1794806288.566521380] [arm_controller]: Accepted new action goal
+[INFO] [1794806291.786253465] [arm_controller]: Goal reached, success!
+[INFO] [1794806292.175903799] [arm_controller]: Received new action goal
+[INFO] [1794806292.191092632] [arm_controller]: Accepted new action goal
+[INFO] [1794806299.182145469] [arm_controller]: Goal reached, success!
+[INFO] [1794806306.733085625] [arm_controller]: Received new action goal
+[INFO] [1794806306.734188291] [arm_controller]: Accepted new action goal
+[INFO] [1794806312.255593710] [arm_controller]: Goal reached, success!
+[INFO] [1794806348.903416089] [arm_controller]: Received new action goal
+[INFO] [1794806348.911182130] [arm_controller]: Accepted new action goal
+[INFO] [1794806356.705745842] [arm_controller]: Goal reached, success!
+[INFO] [1794806356.773181509] [arm_controller]: Received new action goal
+[INFO] [1794806356.774319092] [arm_controller]: Accepted new action goal
+[INFO] [1794806358.385049176] [arm_controller]: Got request to cancel goal
+[INFO] [1794806358.385272718] [arm_controller]: Canceling active action goal because cancel callback received.
+[INFO] [1794806358.503601718] [arm_controller]: Received new action goal
+[INFO] [1794806358.503736385] [arm_controller]: Accepted new action goal
+[INFO] [1794806361.908835636] [arm_controller]: Goal reached, success!
+[INFO] [1794806362.069226053] [arm_controller]: Received new action goal
+[INFO] [1794806362.069662637] [arm_controller]: Accepted new action goal
+[INFO] [1794806367.517328708] [arm_controller]: Goal reached, success!
+[INFO] [1794806369.807267084] [arm_controller]: Received new action goal
+[INFO] [1794806369.807763793] [arm_controller]: Accepted new action goal
+[INFO] [1794806376.973504296] [arm_controller]: Goal reached, success!
+[INFO] [1794806377.094100088] [arm_controller]: Received new action goal
+[INFO] [1794806377.094846754] [arm_controller]: Accepted new action goal
+[INFO] [1794806383.086774466] [arm_controller]: Goal reached, success!
+[INFO] [1794806383.209405924] [arm_controller]: Received new action goal
+[INFO] [1794806383.210467632] [arm_controller]: Accepted new action goal
+[INFO] [1794806385.209782467] [arm_controller]: Got request to cancel goal
+[INFO] [1794806385.211905008] [arm_controller]: Canceling active action goal because cancel callback received.
+[INFO] [1794806385.299167258] [arm_controller]: Received new action goal
+[INFO] [1794806385.299697842] [arm_controller]: Accepted new action goal
+[INFO] [1794806388.611133302] [arm_controller]: Goal reached, success!
+[INFO] [1794806388.790723218] [arm_controller]: Received new action goal
+[INFO] [1794806388.792983135] [arm_controller]: Accepted new action goal
+[INFO] [1794806395.530831638] [arm_controller]: Goal reached, success!
+[INFO] [1794806397.412155750] [arm_controller]: Received new action goal
+[INFO] [1794806397.412364416] [arm_controller]: Accepted new action goal
+[INFO] [1794806401.743664335] [arm_controller]: Goal reached, success!
+[INFO] [1794806401.838170044] [arm_controller]: Received new action goal
+[INFO] [1794806401.838396169] [arm_controller]: Accepted new action goal
+[INFO] [1794806407.717505296] [arm_controller]: Goal reached, success!
+[INFO] [1794806407.780428796] [arm_controller]: Received new action goal
+[INFO] [1794806407.782456380] [arm_controller]: Accepted new action goal
+[INFO] [1794806409.805705131] [arm_controller]: Got request to cancel goal
+[INFO] [1794806409.808910672] [arm_controller]: Canceling active action goal because cancel callback received.
+[INFO] [1794806409.912029131] [arm_controller]: Received new action goal
+[INFO] [1794806409.918232422] [arm_controller]: Accepted new action goal
+[INFO] [1794806413.520832007] [arm_controller]: Goal reached, success!
+[INFO] [1794806413.630482174] [arm_controller]: Received new action goal
+[INFO] [1794806413.630810841] [arm_controller]: Accepted new action goal
+[INFO] [1794806420.626085553] [arm_controller]: Goal reached, success!
+[INFO] [1794806427.763461917] [arm_controller]: Received new action goal
+[INFO] [1794806427.764520917] [arm_controller]: Accepted new action goal
+[INFO] [1794806435.415718129] [arm_controller]: Goal reached, success!
+[INFO] [1794806436.679184546] [arm_controller]: Received new action goal
+[INFO] [1794806436.679717379] [arm_controller]: Accepted new action goal
+[INFO] [1794806443.419421091] [arm_controller]: Goal reached, success!
+[INFO] [1794806443.522417966] [arm_controller]: Received new action goal
+[INFO] [1794806443.524601382] [arm_controller]: Accepted new action goal
+[INFO] [1794806445.777078259] [arm_controller]: Got request to cancel goal
+[INFO] [1794806445.777912342] [arm_controller]: Canceling active action goal because cancel callback received.
+[INFO] [1794806445.909776217] [arm_controller]: Received new action goal
+[INFO] [1794806445.910712425] [arm_controller]: Accepted new action goal
+[INFO] [1794806449.094445635] [arm_controller]: Goal reached, success!
+[INFO] [1794806449.206878135] [arm_controller]: Received new action goal
+[INFO] [1794806449.209862052] [arm_controller]: Accepted new action goal
+[INFO] [1794806455.020654930] [arm_controller]: Goal reached, success!
+[INFO] [1794806457.522301083] [arm_controller]: Received new action goal
+[INFO] [1794806457.522625625] [arm_controller]: Accepted new action goal
+[INFO] [1794806462.721201086] [arm_controller]: Goal reached, success!
+[INFO] [1794806462.824682627] [arm_controller]: Received new action goal
+[INFO] [1794806462.825393211] [arm_controller]: Accepted new action goal
+[INFO] [1794806468.287353505] [arm_controller]: Goal reached, success!
+[INFO] [1794806468.385812130] [arm_controller]: Received new action goal
+[INFO] [1794806468.386169338] [arm_controller]: Accepted new action goal
+[INFO] [1794806470.700629798] [arm_controller]: Got request to cancel goal
+[INFO] [1794806470.701024381] [arm_controller]: Canceling active action goal because cancel callback received.
+[INFO] [1794806470.798324798] [arm_controller]: Received new action goal
+[INFO] [1794806470.799942256] [arm_controller]: Accepted new action goal
+[INFO] [1794806476.094807134] [arm_controller]: Goal reached, success!
+[INFO] [1794806476.198665342] [arm_controller]: Received new action goal
+[INFO] [1794806476.199105967] [arm_controller]: Accepted new action goal
+[INFO] [1794806482.105432470] [arm_controller]: Goal reached, success!
+[INFO] [1794806484.372440513] [arm_controller]: Received new action goal
+[INFO] [1794806484.374009804] [arm_controller]: Accepted new action goal
+[INFO] [1794806492.048759044] [arm_controller]: Goal reached, success!
+[INFO] [1794806492.174975669] [arm_controller]: Received new action goal
+[INFO] [1794806492.175810210] [arm_controller]: Accepted new action goal
+[INFO] [1794806498.605187422] [arm_controller]: Goal reached, success!
+[INFO] [1794806498.651481547] [arm_controller]: Received new action goal
+[INFO] [1794806498.652278588] [arm_controller]: Accepted new action goal
+[INFO] [1794806500.713987048] [arm_controller]: Got request to cancel goal
+[INFO] [1794806500.714548881] [arm_controller]: Canceling active action goal because cancel callback received.
+[INFO] [1794806500.811450381] [arm_controller]: Received new action goal
+[INFO] [1794806500.812070965] [arm_controller]: Accepted new action goal
+[INFO] [1794806504.886180633] [arm_controller]: Goal reached, success!
+[INFO] [1794806505.200441175] [arm_controller]: Received new action goal
+[INFO] [1794806505.200924717] [arm_controller]: Accepted new action goal
+[INFO] [1794806518.507878584] [arm_controller]: Goal reached, success!
+[INFO] [1794806524.312699961] [arm_controller]: Received new action goal
+[INFO] [1794806524.315130545] [arm_controller]: Accepted new action goal
+[INFO] [1794806536.507082342] [arm_controller]: Goal reached, success!
+[INFO] [1794806542.387488887] [controller_manager.pal_statistics]: Async messages lost 0
+[INFO] [1794806542.389369512] [controller_manager.pal_statistics]: publish_async_failures_ 0
+[INFO] [1794806542.937013262] [controller_manager.pal_statistics]: Async messages lost 0
+[INFO] [1794806542.937398429] [controller_manager.pal_statistics]: publish_async_failures_ 0

@@ -1,0 +1,90 @@
+{
+  "seed": 11,
+  "mode": "standard",
+  "objects": [
+    {
+      "name": "part_000",
+      "color": "GREEN",
+      "shape": "box",
+      "x": -1.3,
+      "y": -0.095
+    },
+    {
+      "name": "part_001",
+      "color": "BLUE",
+      "shape": "cylinder",
+      "x": -1.09,
+      "y": 0.0
+    },
+    {
+      "name": "part_002",
+      "color": "BLUE",
+      "shape": "sphere",
+      "x": -0.8800000000000001,
+      "y": 0.095
+    },
+    {
+      "name": "part_003",
+      "color": "BLUE",
+      "shape": "box",
+      "x": -0.67,
+      "y": -0.095
+    },
+    {
+      "name": "part_004",
+      "color": "YELLOW",
+      "shape": "cylinder",
+      "x": -0.4600000000000001,
+      "y": 0.0
+    },
+    {
+      "name": "part_005",
+      "color": "BLUE",
+      "shape": "sphere",
+      "x": -0.25,
+      "y": 0.095
+    },
+    {
+      "name": "part_006",
+      "color": "ORANGE",
+      "shape": "box",
+      "x": -0.040000000000000036,
+      "y": -0.095
+    },
+    {
+      "name": "part_007",
+      "color": "RED",
+      "shape": "cylinder",
+      "x": 0.16999999999999993,
+      "y": 0.0
+    },
+    {
+      "name": "part_008",
+      "color": "GREEN",
+      "shape": "sphere",
+      "x": 0.3799999999999999,
+      "y": 0.095
+    },
+    {
+      "name": "part_009",
+      "color": "RED",
+      "shape": "box",
+      "x": 0.5899999999999999,
+      "y": -0.095
+    },
+    {
+      "name": "part_010",
+      "color": "BLUE",
+      "shape": "cylinder",
+      "x": 0.8,
+      "y": 0.0
+    },
+    {
+      "name": "part_011",
+      "color": "RED",
+      "shape": "sphere",
+      "x": 1.01,
+      "y": 0.095
+    }
+  ]
+}

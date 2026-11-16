@@ -1,0 +1,4 @@
+[INFO] [1794800517.820291543] [ros_gz_bridge]: Creating GZ->ROS Bridge: [/clock (gz.msgs.Clock) -> /clock (rosgraph_msgs/msg/Clock)] (Lazy 0)
+[INFO] [1794800517.845615209] [ros_gz_bridge]: Creating GZ->ROS Bridge: [/sorting/rgb (gz.msgs.Image) -> /sorting/rgb (sensor_msgs/msg/Image)] (Lazy 0)
+[INFO] [1794800517.860777709] [ros_gz_bridge]: Creating GZ->ROS Bridge: [/sorting/camera_info (gz.msgs.CameraInfo) -> /sorting/camera_info (sensor_msgs/msg/CameraInfo)] (Lazy 0)
+[INFO] [1794800791.374195917] [rclcpp]: signal_handler(SIGINT/SIGTERM)

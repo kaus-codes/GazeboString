@@ -1,0 +1,79 @@
+Built Panda URDF from /opt/ros/jazzy/share/moveit_resources_panda_description
+Resolved suction contact collision: suction_cup_fixed_joint_lump__suction_collision_collision
+Robot spawn accepted
+[INFO] [1794796180.555324500] [spawner_joint_state_broadcaster]: Loaded joint_state_broadcaster
+[INFO] [1794796186.122016877] [spawner_joint_state_broadcaster]: Configured and activated joint_state_broadcaster
+[INFO] [1794796186.181479419] [spawner_joint_state_broadcaster]: Loaded arm_controller
+[INFO] [1794796186.229751044] [spawner_joint_state_broadcaster]: Configured and activated arm_controller
+{
+  "passed": false,
+  "error": "name 'state' is not defined",
+  "seed": 11,
+  "verified_placements": 0,
+  "attempts": 0,
+  "failed_attempts": 0,
+  "incorrect_picks": 0,
+  "sequence": {
+    "complete": false,
+    "target": "RED",
+    "red": 0,
+    "blue": 0,
+    "pairs": 0,
+    "successful_picks": 0,
+    "remaining_pairs": 7,
+    "errors": [],
+    "placements": []
+  },
+  "wall_seconds": 0.509366875,
+  "sim_seconds": null,
+  "seven_pair_elapsed_time_wall_s": null
+}
+Traceback (most recent call last):
+  File "/project/src/sorter.py", line 75, in run
+    self.motion.ready();self.motion.add_world('/project/worlds/robot_test.sdf');self.first_sim=self.audit.sim;self.first_wall=time.monotonic_ns();self.feeder.start();self.status('WAIT_FOR_TARGET')
+    ^^^^^^^^^^^^^^^^^^^
+  File "/project/src/motion.py", line 32, in ready
+    if not self.until(lambda:self.joints is not None,15):raise RuntimeError('joint states unavailable')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/project/src/motion.py", line 22, in until
+    rclpy.spin_once(self.node,timeout_sec=.03)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/__init__.py", line 226, in spin_once
+    executor.spin_once(timeout_sec=timeout_sec)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 926, in spin_once
+    self._spin_once_impl(timeout_sec)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 918, in _spin_once_impl
+    raise handler.exception()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/task.py", line 286, in _execute_coroutine_step
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 592, in handler
+    await call_coroutine()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 454, in _execute
+    await await_or_execute(tmr.callback)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 115, in await_or_execute
+    return callback(*args)
+           ^^^^^^^^^^^^^^^
+  File "/project/src/sorter.py", line 23, in publish_status
+    s={'state':state,'current_target':self.validator.target,'selected':self.selected,'attempted_picks':self.attempts,'failed_attempts':self.failed,'incorrect_picks':self.incorrect,'wall_elapsed':(time.monotonic_ns()-self.first_wall)/1e9,'sim_time':self.audit.sim,'sequence':self.validator.summary(),'latest_perception_ms':self.latest.get('processing_ms')}
+               ^^^^^
+NameError: name 'state' is not defined. Did you mean: 'self.state'?
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/project/src/sorter.py", line 102, in <module>
+    if __name__=='__main__':raise SystemExit(main())
+                                             ^^^^^^
+  File "/project/src/sorter.py", line 100, in main
+    try:return n.run()
+               ^^^^^^^
+  File "/project/src/sorter.py", line 90, in run
+    except Exception as e:report['error']=str(e);self.status('FAILED')
+                                                 ^^^^^^^^^^^^^^^^^^^^^
+  File "/project/src/sorter.py", line 21, in status
+    self.state=state;self.publish_status();print(state,'target',self.validator.target,'placements',len(self.validator.placements),flush=True)
+                     ^^^^^^^^^^^^^^^^^^^^^
+  File "/project/src/sorter.py", line 23, in publish_status
+    s={'state':state,'current_target':self.validator.target,'selected':self.selected,'attempted_picks':self.attempts,'failed_attempts':self.failed,'incorrect_picks':self.incorrect,'wall_elapsed':(time.monotonic_ns()-self.first_wall)/1e9,'sim_time':self.audit.sim,'sequence':self.validator.summary(),'latest_perception_ms':self.latest.get('processing_ms')}
+               ^^^^^
+NameError: name 'state' is not defined. Did you mean: 'self.state'?

@@ -1,0 +1,147 @@
+[1;32m[Msg] [0m[1;32mGazebo Sim Server v[0m[1;32m8.15.0[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mLoading SDF world file[[0m[1;32m/project/worlds/robot_test.sdf[0m[1;32m].[0m
+[1;32m[Msg] [0m[1;32mServing entity system service on [[0m[1;32m/[0m[1;32mentity/system/add[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mCreate[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/create_multiple[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mCreate[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/create_multiple/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mRemove[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/remove[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mRemove[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/remove/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPose[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_pose[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPose[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_pose/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPose[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_pose_vector[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPose[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_pose_vector/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mLight configuration[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/light_config[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mLight configuration[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/light_config/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPhysics[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_physics[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPhysics[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_physics/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mSphericalCoordinates[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_spherical_coordinates[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mSphericalCoordinates[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/set_spherical_coordinates/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mEnable collision[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/enable_collision[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mEnable collision[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/enable_collision/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mDisable collision[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/disable_collision[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mDisable collision[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/disable_collision/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mMaterial[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/visual_config[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mMaterial[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/visual_config/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mMaterial[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/wheel_slip[0m[1;32m] (async)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mMaterial[0m[1;32m service on [[0m[1;32m/world/rgb_sorting/wheel_slip/blocking[0m[1;32m] (blocking)[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mLoaded level [[0m[1;32mdefault[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing world controls on [[0m[1;32m/world/rgb_sorting[0m[1;32m/control], [[0m[1;32m/world/rgb_sorting[0m[1;32m/control/state] and [[0m[1;32m/world/rgb_sorting[0m[1;32m/playback/control][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing GUI information on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mgui/info[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mWorld [[0m[1;32mrgb_sorting[0m[1;32m] initialized with [[0m[1;32mphysics[0m[1;32m] physics profile.[0m[1;32m[0m
+[1;32m[Msg] [INFO] [1794797124.313815089] [gz_ros_control]: [gz_ros2_control] Fixed joint ['world_anchor'] (Entity='162') is skipped.
+[INFO] [1794797124.314319505] [gz_ros_control]: [gz_ros2_control] Fixed joint ['suction_joint'] (Entity='170') is skipped.
+[INFO] [1794797124.317356672] [gz_ros_control]: Loading controller_manager
+[INFO] [1794797124.348497130] [controller_manager]: Using ROS clock for triggering controller manager cycles.
+[WARN] [1794797124.349083464] [controller_manager]: The resource manager is not yet initialized, will wait for the robot description to initialize it..
+[INFO] [1794797124.367676964] [controller_manager]: Subscribing to '/robot_description' topic for robot description.
+[WARN] [1794797124.367892297] [gz_ros_control]: Waiting RM to load and initialize hardware...
+[INFO] [1794797124.467665380] [controller_manager]: Received robot description from topic.
+[INFO] [1794797124.468525339] [controller_manager]: Enforcing command limits is disabled. Command limits from URDF will be ignored.
+[INFO] [1794797124.505238214] [gz_ros_control]: The position_proportional_gain has been set to: 0.1
+[INFO] [1794797124.505583964] [gz_ros_control]: Loading joint: panda_joint1
+[INFO] [1794797124.505670255] [gz_ros_control]: 	State:
+[INFO] [1794797124.505789005] [gz_ros_control]: 		 position
+[INFO] [1794797124.505933172] [gz_ros_control]: 			 found initial value: 0.000000
+[INFO] [1794797124.506052755] [gz_ros_control]: 		 velocity
+[INFO] [1794797124.506153047] [gz_ros_control]: 	Command:
+[INFO] [1794797124.506224547] [gz_ros_control]: 		 position
+[INFO] [1794797124.506327089] [gz_ros_control]: Loading joint: panda_joint2
+[INFO] [1794797124.506409172] [gz_ros_control]: 	State:
+[INFO] [1794797124.506508214] [gz_ros_control]: 		 position
+[INFO] [1794797124.506588130] [gz_ros_control]: 			 found initial value: -0.500000
+[INFO] [1794797124.506661047] [gz_ros_control]: 		 velocity
+[INFO] [1794797124.506745005] [gz_ros_control]: 	Command:
+[INFO] [1794797124.506817255] [gz_ros_control]: 		 position
+[INFO] [1794797124.506903214] [gz_ros_control]: Loading joint: panda_joint3
+[INFO] [1794797124.506978005] [gz_ros_control]: 	State:
+[INFO] [1794797124.507045005] [gz_ros_control]: 		 position
+[INFO] [1794797124.507118672] [gz_ros_control]: 			 found initial value: 0.000000
+[INFO] [1794797124.507178714] [gz_ros_control]: 		 velocity
+[INFO] [1794797124.507250547] [gz_ros_control]: 	Command:
+[INFO] [1794797124.507315589] [gz_ros_control]: 		 position
+[INFO] [1794797124.507387089] [gz_ros_control]: Loading joint: panda_joint4
+[INFO] [1794797124.507462714] [gz_ros_control]: 	State:
+[INFO] [1794797124.507518005] [gz_ros_control]: 		 position
+[INFO] [1794797124.507586464] [gz_ros_control]: 			 found initial value: -2.000000
+[INFO] [1794797124.507696755] [gz_ros_control]: 		 velocity
+[INFO] [1794797124.507782880] [gz_ros_control]: 	Command:
+[INFO] [1794797124.507858255] [gz_ros_control]: 		 position
+[INFO] [1794797124.507947547] [gz_ros_control]: Loading joint: panda_joint5
+[INFO] [1794797124.508004047] [gz_ros_control]: 	State:
+[INFO] [1794797124.508059672] [gz_ros_control]: 		 position
+[INFO] [1794797124.508175422] [gz_ros_control]: 			 found initial value: 0.000000
+[INFO] [1794797124.508246672] [gz_ros_control]: 		 velocity
+[INFO] [1794797124.508299714] [gz_ros_control]: 	Command:
+[INFO] [1794797124.508393005] [gz_ros_control]: 		 position
+[INFO] [1794797124.508505130] [gz_ros_control]: Loading joint: panda_joint6
+[INFO] [1794797124.508608255] [gz_ros_control]: 	State:
+[INFO] [1794797124.508792422] [gz_ros_control]: 		 position
+[INFO] [1794797124.509014880] [gz_ros_control]: 			 found initial value: 1.500000
+[INFO] [1794797124.509090922] [gz_ros_control]: 		 velocity
+[INFO] [1794797124.509266547] [gz_ros_control]: 	Command:
+[INFO] [1794797124.509340380] [gz_ros_control]: 		 position
+[INFO] [1794797124.509446047] [gz_ros_control]: Loading joint: panda_joint7
+[INFO] [1794797124.509527672] [gz_ros_control]: 	State:
+[INFO] [1794797124.509593755] [gz_ros_control]: 		 position
+[INFO] [1794797124.509679047] [gz_ros_control]: 			 found initial value: 0.785398
+[INFO] [1794797124.509893755] [gz_ros_control]: 		 velocity
+[INFO] [1794797124.509977797] [gz_ros_control]: 	Command:
+[INFO] [1794797124.510055380] [gz_ros_control]: 		 position
+[INFO] [1794797124.510573964] [controller_manager]: Initialize hardware 'GazeboSystem' 
+[WARN] [1794797124.510740380] [controller_manager.hardware_component.system.GazeboSystem]: Executor is not available during hardware component initialization for 'GazeboSystem'. Skipping node creation!
+[INFO] [1794797124.511070630] [controller_manager]: Successful initialization of hardware 'GazeboSystem'
+[INFO] [1794797124.512585755] [controller_manager]: Activating component 'GazeboSystem'.
+[INFO] [1794797124.512986547] [resource_manager]: 'configure' hardware 'GazeboSystem' 
+[INFO] [1794797124.513177797] [gz_ros_control]: System Successfully configured!
+[INFO] [1794797124.513457797] [resource_manager]: Successful 'configure' of hardware 'GazeboSystem'
+[INFO] [1794797124.515584172] [resource_manager]: 'activate' hardware 'GazeboSystem' 
+[INFO] [1794797124.517211922] [resource_manager]: Successful 'activate' of hardware 'GazeboSystem'
+[WARN] [1794797124.518579422] [controller_manager]: Component 'GazeboSystem' does not have read or write statistics initialized, skipping registration.
+[INFO] [1794797124.519344172] [controller_manager]: Resource Manager has been successfully initialized. Starting Controller Manager services...
+[INFO] [1794797124.588281214] [controller_manager]: Loading controller : 'joint_state_broadcaster' of type 'joint_state_broadcaster/JointStateBroadcaster'
+[INFO] [1794797124.590020464] [controller_manager]: Loading controller 'joint_state_broadcaster'
+[INFO] [1794797124.610524464] [controller_manager]: Controller 'joint_state_broadcaster' node arguments: --ros-args --params-file /project/config/controllers.yaml -p use_sim_time:=true --param use_sim_time:=true 
+[INFO] [1794797124.686068630] [controller_manager]: Configuring controller: 'joint_state_broadcaster'
+[INFO] [1794797124.687344505] [joint_state_broadcaster]: 'joints' or 'interfaces' parameter is empty. All available state interfaces will be published
+[INFO] [1794797124.802455839] [controller_manager]: Activating controllers: [ joint_state_broadcaster ]
+[WARN] [1794797126.786552465] [gz_ros_control]:  Desired controller update period (0.004 s) is slower than the gazebo simulation period (0.002 s).
+[INFO] [1794797126.803357298] [controller_manager]: Successfully switched controllers!
+[1;33m[Wrn] [Ogre2Camera.cc:423] [0m[1;33mOgre2Camera::SetVisibilityMask: Mask bits [0m[1;33mc0000000[0m[1;33m are set but will be ignored as they conflict with the [0m[1;33mreserved bits used internally by the ogre2 backend.[0m[1;33m[0m
+[1;33m[Wrn] [Ogre2RenderTarget.cc:668] [0m[1;33mAnti-aliasing level of '[0m[1;33m[0m[1;33m' [0m[1;33mis not supported; valid FSAA levels are: [0m[1;33m[ 0 ][0m[1;33m. Setting to 1[0m[1;33m[0m
+[0m[1;32mServing world SDF generation service on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mgenerate_world_sdf[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing world names on [[0m[1;32m/gazebo/worlds[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mResource path add service on [[0m[1;32m/gazebo/resource_paths/add[0m[1;32m].[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mResource path get service on [[0m[1;32m/gazebo/resource_paths/get[0m[1;32m].[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mResource path resolve service on [[0m[1;32m/gazebo/resource_paths/resolve[0m[1;32m].[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mResource paths published on [[0m[1;32m/gazebo/resource_paths[0m[1;32m].[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServer control service on [[0m[1;32m/server_control[0m[1;32m].[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mFound no publishers on /stats, adding root stats topic[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mFound no publishers on /clock, adding root clock topic[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mContact system publishing on [0m[1;32mworld/rgb_sorting/model/panda/link/suction_cup/sensor/suction_contact/contact[0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mEnabled contact surface customization for world entity [[0m[1;32m1[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mEnabling contact surface customization for collision [[0m[1;32mcollision[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mLoading plugin [[0m[1;32mgz-rendering-ogre2[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing scene information on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mscene/info[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing graph information on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mscene/graph[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing full state on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mstate[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mServing full state (async) on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mstate_async[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPublishing scene information on [[0m[1;32m/world/rgb_sorting/scene/info[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPublishing entity deletions on [[0m[1;32m/world/rgb_sorting/scene/deletion[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPublishing state changes on [[0m[1;32m/world/rgb_sorting/state[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPublishing pose messages on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mpose/info[0m[1;32m][0m[1;32m[0m
+[1;32m[Msg] [0m[1;32mPublishing dynamic pose messages on [[0m[1;32m/world/rgb_sorting[0m[1;32m/[0m[1;32mdynamic_pose/info[0m[1;32m][0m[1;32m[0m
+[INFO] [1794797129.687957258] [controller_manager]: Loading controller : 'arm_controller' of type 'joint_trajectory_controller/JointTrajectoryController'
+[INFO] [1794797129.689904799] [controller_manager]: Loading controller 'arm_controller'
+[INFO] [1794797129.711894049] [controller_manager]: Controller 'arm_controller' node arguments: --ros-args --params-file /project/config/controllers.yaml -p use_sim_time:=true --param use_sim_time:=true 
+[INFO] [1794797129.780315424] [controller_manager]: Configuring controller: 'arm_controller'
+[INFO] [1794797129.781175341] [arm_controller]: No specific joint names are used for command interfaces. Using 'joints' parameter.
+[INFO] [1794797129.782105966] [arm_controller]: Command interfaces are [position] and state interfaces are [position velocity].
+[INFO] [1794797129.782412299] [arm_controller]: Using 'splines' interpolation method.
+[INFO] [1794797129.790131424] [arm_controller]: Action status changes will be monitored at 20.00 Hz.
+[INFO] [1794797129.817420258] [arm_controller]: Setting initial scaling factor to 1.000000
+[INFO] [1794797129.818001549] [arm_controller]: No scaling interface set. This controller will not read speed scaling from the hardware.
+[INFO] [1794797129.822158424] [controller_manager]: Activating controllers: [ arm_controller ]
+[INFO] [1794797129.827557341] [controller_manager]: Successfully switched controllers!
+[INFO] [1794797136.831604303] [controller_manager.pal_statistics]: Async messages lost 0
+[INFO] [1794797136.832574886] [controller_manager.pal_statistics]: publish_async_failures_ 0
+[INFO] [1794797136.837118511] [controller_manager.pal_statistics]: Async messages lost 0
+[INFO] [1794797136.837270678] [controller_manager.pal_statistics]: publish_async_failures_ 1
